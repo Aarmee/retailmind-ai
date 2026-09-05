@@ -1,0 +1,418 @@
+{
+  "document": "invoice_0033.png",
+  "layout": "supermarket_gst",
+  "width": 875,
+  "height": 400,
+  "tokens": [
+    {
+      "text": "Grand",
+      "label": "SUPPLIER",
+      "bbox": [
+        339,
+        24,
+        389,
+        36
+      ]
+    },
+    {
+      "text": "Wholesale",
+      "label": "SUPPLIER",
+      "bbox": [
+        393,
+        24,
+        477,
+        36
+      ]
+    },
+    {
+      "text": "Stores",
+      "label": "SUPPLIER",
+      "bbox": [
+        481,
+        24,
+        534,
+        36
+      ]
+    },
+    {
+      "text": "370,",
+      "label": "O",
+      "bbox": [
+        361,
+        45,
+        382,
+        55
+      ]
+    },
+    {
+      "text": "Gandhi",
+      "label": "O",
+      "bbox": [
+        386,
+        45,
+        422,
+        53
+      ]
+    },
+    {
+      "text": "Nagar,",
+      "label": "O",
+      "bbox": [
+        426,
+        45,
+        458,
+        55
+      ]
+    },
+    {
+      "text": "Hyderabad",
+      "label": "O",
+      "bbox": [
+        462,
+        45,
+        516,
+        55
+      ]
+    },
+    {
+      "text": "GSTIN:",
+      "label": "O",
+      "bbox": [
+        367,
+        63,
+        404,
+        71
+      ]
+    },
+    {
+      "text": "18HMBLK8933U6ZJ",
+      "label": "O",
+      "bbox": [
+        408,
+        63,
+        509,
+        71
+      ]
+    },
+    {
+      "text": "Bill No:",
+      "label": "O",
+      "bbox": [
+        42,
+        95,
+        77,
+        103
+      ]
+    },
+    {
+      "text": "RET-235-2430",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        81,
+        95,
+        153,
+        103
+      ]
+    },
+    {
+      "text": "Bill Dt:",
+      "label": "O",
+      "bbox": [
+        736,
+        95,
+        768,
+        103
+      ]
+    },
+    {
+      "text": "06 Jul 2025",
+      "label": "DATE",
+      "bbox": [
+        772,
+        95,
+        831,
+        103
+      ]
+    },
+    {
+      "text": "Description",
+      "label": "O",
+      "bbox": [
+        42,
+        117,
+        103,
+        127
+      ]
+    },
+    {
+      "text": "Qty",
+      "label": "O",
+      "bbox": [
+        437,
+        117,
+        455,
+        127
+      ]
+    },
+    {
+      "text": "Price",
+      "label": "O",
+      "bbox": [
+        569,
+        117,
+        596,
+        125
+      ]
+    },
+    {
+      "text": "Amount",
+      "label": "O",
+      "bbox": [
+        701,
+        117,
+        743,
+        125
+      ]
+    },
+    {
+      "text": "India",
+      "label": "PRODUCT",
+      "bbox": [
+        42,
+        138,
+        66,
+        146
+      ]
+    },
+    {
+      "text": "Gate",
+      "label": "PRODUCT",
+      "bbox": [
+        70,
+        138,
+        94,
+        146
+      ]
+    },
+    {
+      "text": "Rice",
+      "label": "PRODUCT",
+      "bbox": [
+        98,
+        138,
+        120,
+        146
+      ]
+    },
+    {
+      "text": "5kg",
+      "label": "PRODUCT",
+      "bbox": [
+        124,
+        138,
+        142,
+        148
+      ]
+    },
+    {
+      "text": "3",
+      "label": "QUANTITY",
+      "bbox": [
+        437,
+        138,
+        443,
+        146
+      ]
+    },
+    {
+      "text": "432.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        569,
+        138,
+        603,
+        146
+      ]
+    },
+    {
+      "text": "1,297.50",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        701,
+        138,
+        744,
+        148
+      ]
+    },
+    {
+      "text": "Fortune",
+      "label": "PRODUCT",
+      "bbox": [
+        42,
+        156,
+        80,
+        164
+      ]
+    },
+    {
+      "text": "Sunflower",
+      "label": "PRODUCT",
+      "bbox": [
+        84,
+        156,
+        133,
+        164
+      ]
+    },
+    {
+      "text": "Oil",
+      "label": "PRODUCT",
+      "bbox": [
+        137,
+        156,
+        150,
+        164
+      ]
+    },
+    {
+      "text": "1L",
+      "label": "PRODUCT",
+      "bbox": [
+        154,
+        156,
+        166,
+        164
+      ]
+    },
+    {
+      "text": "0.25",
+      "label": "QUANTITY",
+      "bbox": [
+        437,
+        156,
+        458,
+        164
+      ]
+    },
+    {
+      "text": "197",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        569,
+        156,
+        587,
+        164
+      ]
+    },
+    {
+      "text": "Rs. 49.25",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        701,
+        156,
+        748,
+        164
+      ]
+    },
+    {
+      "text": "Subtotal:",
+      "label": "O",
+      "bbox": [
+        673,
+        180,
+        716,
+        188
+      ]
+    },
+    {
+      "text": "1346.75",
+      "label": "SUBTOTAL",
+      "bbox": [
+        783,
+        180,
+        823,
+        188
+      ]
+    },
+    {
+      "text": "Disc (10%):",
+      "label": "O",
+      "bbox": [
+        673,
+        198,
+        730,
+        208
+      ]
+    },
+    {
+      "text": "134.68",
+      "label": "DISCOUNT",
+      "bbox": [
+        789,
+        198,
+        823,
+        206
+      ]
+    },
+    {
+      "text": "TOTAL:",
+      "label": "O",
+      "bbox": [
+        673,
+        219,
+        712,
+        227
+      ]
+    },
+    {
+      "text": "₹1212.07",
+      "label": "TOTAL",
+      "bbox": [
+        777,
+        219,
+        823,
+        227
+      ]
+    },
+    {
+      "text": "Cash:",
+      "label": "O",
+      "bbox": [
+        673,
+        237,
+        702,
+        245
+      ]
+    },
+    {
+      "text": "606.03",
+      "label": "PAID",
+      "bbox": [
+        789,
+        237,
+        823,
+        245
+      ]
+    },
+    {
+      "text": "Balance:",
+      "label": "O",
+      "bbox": [
+        673,
+        255,
+        716,
+        263
+      ]
+    },
+    {
+      "text": "Rs. 606.04",
+      "label": "DUE",
+      "bbox": [
+        769,
+        255,
+        823,
+        263
+      ]
+    }
+  ]
+}

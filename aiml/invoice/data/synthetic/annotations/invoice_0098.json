@@ -1,0 +1,208 @@
+{
+  "document": "invoice_0098.png",
+  "layout": "thermal_receipt",
+  "width": 412,
+  "height": 280,
+  "tokens": [
+    {
+      "text": "Balaji",
+      "label": "SUPPLIER",
+      "bbox": [
+        132,
+        17,
+        179,
+        27
+      ]
+    },
+    {
+      "text": "Retail",
+      "label": "SUPPLIER",
+      "bbox": [
+        183,
+        17,
+        230,
+        25
+      ]
+    },
+    {
+      "text": "&",
+      "label": "SUPPLIER",
+      "bbox": [
+        234,
+        17,
+        242,
+        25
+      ]
+    },
+    {
+      "text": "Co.",
+      "label": "SUPPLIER",
+      "bbox": [
+        246,
+        17,
+        269,
+        25
+      ]
+    },
+    {
+      "text": "Visakhapatnam",
+      "label": "O",
+      "bbox": [
+        170,
+        33,
+        241,
+        41
+      ]
+    },
+    {
+      "text": "Bill#:",
+      "label": "O",
+      "bbox": [
+        20,
+        63,
+        52,
+        70
+      ]
+    },
+    {
+      "text": "INV/2024/7008",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        56,
+        63,
+        126,
+        70
+      ]
+    },
+    {
+      "text": "10/10/2022",
+      "label": "DATE",
+      "bbox": [
+        338,
+        63,
+        392,
+        70
+      ]
+    },
+    {
+      "text": "Dove",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        93,
+        42,
+        99
+      ]
+    },
+    {
+      "text": "Soap",
+      "label": "PRODUCT",
+      "bbox": [
+        46,
+        93,
+        68,
+        101
+      ]
+    },
+    {
+      "text": "100g",
+      "label": "PRODUCT",
+      "bbox": [
+        72,
+        93,
+        94,
+        101
+      ]
+    },
+    {
+      "text": "2",
+      "label": "QUANTITY",
+      "bbox": [
+        31,
+        108,
+        36,
+        114
+      ]
+    },
+    {
+      "text": "52.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        52,
+        108,
+        79,
+        114
+      ]
+    },
+    {
+      "text": "104.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        360,
+        108,
+        392,
+        114
+      ]
+    },
+    {
+      "text": "Subtotal",
+      "label": "O",
+      "bbox": [
+        20,
+        138,
+        63,
+        144
+      ]
+    },
+    {
+      "text": "Rs. 104.00",
+      "label": "SUBTOTAL",
+      "bbox": [
+        338,
+        138,
+        392,
+        144
+      ]
+    },
+    {
+      "text": "TOTAL",
+      "label": "O",
+      "bbox": [
+        20,
+        168,
+        47,
+        174
+      ]
+    },
+    {
+      "text": "104",
+      "label": "TOTAL",
+      "bbox": [
+        376,
+        168,
+        392,
+        174
+      ]
+    },
+    {
+      "text": "PAID",
+      "label": "O",
+      "bbox": [
+        20,
+        183,
+        42,
+        189
+      ]
+    },
+    {
+      "text": "104",
+      "label": "PAID",
+      "bbox": [
+        376,
+        183,
+        392,
+        189
+      ]
+    }
+  ]
+}

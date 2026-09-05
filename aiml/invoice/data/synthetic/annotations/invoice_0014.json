@@ -1,0 +1,308 @@
+{
+  "document": "invoice_0014.png",
+  "layout": "kirana_bill",
+  "width": 644,
+  "height": 400,
+  "tokens": [
+    {
+      "text": "India",
+      "label": "SUPPLIER",
+      "bbox": [
+        268,
+        21,
+        310,
+        35
+      ]
+    },
+    {
+      "text": "Traders",
+      "label": "SUPPLIER",
+      "bbox": [
+        314,
+        21,
+        375,
+        35
+      ]
+    },
+    {
+      "text": "71,",
+      "label": "O",
+      "bbox": [
+        277,
+        46,
+        295,
+        57
+      ]
+    },
+    {
+      "text": "Nehru",
+      "label": "O",
+      "bbox": [
+        299,
+        45,
+        335,
+        55
+      ]
+    },
+    {
+      "text": "Marg",
+      "label": "O",
+      "bbox": [
+        339,
+        46,
+        369,
+        58
+      ]
+    },
+    {
+      "text": "Bill To:",
+      "label": "O",
+      "bbox": [
+        32,
+        76,
+        69,
+        86
+      ]
+    },
+    {
+      "text": "Kavita",
+      "label": "CUSTOMER",
+      "bbox": [
+        75,
+        77,
+        113,
+        87
+      ]
+    },
+    {
+      "text": "Agarwal",
+      "label": "CUSTOMER",
+      "bbox": [
+        117,
+        77,
+        168,
+        90
+      ]
+    },
+    {
+      "text": "Date:",
+      "label": "O",
+      "bbox": [
+        502,
+        77,
+        532,
+        86
+      ]
+    },
+    {
+      "text": "15/03/2024",
+      "label": "DATE",
+      "bbox": [
+        536,
+        76,
+        610,
+        89
+      ]
+    },
+    {
+      "text": "No:",
+      "label": "O",
+      "bbox": [
+        32,
+        100,
+        52,
+        109
+      ]
+    },
+    {
+      "text": "INV2646",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        56,
+        101,
+        109,
+        110
+      ]
+    },
+    {
+      "text": "Thums",
+      "label": "PRODUCT",
+      "bbox": [
+        32,
+        130,
+        70,
+        140
+      ]
+    },
+    {
+      "text": "Up",
+      "label": "PRODUCT",
+      "bbox": [
+        74,
+        131,
+        90,
+        143
+      ]
+    },
+    {
+      "text": "2L",
+      "label": "PRODUCT",
+      "bbox": [
+        94,
+        131,
+        107,
+        140
+      ]
+    },
+    {
+      "text": "190.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        275,
+        131,
+        314,
+        140
+      ]
+    },
+    {
+      "text": "0.25",
+      "label": "QUANTITY",
+      "bbox": [
+        387,
+        131,
+        412,
+        140
+      ]
+    },
+    {
+      "text": "47.62",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        499,
+        131,
+        531,
+        140
+      ]
+    },
+    {
+      "text": "Sub Total :",
+      "label": "O",
+      "bbox": [
+        322,
+        159,
+        381,
+        169
+      ]
+    },
+    {
+      "text": "Rs. 47.62",
+      "label": "SUBTOTAL",
+      "bbox": [
+        556,
+        161,
+        612,
+        170
+      ]
+    },
+    {
+      "text": "Discount :",
+      "label": "O",
+      "bbox": [
+        322,
+        182,
+        379,
+        192
+      ]
+    },
+    {
+      "text": "₹4.76",
+      "label": "DISCOUNT",
+      "bbox": [
+        578,
+        184,
+        612,
+        193
+      ]
+    },
+    {
+      "text": "GST 18% :",
+      "label": "O",
+      "bbox": [
+        322,
+        206,
+        378,
+        215
+      ]
+    },
+    {
+      "text": "Rs. 7.71",
+      "label": "O",
+      "bbox": [
+        563,
+        207,
+        612,
+        216
+      ]
+    },
+    {
+      "text": "Net Amount :",
+      "label": "O",
+      "bbox": [
+        322,
+        229,
+        399,
+        238
+      ]
+    },
+    {
+      "text": "₹50.57",
+      "label": "TOTAL",
+      "bbox": [
+        570,
+        230,
+        612,
+        239
+      ]
+    },
+    {
+      "text": "Received   :",
+      "label": "O",
+      "bbox": [
+        322,
+        251,
+        386,
+        261
+      ]
+    },
+    {
+      "text": "25.29",
+      "label": "PAID",
+      "bbox": [
+        578,
+        253,
+        612,
+        262
+      ]
+    },
+    {
+      "text": "Balance    :",
+      "label": "O",
+      "bbox": [
+        322,
+        274,
+        383,
+        284
+      ]
+    },
+    {
+      "text": "Rs. 25.28",
+      "label": "DUE",
+      "bbox": [
+        556,
+        276,
+        612,
+        285
+      ]
+    }
+  ]
+}

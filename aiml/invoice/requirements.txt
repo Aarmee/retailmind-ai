@@ -1,0 +1,11 @@
+opencv-python
+pytesseract
+Pillow
+pandas
+numpy
+torch
+transformers
+datasets
+seqeval
+scikit-learn
+joblib

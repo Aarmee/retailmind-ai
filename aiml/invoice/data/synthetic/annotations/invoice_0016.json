@@ -1,0 +1,848 @@
+{
+  "document": "invoice_0016.png",
+  "layout": "table_invoice",
+  "width": 904,
+  "height": 500,
+  "tokens": [
+    {
+      "text": "TAX",
+      "label": "O",
+      "bbox": [
+        389,
+        24,
+        428,
+        39
+      ]
+    },
+    {
+      "text": "INVOICE",
+      "label": "O",
+      "bbox": [
+        432,
+        24,
+        514,
+        39
+      ]
+    },
+    {
+      "text": "Durga",
+      "label": "SUPPLIER",
+      "bbox": [
+        51,
+        54,
+        86,
+        65
+      ]
+    },
+    {
+      "text": "Enterprises",
+      "label": "SUPPLIER",
+      "bbox": [
+        90,
+        54,
+        156,
+        65
+      ]
+    },
+    {
+      "text": "Pvt.",
+      "label": "SUPPLIER",
+      "bbox": [
+        160,
+        54,
+        182,
+        63
+      ]
+    },
+    {
+      "text": "Ltd.",
+      "label": "SUPPLIER",
+      "bbox": [
+        186,
+        54,
+        208,
+        63
+      ]
+    },
+    {
+      "text": "707,",
+      "label": "O",
+      "bbox": [
+        51,
+        78,
+        74,
+        89
+      ]
+    },
+    {
+      "text": "Market",
+      "label": "O",
+      "bbox": [
+        78,
+        77,
+        115,
+        87
+      ]
+    },
+    {
+      "text": "Street",
+      "label": "O",
+      "bbox": [
+        119,
+        77,
+        152,
+        87
+      ]
+    },
+    {
+      "text": "Nagpur",
+      "label": "O",
+      "bbox": [
+        51,
+        102,
+        91,
+        113
+      ]
+    },
+    {
+      "text": "Bill No.:",
+      "label": "O",
+      "bbox": [
+        460,
+        54,
+        501,
+        63
+      ]
+    },
+    {
+      "text": "INV7018",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        505,
+        54,
+        552,
+        63
+      ]
+    },
+    {
+      "text": "Invoice Date:",
+      "label": "O",
+      "bbox": [
+        460,
+        77,
+        530,
+        87
+      ]
+    },
+    {
+      "text": "18/11/2024",
+      "label": "DATE",
+      "bbox": [
+        534,
+        78,
+        594,
+        87
+      ]
+    },
+    {
+      "text": "Bill To:",
+      "label": "O",
+      "bbox": [
+        460,
+        102,
+        495,
+        111
+      ]
+    },
+    {
+      "text": "Rajan",
+      "label": "CUSTOMER",
+      "bbox": [
+        499,
+        102,
+        532,
+        113
+      ]
+    },
+    {
+      "text": "Yadav",
+      "label": "CUSTOMER",
+      "bbox": [
+        535,
+        102,
+        571,
+        111
+      ]
+    },
+    {
+      "text": "S.No.",
+      "label": "O",
+      "bbox": [
+        49,
+        136,
+        80,
+        145
+      ]
+    },
+    {
+      "text": "Product Description",
+      "label": "O",
+      "bbox": [
+        89,
+        136,
+        204,
+        147
+      ]
+    },
+    {
+      "text": "Qty",
+      "label": "O",
+      "bbox": [
+        398,
+        136,
+        418,
+        147
+      ]
+    },
+    {
+      "text": "Unit",
+      "label": "O",
+      "bbox": [
+        514,
+        136,
+        537,
+        145
+      ]
+    },
+    {
+      "text": "Unit Price",
+      "label": "O",
+      "bbox": [
+        630,
+        136,
+        686,
+        145
+      ]
+    },
+    {
+      "text": "Total",
+      "label": "O",
+      "bbox": [
+        746,
+        136,
+        774,
+        145
+      ]
+    },
+    {
+      "text": "Red",
+      "label": "PRODUCT",
+      "bbox": [
+        89,
+        160,
+        111,
+        169
+      ]
+    },
+    {
+      "text": "Label",
+      "label": "PRODUCT",
+      "bbox": [
+        115,
+        160,
+        144,
+        169
+      ]
+    },
+    {
+      "text": "Tea",
+      "label": "PRODUCT",
+      "bbox": [
+        148,
+        160,
+        168,
+        169
+      ]
+    },
+    {
+      "text": "250g",
+      "label": "PRODUCT",
+      "bbox": [
+        172,
+        160,
+        199,
+        171
+      ]
+    },
+    {
+      "text": "2",
+      "label": "QUANTITY",
+      "bbox": [
+        398,
+        160,
+        405,
+        169
+      ]
+    },
+    {
+      "text": "pcs",
+      "label": "UNIT",
+      "bbox": [
+        514,
+        162,
+        533,
+        171
+      ]
+    },
+    {
+      "text": "394.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        630,
+        160,
+        667,
+        169
+      ]
+    },
+    {
+      "text": "Rs. 789.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        746,
+        160,
+        804,
+        169
+      ]
+    },
+    {
+      "text": "Naturo",
+      "label": "PRODUCT",
+      "bbox": [
+        89,
+        183,
+        125,
+        193
+      ]
+    },
+    {
+      "text": "Cane",
+      "label": "PRODUCT",
+      "bbox": [
+        129,
+        184,
+        158,
+        193
+      ]
+    },
+    {
+      "text": "Sugar",
+      "label": "PRODUCT",
+      "bbox": [
+        162,
+        184,
+        195,
+        195
+      ]
+    },
+    {
+      "text": "500g",
+      "label": "PRODUCT",
+      "bbox": [
+        199,
+        184,
+        226,
+        195
+      ]
+    },
+    {
+      "text": "1",
+      "label": "QUANTITY",
+      "bbox": [
+        398,
+        184,
+        405,
+        193
+      ]
+    },
+    {
+      "text": "L",
+      "label": "UNIT",
+      "bbox": [
+        514,
+        184,
+        521,
+        193
+      ]
+    },
+    {
+      "text": "Rs. 39.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        630,
+        184,
+        682,
+        193
+      ]
+    },
+    {
+      "text": "₹39.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        746,
+        184,
+        783,
+        193
+      ]
+    },
+    {
+      "text": "Dhara",
+      "label": "PRODUCT",
+      "bbox": [
+        89,
+        208,
+        122,
+        217
+      ]
+    },
+    {
+      "text": "Mustard",
+      "label": "PRODUCT",
+      "bbox": [
+        126,
+        207,
+        169,
+        217
+      ]
+    },
+    {
+      "text": "Oil",
+      "label": "PRODUCT",
+      "bbox": [
+        173,
+        208,
+        188,
+        217
+      ]
+    },
+    {
+      "text": "1L",
+      "label": "PRODUCT",
+      "bbox": [
+        192,
+        208,
+        206,
+        217
+      ]
+    },
+    {
+      "text": "3",
+      "label": "QUANTITY",
+      "bbox": [
+        398,
+        208,
+        405,
+        217
+      ]
+    },
+    {
+      "text": "L",
+      "label": "UNIT",
+      "bbox": [
+        514,
+        208,
+        521,
+        217
+      ]
+    },
+    {
+      "text": "407.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        630,
+        208,
+        667,
+        217
+      ]
+    },
+    {
+      "text": "1,222.50",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        746,
+        208,
+        793,
+        219
+      ]
+    },
+    {
+      "text": "Whisper",
+      "label": "PRODUCT",
+      "bbox": [
+        89,
+        232,
+        134,
+        243
+      ]
+    },
+    {
+      "text": "Ultra",
+      "label": "PRODUCT",
+      "bbox": [
+        138,
+        231,
+        164,
+        241
+      ]
+    },
+    {
+      "text": "15pc",
+      "label": "PRODUCT",
+      "bbox": [
+        168,
+        232,
+        194,
+        243
+      ]
+    },
+    {
+      "text": "0.5",
+      "label": "QUANTITY",
+      "bbox": [
+        398,
+        232,
+        415,
+        241
+      ]
+    },
+    {
+      "text": "g",
+      "label": "UNIT",
+      "bbox": [
+        514,
+        234,
+        521,
+        243
+      ]
+    },
+    {
+      "text": "395.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        630,
+        232,
+        667,
+        241
+      ]
+    },
+    {
+      "text": "Rs. 197.75",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        746,
+        232,
+        804,
+        241
+      ]
+    },
+    {
+      "text": "Bingo",
+      "label": "PRODUCT",
+      "bbox": [
+        89,
+        256,
+        120,
+        267
+      ]
+    },
+    {
+      "text": "Mad",
+      "label": "PRODUCT",
+      "bbox": [
+        124,
+        256,
+        147,
+        265
+      ]
+    },
+    {
+      "text": "Angles",
+      "label": "PRODUCT",
+      "bbox": [
+        150,
+        256,
+        188,
+        267
+      ]
+    },
+    {
+      "text": "90g",
+      "label": "PRODUCT",
+      "bbox": [
+        192,
+        256,
+        212,
+        267
+      ]
+    },
+    {
+      "text": "10",
+      "label": "QUANTITY",
+      "bbox": [
+        398,
+        256,
+        412,
+        265
+      ]
+    },
+    {
+      "text": "ml",
+      "label": "UNIT",
+      "bbox": [
+        514,
+        256,
+        527,
+        265
+      ]
+    },
+    {
+      "text": "430.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        630,
+        256,
+        667,
+        265
+      ]
+    },
+    {
+      "text": "4300",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        746,
+        256,
+        773,
+        265
+      ]
+    },
+    {
+      "text": "Fortune",
+      "label": "PRODUCT",
+      "bbox": [
+        89,
+        279,
+        131,
+        289
+      ]
+    },
+    {
+      "text": "Sunflower",
+      "label": "PRODUCT",
+      "bbox": [
+        135,
+        280,
+        189,
+        289
+      ]
+    },
+    {
+      "text": "Oil",
+      "label": "PRODUCT",
+      "bbox": [
+        193,
+        280,
+        208,
+        289
+      ]
+    },
+    {
+      "text": "1L",
+      "label": "PRODUCT",
+      "bbox": [
+        212,
+        280,
+        226,
+        289
+      ]
+    },
+    {
+      "text": "0.5",
+      "label": "QUANTITY",
+      "bbox": [
+        398,
+        280,
+        415,
+        289
+      ]
+    },
+    {
+      "text": "dozen",
+      "label": "UNIT",
+      "bbox": [
+        514,
+        280,
+        547,
+        289
+      ]
+    },
+    {
+      "text": "129.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        630,
+        280,
+        667,
+        289
+      ]
+    },
+    {
+      "text": "64.50",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        746,
+        280,
+        776,
+        289
+      ]
+    },
+    {
+      "text": "Vim",
+      "label": "PRODUCT",
+      "bbox": [
+        89,
+        304,
+        109,
+        313
+      ]
+    },
+    {
+      "text": "Dishwash",
+      "label": "PRODUCT",
+      "bbox": [
+        113,
+        304,
+        165,
+        313
+      ]
+    },
+    {
+      "text": "Bar",
+      "label": "PRODUCT",
+      "bbox": [
+        169,
+        304,
+        189,
+        313
+      ]
+    },
+    {
+      "text": "200g",
+      "label": "PRODUCT",
+      "bbox": [
+        193,
+        304,
+        220,
+        315
+      ]
+    },
+    {
+      "text": "1",
+      "label": "QUANTITY",
+      "bbox": [
+        398,
+        304,
+        405,
+        313
+      ]
+    },
+    {
+      "text": "pcs",
+      "label": "UNIT",
+      "bbox": [
+        514,
+        306,
+        533,
+        315
+      ]
+    },
+    {
+      "text": "70.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        630,
+        304,
+        660,
+        313
+      ]
+    },
+    {
+      "text": "₹70.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        746,
+        304,
+        783,
+        313
+      ]
+    },
+    {
+      "text": "Subtotal :",
+      "label": "O",
+      "bbox": [
+        603,
+        334,
+        654,
+        344
+      ]
+    },
+    {
+      "text": "Rs. 6682.75",
+      "label": "SUBTOTAL",
+      "bbox": [
+        790,
+        335,
+        855,
+        344
+      ]
+    },
+    {
+      "text": "Total :",
+      "label": "O",
+      "bbox": [
+        603,
+        356,
+        635,
+        366
+      ]
+    },
+    {
+      "text": "6682.75",
+      "label": "TOTAL",
+      "bbox": [
+        811,
+        357,
+        855,
+        366
+      ]
+    },
+    {
+      "text": "Paid  :",
+      "label": "O",
+      "bbox": [
+        603,
+        379,
+        637,
+        388
+      ]
+    },
+    {
+      "text": "6682.75",
+      "label": "PAID",
+      "bbox": [
+        811,
+        379,
+        855,
+        388
+      ]
+    }
+  ]
+}

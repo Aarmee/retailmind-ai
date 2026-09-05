@@ -1,0 +1,428 @@
+{
+  "document": "invoice_0079.png",
+  "layout": "kirana_bill",
+  "width": 714,
+  "height": 400,
+  "tokens": [
+    {
+      "text": "Metro",
+      "label": "SUPPLIER",
+      "bbox": [
+        281,
+        24,
+        335,
+        39
+      ]
+    },
+    {
+      "text": "Provision",
+      "label": "SUPPLIER",
+      "bbox": [
+        339,
+        24,
+        430,
+        39
+      ]
+    },
+    {
+      "text": "945,",
+      "label": "O",
+      "bbox": [
+        293,
+        47,
+        320,
+        59
+      ]
+    },
+    {
+      "text": "Laxmi",
+      "label": "O",
+      "bbox": [
+        324,
+        47,
+        361,
+        57
+      ]
+    },
+    {
+      "text": "Bai",
+      "label": "O",
+      "bbox": [
+        365,
+        47,
+        385,
+        57
+      ]
+    },
+    {
+      "text": "Marg",
+      "label": "O",
+      "bbox": [
+        389,
+        47,
+        421,
+        60
+      ]
+    },
+    {
+      "text": "Bill To:",
+      "label": "O",
+      "bbox": [
+        30,
+        78,
+        71,
+        88
+      ]
+    },
+    {
+      "text": "Amit",
+      "label": "CUSTOMER",
+      "bbox": [
+        77,
+        78,
+        110,
+        89
+      ]
+    },
+    {
+      "text": "Patel",
+      "label": "CUSTOMER",
+      "bbox": [
+        114,
+        78,
+        150,
+        89
+      ]
+    },
+    {
+      "text": "Date:",
+      "label": "O",
+      "bbox": [
+        571,
+        77,
+        604,
+        88
+      ]
+    },
+    {
+      "text": "11.01.2024",
+      "label": "DATE",
+      "bbox": [
+        608,
+        78,
+        682,
+        89
+      ]
+    },
+    {
+      "text": "Bill No:",
+      "label": "O",
+      "bbox": [
+        30,
+        101,
+        74,
+        111
+      ]
+    },
+    {
+      "text": "RET-491-7366",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        78,
+        101,
+        176,
+        112
+      ]
+    },
+    {
+      "text": "Lay's",
+      "label": "PRODUCT",
+      "bbox": [
+        30,
+        132,
+        62,
+        145
+      ]
+    },
+    {
+      "text": "Classic",
+      "label": "PRODUCT",
+      "bbox": [
+        66,
+        132,
+        111,
+        142
+      ]
+    },
+    {
+      "text": "26g",
+      "label": "PRODUCT",
+      "bbox": [
+        115,
+        132,
+        138,
+        145
+      ]
+    },
+    {
+      "text": "Rs. 324.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        304,
+        132,
+        372,
+        142
+      ]
+    },
+    {
+      "text": "4",
+      "label": "QUANTITY",
+      "bbox": [
+        430,
+        132,
+        438,
+        142
+      ]
+    },
+    {
+      "text": "₹1298.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        556,
+        132,
+        615,
+        142
+      ]
+    },
+    {
+      "text": "Annapurna",
+      "label": "PRODUCT",
+      "bbox": [
+        29,
+        155,
+        99,
+        168
+      ]
+    },
+    {
+      "text": "Atta",
+      "label": "PRODUCT",
+      "bbox": [
+        102,
+        154,
+        128,
+        165
+      ]
+    },
+    {
+      "text": "5kg",
+      "label": "PRODUCT",
+      "bbox": [
+        132,
+        155,
+        155,
+        168
+      ]
+    },
+    {
+      "text": "385.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        304,
+        155,
+        347,
+        165
+      ]
+    },
+    {
+      "text": "0.5",
+      "label": "QUANTITY",
+      "bbox": [
+        430,
+        155,
+        450,
+        165
+      ]
+    },
+    {
+      "text": "₹192.75",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        556,
+        155,
+        607,
+        165
+      ]
+    },
+    {
+      "text": "Top",
+      "label": "PRODUCT",
+      "bbox": [
+        30,
+        178,
+        53,
+        191
+      ]
+    },
+    {
+      "text": "Ramen",
+      "label": "PRODUCT",
+      "bbox": [
+        57,
+        178,
+        102,
+        188
+      ]
+    },
+    {
+      "text": "Noodles",
+      "label": "PRODUCT",
+      "bbox": [
+        106,
+        178,
+        157,
+        188
+      ]
+    },
+    {
+      "text": "70g",
+      "label": "PRODUCT",
+      "bbox": [
+        161,
+        178,
+        184,
+        191
+      ]
+    },
+    {
+      "text": "Rs. 359.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        304,
+        178,
+        372,
+        188
+      ]
+    },
+    {
+      "text": "2",
+      "label": "QUANTITY",
+      "bbox": [
+        430,
+        178,
+        438,
+        188
+      ]
+    },
+    {
+      "text": "718.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        556,
+        178,
+        599,
+        188
+      ]
+    },
+    {
+      "text": "Sub Total :",
+      "label": "O",
+      "bbox": [
+        357,
+        206,
+        423,
+        217
+      ]
+    },
+    {
+      "text": "2208.75",
+      "label": "SUBTOTAL",
+      "bbox": [
+        630,
+        207,
+        684,
+        218
+      ]
+    },
+    {
+      "text": "Discount :",
+      "label": "O",
+      "bbox": [
+        357,
+        229,
+        419,
+        240
+      ]
+    },
+    {
+      "text": "44.17",
+      "label": "DISCOUNT",
+      "bbox": [
+        646,
+        230,
+        684,
+        241
+      ]
+    },
+    {
+      "text": "GST 18% :",
+      "label": "O",
+      "bbox": [
+        357,
+        253,
+        425,
+        263
+      ]
+    },
+    {
+      "text": "Rs. 389.62",
+      "label": "O",
+      "bbox": [
+        611,
+        253,
+        684,
+        264
+      ]
+    },
+    {
+      "text": "Net Amount :",
+      "label": "O",
+      "bbox": [
+        357,
+        275,
+        438,
+        286
+      ]
+    },
+    {
+      "text": "Rs. 2554.20",
+      "label": "TOTAL",
+      "bbox": [
+        602,
+        276,
+        684,
+        287
+      ]
+    },
+    {
+      "text": "Received   :",
+      "label": "O",
+      "bbox": [
+        357,
+        299,
+        431,
+        309
+      ]
+    },
+    {
+      "text": "Rs. 2554.20",
+      "label": "PAID",
+      "bbox": [
+        602,
+        299,
+        684,
+        310
+      ]
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "document": "invoice_0100.png",
+  "layout": "supermarket_gst",
+  "width": 880,
+  "height": 400,
+  "tokens": [
+    {
+      "text": "New",
+      "label": "SUPPLIER",
+      "bbox": [
+        393,
+        23,
+        429,
+        35
+      ]
+    },
+    {
+      "text": "Corner",
+      "label": "SUPPLIER",
+      "bbox": [
+        433,
+        23,
+        487,
+        35
+      ]
+    },
+    {
+      "text": "104,",
+      "label": "O",
+      "bbox": [
+        369,
+        47,
+        392,
+        57
+      ]
+    },
+    {
+      "text": "Shivaji",
+      "label": "O",
+      "bbox": [
+        396,
+        46,
+        430,
+        57
+      ]
+    },
+    {
+      "text": "Chowk,",
+      "label": "O",
+      "bbox": [
+        434,
+        46,
+        473,
+        57
+      ]
+    },
+    {
+      "text": "Bhopal",
+      "label": "O",
+      "bbox": [
+        477,
+        46,
+        514,
+        57
+      ]
+    },
+    {
+      "text": "GSTIN:",
+      "label": "O",
+      "bbox": [
+        367,
+        67,
+        403,
+        75
+      ]
+    },
+    {
+      "text": "34CCPUY1687N3ZW",
+      "label": "O",
+      "bbox": [
+        407,
+        67,
+        514,
+        75
+      ]
+    },
+    {
+      "text": "Bill No:",
+      "label": "O",
+      "bbox": [
+        31,
+        100,
+        69,
+        109
+      ]
+    },
+    {
+      "text": "INV1297",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        73,
+        101,
+        119,
+        109
+      ]
+    },
+    {
+      "text": "Bill Dt:",
+      "label": "O",
+      "bbox": [
+        747,
+        100,
+        782,
+        109
+      ]
+    },
+    {
+      "text": "12-05-2024",
+      "label": "DATE",
+      "bbox": [
+        786,
+        101,
+        847,
+        109
+      ]
+    },
+    {
+      "text": "Description",
+      "label": "O",
+      "bbox": [
+        31,
+        124,
+        93,
+        135
+      ]
+    },
+    {
+      "text": "Qty",
+      "label": "O",
+      "bbox": [
+        440,
+        125,
+        460,
+        135
+      ]
+    },
+    {
+      "text": "Price",
+      "label": "O",
+      "bbox": [
+        576,
+        124,
+        603,
+        133
+      ]
+    },
+    {
+      "text": "Amount",
+      "label": "O",
+      "bbox": [
+        712,
+        125,
+        756,
+        133
+      ]
+    },
+    {
+      "text": "Whisper",
+      "label": "PRODUCT",
+      "bbox": [
+        31,
+        147,
+        76,
+        158
+      ]
+    },
+    {
+      "text": "Ultra",
+      "label": "PRODUCT",
+      "bbox": [
+        80,
+        147,
+        106,
+        156
+      ]
+    },
+    {
+      "text": "15pc",
+      "label": "PRODUCT",
+      "bbox": [
+        110,
+        148,
+        136,
+        158
+      ]
+    },
+    {
+      "text": "0.25",
+      "label": "QUANTITY",
+      "bbox": [
+        440,
+        148,
+        463,
+        156
+      ]
+    },
+    {
+      "text": "61.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        576,
+        148,
+        606,
+        156
+      ]
+    },
+    {
+      "text": "₹15.38",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        712,
+        148,
+        748,
+        156
+      ]
+    },
+    {
+      "text": "Lux",
+      "label": "PRODUCT",
+      "bbox": [
+        31,
+        168,
+        49,
+        176
+      ]
+    },
+    {
+      "text": "Soap",
+      "label": "PRODUCT",
+      "bbox": [
+        53,
+        168,
+        79,
+        178
+      ]
+    },
+    {
+      "text": "100g",
+      "label": "PRODUCT",
+      "bbox": [
+        83,
+        168,
+        109,
+        178
+      ]
+    },
+    {
+      "text": "2",
+      "label": "QUANTITY",
+      "bbox": [
+        440,
+        168,
+        447,
+        176
+      ]
+    },
+    {
+      "text": "Rs. 116.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        576,
+        168,
+        631,
+        176
+      ]
+    },
+    {
+      "text": "232.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        712,
+        168,
+        748,
+        176
+      ]
+    },
+    {
+      "text": "Daawat",
+      "label": "PRODUCT",
+      "bbox": [
+        31,
+        188,
+        71,
+        196
+      ]
+    },
+    {
+      "text": "Rice",
+      "label": "PRODUCT",
+      "bbox": [
+        75,
+        188,
+        97,
+        196
+      ]
+    },
+    {
+      "text": "1kg",
+      "label": "PRODUCT",
+      "bbox": [
+        101,
+        187,
+        120,
+        198
+      ]
+    },
+    {
+      "text": "0.5",
+      "label": "QUANTITY",
+      "bbox": [
+        440,
+        188,
+        456,
+        196
+      ]
+    },
+    {
+      "text": "Rs. 386.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        576,
+        188,
+        631,
+        196
+      ]
+    },
+    {
+      "text": "193.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        712,
+        188,
+        748,
+        196
+      ]
+    },
+    {
+      "text": "Subtotal:",
+      "label": "O",
+      "bbox": [
+        689,
+        213,
+        737,
+        222
+      ]
+    },
+    {
+      "text": "440.38",
+      "label": "SUBTOTAL",
+      "bbox": [
+        803,
+        214,
+        839,
+        222
+      ]
+    },
+    {
+      "text": "TOTAL:",
+      "label": "O",
+      "bbox": [
+        689,
+        237,
+        726,
+        245
+      ]
+    },
+    {
+      "text": "₹440.38",
+      "label": "TOTAL",
+      "bbox": [
+        796,
+        237,
+        839,
+        245
+      ]
+    },
+    {
+      "text": "Balance:",
+      "label": "O",
+      "bbox": [
+        689,
+        256,
+        734,
+        265
+      ]
+    },
+    {
+      "text": "₹440.38",
+      "label": "DUE",
+      "bbox": [
+        796,
+        257,
+        839,
+        265
+      ]
+    }
+  ]
+}

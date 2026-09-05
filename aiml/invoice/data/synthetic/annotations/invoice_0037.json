@@ -1,0 +1,248 @@
+{
+  "document": "invoice_0037.png",
+  "layout": "thermal_receipt",
+  "width": 405,
+  "height": 280,
+  "tokens": [
+    {
+      "text": "Sai",
+      "label": "SUPPLIER",
+      "bbox": [
+        143,
+        17,
+        168,
+        26
+      ]
+    },
+    {
+      "text": "Mahal",
+      "label": "SUPPLIER",
+      "bbox": [
+        171,
+        17,
+        214,
+        26
+      ]
+    },
+    {
+      "text": "Mart",
+      "label": "SUPPLIER",
+      "bbox": [
+        217,
+        18,
+        252,
+        26
+      ]
+    },
+    {
+      "text": "Bhopal",
+      "label": "O",
+      "bbox": [
+        184,
+        35,
+        220,
+        43
+      ]
+    },
+    {
+      "text": "Bill#:",
+      "label": "O",
+      "bbox": [
+        20,
+        66,
+        56,
+        74
+      ]
+    },
+    {
+      "text": "BILL-691-3139",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        60,
+        67,
+        138,
+        73
+      ]
+    },
+    {
+      "text": "19/08/2024",
+      "label": "DATE",
+      "bbox": [
+        325,
+        66,
+        385,
+        74
+      ]
+    },
+    {
+      "text": "Fortune",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        99,
+        62,
+        105
+      ]
+    },
+    {
+      "text": "Sunflower",
+      "label": "PRODUCT",
+      "bbox": [
+        66,
+        99,
+        120,
+        105
+      ]
+    },
+    {
+      "text": "Oil",
+      "label": "PRODUCT",
+      "bbox": [
+        124,
+        99,
+        142,
+        105
+      ]
+    },
+    {
+      "text": "5L",
+      "label": "PRODUCT",
+      "bbox": [
+        146,
+        99,
+        158,
+        105
+      ]
+    },
+    {
+      "text": "24",
+      "label": "QUANTITY",
+      "bbox": [
+        32,
+        115,
+        44,
+        121
+      ]
+    },
+    {
+      "text": "₹66.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        62,
+        115,
+        98,
+        121
+      ]
+    },
+    {
+      "text": "1596",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        361,
+        115,
+        385,
+        121
+      ]
+    },
+    {
+      "text": "Subtotal",
+      "label": "O",
+      "bbox": [
+        20,
+        147,
+        68,
+        153
+      ]
+    },
+    {
+      "text": "1596.00",
+      "label": "SUBTOTAL",
+      "bbox": [
+        343,
+        147,
+        385,
+        153
+      ]
+    },
+    {
+      "text": "GST 5%",
+      "label": "O",
+      "bbox": [
+        20,
+        163,
+        56,
+        169
+      ]
+    },
+    {
+      "text": "₹79.80",
+      "label": "O",
+      "bbox": [
+        349,
+        163,
+        385,
+        169
+      ]
+    },
+    {
+      "text": "TOTAL",
+      "label": "O",
+      "bbox": [
+        20,
+        195,
+        50,
+        201
+      ]
+    },
+    {
+      "text": "₹1675.80",
+      "label": "TOTAL",
+      "bbox": [
+        337,
+        195,
+        385,
+        201
+      ]
+    },
+    {
+      "text": "PAID",
+      "label": "O",
+      "bbox": [
+        20,
+        211,
+        44,
+        217
+      ]
+    },
+    {
+      "text": "840.00",
+      "label": "PAID",
+      "bbox": [
+        349,
+        211,
+        385,
+        217
+      ]
+    },
+    {
+      "text": "DUE",
+      "label": "O",
+      "bbox": [
+        20,
+        227,
+        38,
+        233
+      ]
+    },
+    {
+      "text": "₹835.80",
+      "label": "DUE",
+      "bbox": [
+        343,
+        227,
+        385,
+        233
+      ]
+    }
+  ]
+}

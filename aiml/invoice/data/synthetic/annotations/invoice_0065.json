@@ -1,0 +1,328 @@
+{
+  "document": "invoice_0065.png",
+  "layout": "supermarket_gst",
+  "width": 863,
+  "height": 400,
+  "tokens": [
+    {
+      "text": "New",
+      "label": "SUPPLIER",
+      "bbox": [
+        306,
+        26,
+        351,
+        39
+      ]
+    },
+    {
+      "text": "Traders",
+      "label": "SUPPLIER",
+      "bbox": [
+        355,
+        25,
+        433,
+        39
+      ]
+    },
+    {
+      "text": "Enterprises",
+      "label": "SUPPLIER",
+      "bbox": [
+        437,
+        25,
+        553,
+        43
+      ]
+    },
+    {
+      "text": "110,",
+      "label": "O",
+      "bbox": [
+        324,
+        48,
+        351,
+        59
+      ]
+    },
+    {
+      "text": "Market",
+      "label": "O",
+      "bbox": [
+        355,
+        47,
+        397,
+        57
+      ]
+    },
+    {
+      "text": "Street,",
+      "label": "O",
+      "bbox": [
+        401,
+        48,
+        442,
+        59
+      ]
+    },
+    {
+      "text": "Visakhapatnam",
+      "label": "O",
+      "bbox": [
+        446,
+        47,
+        539,
+        59
+      ]
+    },
+    {
+      "text": "GSTIN:",
+      "label": "O",
+      "bbox": [
+        349,
+        67,
+        393,
+        76
+      ]
+    },
+    {
+      "text": "33YKJSV5355N2Z4",
+      "label": "O",
+      "bbox": [
+        397,
+        67,
+        513,
+        76
+      ]
+    },
+    {
+      "text": "Bill No:",
+      "label": "O",
+      "bbox": [
+        31,
+        99,
+        75,
+        109
+      ]
+    },
+    {
+      "text": "651363",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        79,
+        100,
+        130,
+        109
+      ]
+    },
+    {
+      "text": "Date:",
+      "label": "O",
+      "bbox": [
+        715,
+        100,
+        749,
+        109
+      ]
+    },
+    {
+      "text": "20.12.2026",
+      "label": "DATE",
+      "bbox": [
+        753,
+        99,
+        830,
+        110
+      ]
+    },
+    {
+      "text": "Description",
+      "label": "O",
+      "bbox": [
+        31,
+        122,
+        108,
+        134
+      ]
+    },
+    {
+      "text": "Qty",
+      "label": "O",
+      "bbox": [
+        431,
+        123,
+        455,
+        134
+      ]
+    },
+    {
+      "text": "Price",
+      "label": "O",
+      "bbox": [
+        564,
+        122,
+        598,
+        132
+      ]
+    },
+    {
+      "text": "Amount",
+      "label": "O",
+      "bbox": [
+        697,
+        123,
+        750,
+        132
+      ]
+    },
+    {
+      "text": "Limca",
+      "label": "PRODUCT",
+      "bbox": [
+        31,
+        144,
+        66,
+        154
+      ]
+    },
+    {
+      "text": "200ml",
+      "label": "PRODUCT",
+      "bbox": [
+        70,
+        144,
+        108,
+        154
+      ]
+    },
+    {
+      "text": "2",
+      "label": "QUANTITY",
+      "bbox": [
+        431,
+        145,
+        439,
+        154
+      ]
+    },
+    {
+      "text": "465.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        564,
+        145,
+        606,
+        154
+      ]
+    },
+    {
+      "text": "931.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        697,
+        145,
+        739,
+        154
+      ]
+    },
+    {
+      "text": "Subtotal:",
+      "label": "O",
+      "bbox": [
+        672,
+        169,
+        728,
+        179
+      ]
+    },
+    {
+      "text": "931.00",
+      "label": "SUBTOTAL",
+      "bbox": [
+        775,
+        169,
+        822,
+        180
+      ]
+    },
+    {
+      "text": "Disc (10%):",
+      "label": "O",
+      "bbox": [
+        672,
+        188,
+        746,
+        200
+      ]
+    },
+    {
+      "text": "93.10",
+      "label": "DISCOUNT",
+      "bbox": [
+        784,
+        188,
+        822,
+        199
+      ]
+    },
+    {
+      "text": "TOTAL:",
+      "label": "O",
+      "bbox": [
+        672,
+        211,
+        720,
+        220
+      ]
+    },
+    {
+      "text": "837.90",
+      "label": "TOTAL",
+      "bbox": [
+        775,
+        210,
+        822,
+        221
+      ]
+    },
+    {
+      "text": "Cash:",
+      "label": "O",
+      "bbox": [
+        672,
+        229,
+        707,
+        239
+      ]
+    },
+    {
+      "text": "Rs. 420.00",
+      "label": "PAID",
+      "bbox": [
+        750,
+        229,
+        822,
+        240
+      ]
+    },
+    {
+      "text": "Balance:",
+      "label": "O",
+      "bbox": [
+        672,
+        248,
+        724,
+        258
+      ]
+    },
+    {
+      "text": "417.90",
+      "label": "DUE",
+      "bbox": [
+        775,
+        248,
+        822,
+        259
+      ]
+    }
+  ]
+}

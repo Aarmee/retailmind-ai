@@ -1,0 +1,278 @@
+{
+  "document": "invoice_0010.png",
+  "layout": "kirana_bill",
+  "width": 720,
+  "height": 400,
+  "tokens": [
+    {
+      "text": "Royal",
+      "label": "SUPPLIER",
+      "bbox": [
+        285,
+        25,
+        335,
+        42
+      ]
+    },
+    {
+      "text": "Emporium",
+      "label": "SUPPLIER",
+      "bbox": [
+        339,
+        25,
+        433,
+        42
+      ]
+    },
+    {
+      "text": "612,",
+      "label": "O",
+      "bbox": [
+        306,
+        47,
+        331,
+        59
+      ]
+    },
+    {
+      "text": "Gandhi",
+      "label": "O",
+      "bbox": [
+        335,
+        47,
+        376,
+        57
+      ]
+    },
+    {
+      "text": "Nagar",
+      "label": "O",
+      "bbox": [
+        379,
+        47,
+        415,
+        60
+      ]
+    },
+    {
+      "text": "To:",
+      "label": "O",
+      "bbox": [
+        45,
+        78,
+        63,
+        88
+      ]
+    },
+    {
+      "text": "Sunita",
+      "label": "CUSTOMER",
+      "bbox": [
+        69,
+        79,
+        111,
+        89
+      ]
+    },
+    {
+      "text": "Patel",
+      "label": "CUSTOMER",
+      "bbox": [
+        115,
+        79,
+        148,
+        89
+      ]
+    },
+    {
+      "text": "Date:",
+      "label": "O",
+      "bbox": [
+        571,
+        78,
+        601,
+        88
+      ]
+    },
+    {
+      "text": "23.09.2023",
+      "label": "DATE",
+      "bbox": [
+        605,
+        79,
+        673,
+        89
+      ]
+    },
+    {
+      "text": "No:",
+      "label": "O",
+      "bbox": [
+        44,
+        101,
+        66,
+        112
+      ]
+    },
+    {
+      "text": "INV/2022/0232",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        71,
+        102,
+        167,
+        112
+      ]
+    },
+    {
+      "text": "Tata",
+      "label": "PRODUCT",
+      "bbox": [
+        45,
+        132,
+        70,
+        142
+      ]
+    },
+    {
+      "text": "Salt",
+      "label": "PRODUCT",
+      "bbox": [
+        74,
+        132,
+        96,
+        142
+      ]
+    },
+    {
+      "text": "1kg",
+      "label": "PRODUCT",
+      "bbox": [
+        100,
+        132,
+        121,
+        145
+      ]
+    },
+    {
+      "text": "1.5",
+      "label": "QUANTITY",
+      "bbox": [
+        309,
+        132,
+        327,
+        142
+      ]
+    },
+    {
+      "text": "g",
+      "label": "UNIT",
+      "bbox": [
+        400,
+        135,
+        407,
+        145
+      ]
+    },
+    {
+      "text": "321.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        491,
+        132,
+        530,
+        142
+      ]
+    },
+    {
+      "text": "481.50",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        582,
+        132,
+        621,
+        142
+      ]
+    },
+    {
+      "text": "Sub Total :",
+      "label": "O",
+      "bbox": [
+        360,
+        161,
+        421,
+        171
+      ]
+    },
+    {
+      "text": "Rs. 481.50",
+      "label": "SUBTOTAL",
+      "bbox": [
+        610,
+        162,
+        675,
+        172
+      ]
+    },
+    {
+      "text": "GST 5% :",
+      "label": "O",
+      "bbox": [
+        360,
+        184,
+        416,
+        194
+      ]
+    },
+    {
+      "text": "Rs. 24.07",
+      "label": "O",
+      "bbox": [
+        617,
+        185,
+        675,
+        195
+      ]
+    },
+    {
+      "text": "Net Amount :",
+      "label": "O",
+      "bbox": [
+        359,
+        207,
+        436,
+        218
+      ]
+    },
+    {
+      "text": "505.57",
+      "label": "TOTAL",
+      "bbox": [
+        633,
+        208,
+        675,
+        218
+      ]
+    },
+    {
+      "text": "Received   :",
+      "label": "O",
+      "bbox": [
+        360,
+        230,
+        427,
+        240
+      ]
+    },
+    {
+      "text": "505.57",
+      "label": "PAID",
+      "bbox": [
+        633,
+        231,
+        675,
+        241
+      ]
+    }
+  ]
+}

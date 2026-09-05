@@ -1,0 +1,45 @@
+{
+  "model_name": "microsoft/layoutlmv3-base",
+  "num_labels": 29,
+  "epochs": 3,
+  "batch_size": 2,
+  "learning_rate": 5e-05,
+  "weight_decay": 0.01,
+  "grad_accum": 1,
+  "use_image": false,
+  "best_epoch": 3,
+  "best_val_f1": 0.9030927835051547,
+  "total_train_secs": 583.3,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 1.5171,
+      "val_loss": 0.6938,
+      "val_f1": 0.7409,
+      "val_acc": 0.808,
+      "val_p": 0.7723,
+      "val_r": 0.7119,
+      "epoch_secs": 195.8
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.3876,
+      "val_loss": 0.3124,
+      "val_f1": 0.8907,
+      "val_acc": 0.94,
+      "val_p": 0.8926,
+      "val_r": 0.8889,
+      "epoch_secs": 190.5
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.2126,
+      "val_loss": 0.2224,
+      "val_f1": 0.9031,
+      "val_acc": 0.952,
+      "val_p": 0.905,
+      "val_r": 0.9012,
+      "epoch_secs": 195.0
+    }
+  ]
+}

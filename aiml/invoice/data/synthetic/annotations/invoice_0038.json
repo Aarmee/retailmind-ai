@@ -1,0 +1,408 @@
+{
+  "document": "invoice_0038.png",
+  "layout": "traditional",
+  "width": 952,
+  "height": 443,
+  "tokens": [
+    {
+      "text": "INVOICE",
+      "label": "O",
+      "bbox": [
+        437,
+        44,
+        515,
+        58
+      ]
+    },
+    {
+      "text": "Laxmi",
+      "label": "SUPPLIER",
+      "bbox": [
+        50,
+        81,
+        88,
+        91
+      ]
+    },
+    {
+      "text": "Brothers",
+      "label": "SUPPLIER",
+      "bbox": [
+        92,
+        81,
+        146,
+        91
+      ]
+    },
+    {
+      "text": "Enterprises",
+      "label": "SUPPLIER",
+      "bbox": [
+        150,
+        81,
+        222,
+        94
+      ]
+    },
+    {
+      "text": "Invoice No:",
+      "label": "O",
+      "bbox": [
+        454,
+        81,
+        519,
+        91
+      ]
+    },
+    {
+      "text": "INV/2024/3706",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        525,
+        81,
+        612,
+        91
+      ]
+    },
+    {
+      "text": "440,",
+      "label": "O",
+      "bbox": [
+        50,
+        102,
+        75,
+        114
+      ]
+    },
+    {
+      "text": "Gandhi",
+      "label": "O",
+      "bbox": [
+        79,
+        102,
+        121,
+        112
+      ]
+    },
+    {
+      "text": "Nagar",
+      "label": "O",
+      "bbox": [
+        125,
+        102,
+        161,
+        115
+      ]
+    },
+    {
+      "text": "Invoice Date:",
+      "label": "O",
+      "bbox": [
+        454,
+        102,
+        530,
+        112
+      ]
+    },
+    {
+      "text": "17/11/2025",
+      "label": "DATE",
+      "bbox": [
+        536,
+        102,
+        600,
+        112
+      ]
+    },
+    {
+      "text": "Bangalore",
+      "label": "O",
+      "bbox": [
+        50,
+        123,
+        109,
+        136
+      ]
+    },
+    {
+      "text": "Customer:",
+      "label": "O",
+      "bbox": [
+        50,
+        151,
+        110,
+        161
+      ]
+    },
+    {
+      "text": "Ramesh",
+      "label": "CUSTOMER",
+      "bbox": [
+        60,
+        172,
+        111,
+        182
+      ]
+    },
+    {
+      "text": "Singh",
+      "label": "CUSTOMER",
+      "bbox": [
+        115,
+        172,
+        151,
+        185
+      ]
+    },
+    {
+      "text": "123,",
+      "label": "O",
+      "bbox": [
+        60,
+        193,
+        85,
+        205
+      ]
+    },
+    {
+      "text": "Bangalore",
+      "label": "O",
+      "bbox": [
+        89,
+        193,
+        148,
+        206
+      ]
+    },
+    {
+      "text": "#",
+      "label": "O",
+      "bbox": [
+        50,
+        237,
+        58,
+        247
+      ]
+    },
+    {
+      "text": "Description",
+      "label": "O",
+      "bbox": [
+        101,
+        237,
+        173,
+        250
+      ]
+    },
+    {
+      "text": "Qty",
+      "label": "O",
+      "bbox": [
+        441,
+        237,
+        463,
+        250
+      ]
+    },
+    {
+      "text": "Unit",
+      "label": "O",
+      "bbox": [
+        543,
+        237,
+        569,
+        247
+      ]
+    },
+    {
+      "text": "Rate",
+      "label": "O",
+      "bbox": [
+        645,
+        237,
+        673,
+        247
+      ]
+    },
+    {
+      "text": "Amount",
+      "label": "O",
+      "bbox": [
+        747,
+        237,
+        797,
+        247
+      ]
+    },
+    {
+      "text": "Dettol",
+      "label": "PRODUCT",
+      "bbox": [
+        101,
+        255,
+        135,
+        265
+      ]
+    },
+    {
+      "text": "Sanitizer",
+      "label": "PRODUCT",
+      "bbox": [
+        139,
+        255,
+        190,
+        265
+      ]
+    },
+    {
+      "text": "50ml",
+      "label": "PRODUCT",
+      "bbox": [
+        194,
+        255,
+        222,
+        265
+      ]
+    },
+    {
+      "text": "3",
+      "label": "QUANTITY",
+      "bbox": [
+        441,
+        255,
+        448,
+        265
+      ]
+    },
+    {
+      "text": "pack",
+      "label": "UNIT",
+      "bbox": [
+        543,
+        255,
+        571,
+        268
+      ]
+    },
+    {
+      "text": "348.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        645,
+        255,
+        685,
+        265
+      ]
+    },
+    {
+      "text": "1045.50",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        747,
+        255,
+        794,
+        265
+      ]
+    },
+    {
+      "text": "Subtotal:",
+      "label": "O",
+      "bbox": [
+        476,
+        284,
+        527,
+        294
+      ]
+    },
+    {
+      "text": "1045.50",
+      "label": "SUBTOTAL",
+      "bbox": [
+        802,
+        284,
+        849,
+        294
+      ]
+    },
+    {
+      "text": "GST 5%:",
+      "label": "O",
+      "bbox": [
+        476,
+        298,
+        529,
+        308
+      ]
+    },
+    {
+      "text": "52.27",
+      "label": "O",
+      "bbox": [
+        802,
+        298,
+        835,
+        308
+      ]
+    },
+    {
+      "text": "Grand Total:",
+      "label": "O",
+      "bbox": [
+        476,
+        316,
+        547,
+        326
+      ]
+    },
+    {
+      "text": "1,097.77",
+      "label": "TOTAL",
+      "bbox": [
+        802,
+        316,
+        853,
+        328
+      ]
+    },
+    {
+      "text": "Cash Paid:",
+      "label": "O",
+      "bbox": [
+        476,
+        332,
+        540,
+        342
+      ]
+    },
+    {
+      "text": "Rs. 0.00",
+      "label": "PAID",
+      "bbox": [
+        802,
+        332,
+        851,
+        342
+      ]
+    },
+    {
+      "text": "Due:",
+      "label": "O",
+      "bbox": [
+        476,
+        346,
+        503,
+        356
+      ]
+    },
+    {
+      "text": "1097.77",
+      "label": "DUE",
+      "bbox": [
+        802,
+        346,
+        849,
+        356
+      ]
+    }
+  ]
+}

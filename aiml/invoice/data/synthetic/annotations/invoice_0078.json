@@ -1,0 +1,888 @@
+{
+  "document": "invoice_0078.png",
+  "layout": "table_invoice",
+  "width": 902,
+  "height": 500,
+  "tokens": [
+    {
+      "text": "RETAIL",
+      "label": "O",
+      "bbox": [
+        380,
+        24,
+        444,
+        37
+      ]
+    },
+    {
+      "text": "INVOICE",
+      "label": "O",
+      "bbox": [
+        448,
+        24,
+        522,
+        37
+      ]
+    },
+    {
+      "text": "Sri",
+      "label": "SUPPLIER",
+      "bbox": [
+        46,
+        53,
+        60,
+        60
+      ]
+    },
+    {
+      "text": "Agency",
+      "label": "SUPPLIER",
+      "bbox": [
+        64,
+        53,
+        101,
+        62
+      ]
+    },
+    {
+      "text": "&",
+      "label": "SUPPLIER",
+      "bbox": [
+        105,
+        53,
+        113,
+        60
+      ]
+    },
+    {
+      "text": "Co.",
+      "label": "SUPPLIER",
+      "bbox": [
+        117,
+        53,
+        133,
+        60
+      ]
+    },
+    {
+      "text": "991,",
+      "label": "O",
+      "bbox": [
+        46,
+        75,
+        65,
+        83
+      ]
+    },
+    {
+      "text": "Station",
+      "label": "O",
+      "bbox": [
+        69,
+        75,
+        100,
+        82
+      ]
+    },
+    {
+      "text": "Road",
+      "label": "O",
+      "bbox": [
+        104,
+        75,
+        128,
+        82
+      ]
+    },
+    {
+      "text": "Chennai",
+      "label": "O",
+      "bbox": [
+        46,
+        97,
+        83,
+        104
+      ]
+    },
+    {
+      "text": "Invoice No.:",
+      "label": "O",
+      "bbox": [
+        459,
+        53,
+        512,
+        60
+      ]
+    },
+    {
+      "text": "INV/2025/7212",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        516,
+        53,
+        583,
+        60
+      ]
+    },
+    {
+      "text": "Date:",
+      "label": "O",
+      "bbox": [
+        459,
+        75,
+        483,
+        82
+      ]
+    },
+    {
+      "text": "24-11-2023",
+      "label": "DATE",
+      "bbox": [
+        487,
+        75,
+        538,
+        82
+      ]
+    },
+    {
+      "text": "Bill To:",
+      "label": "O",
+      "bbox": [
+        459,
+        97,
+        488,
+        104
+      ]
+    },
+    {
+      "text": "Deepak",
+      "label": "CUSTOMER",
+      "bbox": [
+        492,
+        97,
+        528,
+        106
+      ]
+    },
+    {
+      "text": "Nair",
+      "label": "CUSTOMER",
+      "bbox": [
+        532,
+        97,
+        553,
+        104
+      ]
+    },
+    {
+      "text": "Sl.",
+      "label": "O",
+      "bbox": [
+        44,
+        129,
+        56,
+        136
+      ]
+    },
+    {
+      "text": "Particulars",
+      "label": "O",
+      "bbox": [
+        85,
+        129,
+        137,
+        136
+      ]
+    },
+    {
+      "text": "Quantity",
+      "label": "O",
+      "bbox": [
+        397,
+        129,
+        438,
+        138
+      ]
+    },
+    {
+      "text": "Unit Price",
+      "label": "O",
+      "bbox": [
+        553,
+        129,
+        600,
+        136
+      ]
+    },
+    {
+      "text": "Amount",
+      "label": "O",
+      "bbox": [
+        709,
+        129,
+        747,
+        136
+      ]
+    },
+    {
+      "text": "Amul",
+      "label": "PRODUCT",
+      "bbox": [
+        84,
+        151,
+        108,
+        158
+      ]
+    },
+    {
+      "text": "Ghee",
+      "label": "PRODUCT",
+      "bbox": [
+        112,
+        151,
+        137,
+        158
+      ]
+    },
+    {
+      "text": "1L",
+      "label": "PRODUCT",
+      "bbox": [
+        141,
+        151,
+        153,
+        158
+      ]
+    },
+    {
+      "text": "10",
+      "label": "QUANTITY",
+      "bbox": [
+        397,
+        151,
+        409,
+        158
+      ]
+    },
+    {
+      "text": "₹154.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        553,
+        151,
+        590,
+        158
+      ]
+    },
+    {
+      "text": "1540",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        709,
+        151,
+        732,
+        158
+      ]
+    },
+    {
+      "text": "Stayfree",
+      "label": "PRODUCT",
+      "bbox": [
+        85,
+        173,
+        123,
+        182
+      ]
+    },
+    {
+      "text": "XL",
+      "label": "PRODUCT",
+      "bbox": [
+        127,
+        173,
+        140,
+        180
+      ]
+    },
+    {
+      "text": "8pc",
+      "label": "PRODUCT",
+      "bbox": [
+        144,
+        173,
+        160,
+        182
+      ]
+    },
+    {
+      "text": "3",
+      "label": "QUANTITY",
+      "bbox": [
+        397,
+        173,
+        403,
+        180
+      ]
+    },
+    {
+      "text": "₹343.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        553,
+        173,
+        590,
+        180
+      ]
+    },
+    {
+      "text": "₹1030.50",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        709,
+        173,
+        751,
+        180
+      ]
+    },
+    {
+      "text": "Sprite",
+      "label": "PRODUCT",
+      "bbox": [
+        85,
+        195,
+        112,
+        204
+      ]
+    },
+    {
+      "text": "1L",
+      "label": "PRODUCT",
+      "bbox": [
+        116,
+        195,
+        128,
+        202
+      ]
+    },
+    {
+      "text": "8",
+      "label": "QUANTITY",
+      "bbox": [
+        397,
+        195,
+        403,
+        202
+      ]
+    },
+    {
+      "text": "77",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        553,
+        195,
+        565,
+        202
+      ]
+    },
+    {
+      "text": "616.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        709,
+        195,
+        740,
+        202
+      ]
+    },
+    {
+      "text": "Tata",
+      "label": "PRODUCT",
+      "bbox": [
+        85,
+        217,
+        104,
+        224
+      ]
+    },
+    {
+      "text": "Salt",
+      "label": "PRODUCT",
+      "bbox": [
+        108,
+        217,
+        125,
+        224
+      ]
+    },
+    {
+      "text": "1kg",
+      "label": "PRODUCT",
+      "bbox": [
+        129,
+        217,
+        145,
+        226
+      ]
+    },
+    {
+      "text": "4",
+      "label": "QUANTITY",
+      "bbox": [
+        397,
+        217,
+        403,
+        224
+      ]
+    },
+    {
+      "text": "464.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        553,
+        217,
+        584,
+        224
+      ]
+    },
+    {
+      "text": "1,856.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        709,
+        217,
+        748,
+        225
+      ]
+    },
+    {
+      "text": "Rin",
+      "label": "PRODUCT",
+      "bbox": [
+        85,
+        239,
+        100,
+        246
+      ]
+    },
+    {
+      "text": "Bar",
+      "label": "PRODUCT",
+      "bbox": [
+        104,
+        239,
+        120,
+        246
+      ]
+    },
+    {
+      "text": "200g",
+      "label": "PRODUCT",
+      "bbox": [
+        124,
+        239,
+        146,
+        248
+      ]
+    },
+    {
+      "text": "10",
+      "label": "QUANTITY",
+      "bbox": [
+        397,
+        239,
+        409,
+        246
+      ]
+    },
+    {
+      "text": "481.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        553,
+        239,
+        584,
+        246
+      ]
+    },
+    {
+      "text": "4810.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        709,
+        239,
+        746,
+        246
+      ]
+    },
+    {
+      "text": "Tata",
+      "label": "PRODUCT",
+      "bbox": [
+        85,
+        261,
+        104,
+        268
+      ]
+    },
+    {
+      "text": "Tea",
+      "label": "PRODUCT",
+      "bbox": [
+        108,
+        261,
+        125,
+        268
+      ]
+    },
+    {
+      "text": "Premium",
+      "label": "PRODUCT",
+      "bbox": [
+        129,
+        261,
+        169,
+        268
+      ]
+    },
+    {
+      "text": "250g",
+      "label": "PRODUCT",
+      "bbox": [
+        173,
+        261,
+        195,
+        270
+      ]
+    },
+    {
+      "text": "12",
+      "label": "QUANTITY",
+      "bbox": [
+        397,
+        261,
+        409,
+        268
+      ]
+    },
+    {
+      "text": "459.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        553,
+        261,
+        584,
+        268
+      ]
+    },
+    {
+      "text": "5514",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        709,
+        261,
+        732,
+        268
+      ]
+    },
+    {
+      "text": "Heinz",
+      "label": "PRODUCT",
+      "bbox": [
+        85,
+        283,
+        111,
+        290
+      ]
+    },
+    {
+      "text": "Ketchup",
+      "label": "PRODUCT",
+      "bbox": [
+        115,
+        283,
+        152,
+        292
+      ]
+    },
+    {
+      "text": "500g",
+      "label": "PRODUCT",
+      "bbox": [
+        156,
+        283,
+        178,
+        292
+      ]
+    },
+    {
+      "text": "3",
+      "label": "QUANTITY",
+      "bbox": [
+        397,
+        283,
+        403,
+        290
+      ]
+    },
+    {
+      "text": "307.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        553,
+        283,
+        584,
+        290
+      ]
+    },
+    {
+      "text": "921.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        709,
+        283,
+        740,
+        290
+      ]
+    },
+    {
+      "text": "Durex",
+      "label": "PRODUCT",
+      "bbox": [
+        85,
+        305,
+        112,
+        312
+      ]
+    },
+    {
+      "text": "Condom",
+      "label": "PRODUCT",
+      "bbox": [
+        116,
+        305,
+        154,
+        312
+      ]
+    },
+    {
+      "text": "10pc",
+      "label": "PRODUCT",
+      "bbox": [
+        158,
+        305,
+        180,
+        314
+      ]
+    },
+    {
+      "text": "3",
+      "label": "QUANTITY",
+      "bbox": [
+        397,
+        305,
+        403,
+        312
+      ]
+    },
+    {
+      "text": "139.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        553,
+        305,
+        584,
+        312
+      ]
+    },
+    {
+      "text": "417.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        709,
+        305,
+        740,
+        312
+      ]
+    },
+    {
+      "text": "Saffola",
+      "label": "PRODUCT",
+      "bbox": [
+        85,
+        327,
+        116,
+        334
+      ]
+    },
+    {
+      "text": "Gold",
+      "label": "PRODUCT",
+      "bbox": [
+        120,
+        327,
+        141,
+        334
+      ]
+    },
+    {
+      "text": "Oil",
+      "label": "PRODUCT",
+      "bbox": [
+        145,
+        327,
+        157,
+        334
+      ]
+    },
+    {
+      "text": "5L",
+      "label": "PRODUCT",
+      "bbox": [
+        161,
+        327,
+        173,
+        334
+      ]
+    },
+    {
+      "text": "0.25",
+      "label": "QUANTITY",
+      "bbox": [
+        397,
+        327,
+        417,
+        334
+      ]
+    },
+    {
+      "text": "233.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        553,
+        327,
+        584,
+        334
+      ]
+    },
+    {
+      "text": "58.25",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        709,
+        327,
+        734,
+        334
+      ]
+    },
+    {
+      "text": "Sugar",
+      "label": "PRODUCT",
+      "bbox": [
+        85,
+        349,
+        112,
+        358
+      ]
+    },
+    {
+      "text": "5kg",
+      "label": "PRODUCT",
+      "bbox": [
+        116,
+        349,
+        132,
+        358
+      ]
+    },
+    {
+      "text": "6",
+      "label": "QUANTITY",
+      "bbox": [
+        397,
+        349,
+        403,
+        356
+      ]
+    },
+    {
+      "text": "Rs. 262.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        553,
+        349,
+        602,
+        356
+      ]
+    },
+    {
+      "text": "1,575.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        709,
+        349,
+        748,
+        357
+      ]
+    },
+    {
+      "text": "Subtotal :",
+      "label": "O",
+      "bbox": [
+        606,
+        378,
+        648,
+        385
+      ]
+    },
+    {
+      "text": "18337.75",
+      "label": "SUBTOTAL",
+      "bbox": [
+        816,
+        378,
+        858,
+        385
+      ]
+    },
+    {
+      "text": "Total :",
+      "label": "O",
+      "bbox": [
+        606,
+        398,
+        633,
+        405
+      ]
+    },
+    {
+      "text": "18337.75",
+      "label": "TOTAL",
+      "bbox": [
+        816,
+        398,
+        858,
+        405
+      ]
+    },
+    {
+      "text": "Paid  :",
+      "label": "O",
+      "bbox": [
+        606,
+        418,
+        634,
+        425
+      ]
+    },
+    {
+      "text": "18337.75",
+      "label": "PAID",
+      "bbox": [
+        816,
+        418,
+        858,
+        425
+      ]
+    }
+  ]
+}

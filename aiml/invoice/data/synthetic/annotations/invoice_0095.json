@@ -1,0 +1,498 @@
+{
+  "document": "invoice_0095.png",
+  "layout": "kirana_bill",
+  "width": 775,
+  "height": 400,
+  "tokens": [
+    {
+      "text": "Star",
+      "label": "SUPPLIER",
+      "bbox": [
+        338,
+        24,
+        378,
+        39
+      ]
+    },
+    {
+      "text": "Retail",
+      "label": "SUPPLIER",
+      "bbox": [
+        382,
+        24,
+        436,
+        39
+      ]
+    },
+    {
+      "text": "267,",
+      "label": "O",
+      "bbox": [
+        328,
+        47,
+        355,
+        59
+      ]
+    },
+    {
+      "text": "Gandhi",
+      "label": "O",
+      "bbox": [
+        359,
+        47,
+        404,
+        57
+      ]
+    },
+    {
+      "text": "Nagar",
+      "label": "O",
+      "bbox": [
+        408,
+        47,
+        446,
+        60
+      ]
+    },
+    {
+      "text": "To:",
+      "label": "O",
+      "bbox": [
+        50,
+        78,
+        69,
+        88
+      ]
+    },
+    {
+      "text": "Anil",
+      "label": "CUSTOMER",
+      "bbox": [
+        75,
+        78,
+        103,
+        89
+      ]
+    },
+    {
+      "text": "Verma",
+      "label": "CUSTOMER",
+      "bbox": [
+        107,
+        78,
+        152,
+        89
+      ]
+    },
+    {
+      "text": "Dt.",
+      "label": "O",
+      "bbox": [
+        626,
+        77,
+        644,
+        88
+      ]
+    },
+    {
+      "text": "14/08/2025",
+      "label": "DATE",
+      "bbox": [
+        648,
+        78,
+        723,
+        89
+      ]
+    },
+    {
+      "text": "Bill No:",
+      "label": "O",
+      "bbox": [
+        50,
+        101,
+        94,
+        111
+      ]
+    },
+    {
+      "text": "INV9615",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        98,
+        101,
+        156,
+        112
+      ]
+    },
+    {
+      "text": "Amul",
+      "label": "PRODUCT",
+      "bbox": [
+        49,
+        132,
+        82,
+        142
+      ]
+    },
+    {
+      "text": "Butter",
+      "label": "PRODUCT",
+      "bbox": [
+        86,
+        131,
+        124,
+        142
+      ]
+    },
+    {
+      "text": "500g",
+      "label": "PRODUCT",
+      "bbox": [
+        128,
+        132,
+        159,
+        145
+      ]
+    },
+    {
+      "text": "0.5",
+      "label": "QUANTITY",
+      "bbox": [
+        333,
+        132,
+        353,
+        142
+      ]
+    },
+    {
+      "text": "packet",
+      "label": "UNIT",
+      "bbox": [
+        431,
+        131,
+        472,
+        145
+      ]
+    },
+    {
+      "text": "Rs. 194.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        529,
+        132,
+        597,
+        142
+      ]
+    },
+    {
+      "text": "97",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        627,
+        132,
+        643,
+        142
+      ]
+    },
+    {
+      "text": "Moong",
+      "label": "PRODUCT",
+      "bbox": [
+        50,
+        155,
+        93,
+        168
+      ]
+    },
+    {
+      "text": "Dal",
+      "label": "PRODUCT",
+      "bbox": [
+        97,
+        155,
+        118,
+        165
+      ]
+    },
+    {
+      "text": "1kg",
+      "label": "PRODUCT",
+      "bbox": [
+        122,
+        155,
+        145,
+        168
+      ]
+    },
+    {
+      "text": "2",
+      "label": "QUANTITY",
+      "bbox": [
+        333,
+        155,
+        341,
+        165
+      ]
+    },
+    {
+      "text": "L",
+      "label": "UNIT",
+      "bbox": [
+        431,
+        155,
+        439,
+        165
+      ]
+    },
+    {
+      "text": "Rs. 497.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        529,
+        155,
+        597,
+        165
+      ]
+    },
+    {
+      "text": "Rs. 995.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        627,
+        155,
+        695,
+        165
+      ]
+    },
+    {
+      "text": "Naturo",
+      "label": "PRODUCT",
+      "bbox": [
+        50,
+        177,
+        92,
+        188
+      ]
+    },
+    {
+      "text": "Cane",
+      "label": "PRODUCT",
+      "bbox": [
+        96,
+        178,
+        130,
+        188
+      ]
+    },
+    {
+      "text": "Sugar",
+      "label": "PRODUCT",
+      "bbox": [
+        134,
+        178,
+        172,
+        191
+      ]
+    },
+    {
+      "text": "500g",
+      "label": "PRODUCT",
+      "bbox": [
+        176,
+        178,
+        207,
+        191
+      ]
+    },
+    {
+      "text": "1",
+      "label": "QUANTITY",
+      "bbox": [
+        333,
+        178,
+        341,
+        188
+      ]
+    },
+    {
+      "text": "pack",
+      "label": "UNIT",
+      "bbox": [
+        431,
+        178,
+        461,
+        191
+      ]
+    },
+    {
+      "text": "94.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        529,
+        178,
+        564,
+        188
+      ]
+    },
+    {
+      "text": "₹94.50",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        627,
+        178,
+        670,
+        188
+      ]
+    },
+    {
+      "text": "Durex",
+      "label": "PRODUCT",
+      "bbox": [
+        50,
+        201,
+        87,
+        211
+      ]
+    },
+    {
+      "text": "Condom",
+      "label": "PRODUCT",
+      "bbox": [
+        91,
+        201,
+        144,
+        211
+      ]
+    },
+    {
+      "text": "10pc",
+      "label": "PRODUCT",
+      "bbox": [
+        148,
+        201,
+        178,
+        214
+      ]
+    },
+    {
+      "text": "1",
+      "label": "QUANTITY",
+      "bbox": [
+        333,
+        201,
+        341,
+        211
+      ]
+    },
+    {
+      "text": "ml",
+      "label": "UNIT",
+      "bbox": [
+        431,
+        201,
+        446,
+        211
+      ]
+    },
+    {
+      "text": "488.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        529,
+        201,
+        572,
+        211
+      ]
+    },
+    {
+      "text": "488.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        627,
+        201,
+        670,
+        211
+      ]
+    },
+    {
+      "text": "Sub Total :",
+      "label": "O",
+      "bbox": [
+        387,
+        229,
+        453,
+        240
+      ]
+    },
+    {
+      "text": "1,674.50",
+      "label": "SUBTOTAL",
+      "bbox": [
+        667,
+        230,
+        725,
+        243
+      ]
+    },
+    {
+      "text": "Discount :",
+      "label": "O",
+      "bbox": [
+        387,
+        252,
+        449,
+        263
+      ]
+    },
+    {
+      "text": "167.45",
+      "label": "DISCOUNT",
+      "bbox": [
+        679,
+        253,
+        725,
+        264
+      ]
+    },
+    {
+      "text": "Net Amount :",
+      "label": "O",
+      "bbox": [
+        387,
+        275,
+        468,
+        286
+      ]
+    },
+    {
+      "text": "1507.05",
+      "label": "TOTAL",
+      "bbox": [
+        671,
+        276,
+        725,
+        287
+      ]
+    },
+    {
+      "text": "Received   :",
+      "label": "O",
+      "bbox": [
+        387,
+        299,
+        461,
+        309
+      ]
+    },
+    {
+      "text": "₹1507.05",
+      "label": "PAID",
+      "bbox": [
+        662,
+        299,
+        725,
+        310
+      ]
+    }
+  ]
+}

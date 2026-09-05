@@ -1,0 +1,488 @@
+{
+  "document": "invoice_0073.png",
+  "layout": "supermarket_gst",
+  "width": 847,
+  "height": 400,
+  "tokens": [
+    {
+      "text": "Ganesh",
+      "label": "SUPPLIER",
+      "bbox": [
+        280,
+        25,
+        355,
+        39
+      ]
+    },
+    {
+      "text": "Distributors",
+      "label": "SUPPLIER",
+      "bbox": [
+        359,
+        25,
+        480,
+        39
+      ]
+    },
+    {
+      "text": "Traders",
+      "label": "SUPPLIER",
+      "bbox": [
+        484,
+        25,
+        562,
+        39
+      ]
+    },
+    {
+      "text": "222,",
+      "label": "O",
+      "bbox": [
+        340,
+        48,
+        367,
+        59
+      ]
+    },
+    {
+      "text": "Nehru",
+      "label": "O",
+      "bbox": [
+        371,
+        47,
+        407,
+        57
+      ]
+    },
+    {
+      "text": "Marg,",
+      "label": "O",
+      "bbox": [
+        411,
+        48,
+        445,
+        59
+      ]
+    },
+    {
+      "text": "Vadodara",
+      "label": "O",
+      "bbox": [
+        449,
+        47,
+        505,
+        57
+      ]
+    },
+    {
+      "text": "GSTIN:",
+      "label": "O",
+      "bbox": [
+        345,
+        67,
+        389,
+        76
+      ]
+    },
+    {
+      "text": "16IFHIL2927H3ZJ",
+      "label": "O",
+      "bbox": [
+        393,
+        67,
+        502,
+        76
+      ]
+    },
+    {
+      "text": "Bill No:",
+      "label": "O",
+      "bbox": [
+        54,
+        99,
+        98,
+        109
+      ]
+    },
+    {
+      "text": "INV/2020/7271",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        102,
+        99,
+        213,
+        111
+      ]
+    },
+    {
+      "text": "Date:",
+      "label": "O",
+      "bbox": [
+        673,
+        100,
+        707,
+        109
+      ]
+    },
+    {
+      "text": "17-01-2025",
+      "label": "DATE",
+      "bbox": [
+        711,
+        99,
+        791,
+        110
+      ]
+    },
+    {
+      "text": "Description",
+      "label": "O",
+      "bbox": [
+        54,
+        122,
+        131,
+        134
+      ]
+    },
+    {
+      "text": "Qty",
+      "label": "O",
+      "bbox": [
+        423,
+        123,
+        447,
+        134
+      ]
+    },
+    {
+      "text": "Price",
+      "label": "O",
+      "bbox": [
+        546,
+        122,
+        580,
+        132
+      ]
+    },
+    {
+      "text": "Amount",
+      "label": "O",
+      "bbox": [
+        669,
+        123,
+        722,
+        132
+      ]
+    },
+    {
+      "text": "Pepsi",
+      "label": "PRODUCT",
+      "bbox": [
+        54,
+        144,
+        85,
+        156
+      ]
+    },
+    {
+      "text": "2L",
+      "label": "PRODUCT",
+      "bbox": [
+        89,
+        145,
+        104,
+        154
+      ]
+    },
+    {
+      "text": "0.5",
+      "label": "QUANTITY",
+      "bbox": [
+        423,
+        145,
+        443,
+        154
+      ]
+    },
+    {
+      "text": "386",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        546,
+        145,
+        569,
+        154
+      ]
+    },
+    {
+      "text": "193.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        669,
+        145,
+        711,
+        154
+      ]
+    },
+    {
+      "text": "Yippee",
+      "label": "PRODUCT",
+      "bbox": [
+        54,
+        163,
+        94,
+        175
+      ]
+    },
+    {
+      "text": "Noodles",
+      "label": "PRODUCT",
+      "bbox": [
+        98,
+        163,
+        146,
+        173
+      ]
+    },
+    {
+      "text": "70g",
+      "label": "PRODUCT",
+      "bbox": [
+        150,
+        164,
+        173,
+        175
+      ]
+    },
+    {
+      "text": "0.5",
+      "label": "QUANTITY",
+      "bbox": [
+        423,
+        164,
+        443,
+        173
+      ]
+    },
+    {
+      "text": "₹363.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        546,
+        164,
+        596,
+        173
+      ]
+    },
+    {
+      "text": "181.75",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        669,
+        164,
+        711,
+        173
+      ]
+    },
+    {
+      "text": "Amul",
+      "label": "PRODUCT",
+      "bbox": [
+        54,
+        182,
+        85,
+        192
+      ]
+    },
+    {
+      "text": "Ghee",
+      "label": "PRODUCT",
+      "bbox": [
+        89,
+        182,
+        120,
+        192
+      ]
+    },
+    {
+      "text": "1L",
+      "label": "PRODUCT",
+      "bbox": [
+        124,
+        183,
+        139,
+        192
+      ]
+    },
+    {
+      "text": "10",
+      "label": "QUANTITY",
+      "bbox": [
+        423,
+        183,
+        438,
+        192
+      ]
+    },
+    {
+      "text": "₹62.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        546,
+        183,
+        588,
+        192
+      ]
+    },
+    {
+      "text": "₹625.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        669,
+        183,
+        719,
+        192
+      ]
+    },
+    {
+      "text": "Dettol",
+      "label": "PRODUCT",
+      "bbox": [
+        54,
+        201,
+        90,
+        211
+      ]
+    },
+    {
+      "text": "Soap",
+      "label": "PRODUCT",
+      "bbox": [
+        94,
+        202,
+        124,
+        213
+      ]
+    },
+    {
+      "text": "125g",
+      "label": "PRODUCT",
+      "bbox": [
+        128,
+        202,
+        158,
+        213
+      ]
+    },
+    {
+      "text": "2",
+      "label": "QUANTITY",
+      "bbox": [
+        423,
+        202,
+        431,
+        211
+      ]
+    },
+    {
+      "text": "170",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        546,
+        202,
+        569,
+        211
+      ]
+    },
+    {
+      "text": "₹340.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        669,
+        202,
+        719,
+        211
+      ]
+    },
+    {
+      "text": "Subtotal:",
+      "label": "O",
+      "bbox": [
+        633,
+        226,
+        689,
+        236
+      ]
+    },
+    {
+      "text": "1,339.75",
+      "label": "SUBTOTAL",
+      "bbox": [
+        723,
+        227,
+        783,
+        238
+      ]
+    },
+    {
+      "text": "GST 18%:",
+      "label": "O",
+      "bbox": [
+        633,
+        246,
+        696,
+        255
+      ]
+    },
+    {
+      "text": "241.16",
+      "label": "O",
+      "bbox": [
+        736,
+        246,
+        783,
+        255
+      ]
+    },
+    {
+      "text": "TOTAL:",
+      "label": "O",
+      "bbox": [
+        633,
+        268,
+        681,
+        277
+      ]
+    },
+    {
+      "text": "1580.91",
+      "label": "TOTAL",
+      "bbox": [
+        727,
+        267,
+        783,
+        278
+      ]
+    },
+    {
+      "text": "Balance:",
+      "label": "O",
+      "bbox": [
+        633,
+        286,
+        685,
+        296
+      ]
+    },
+    {
+      "text": "1580.91",
+      "label": "DUE",
+      "bbox": [
+        727,
+        286,
+        783,
+        297
+      ]
+    }
+  ]
+}

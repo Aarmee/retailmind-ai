@@ -1,0 +1,218 @@
+{
+  "document": "invoice_0008.png",
+  "layout": "thermal_receipt",
+  "width": 412,
+  "height": 280,
+  "tokens": [
+    {
+      "text": "Premium",
+      "label": "SUPPLIER",
+      "bbox": [
+        93,
+        18,
+        157,
+        27
+      ]
+    },
+    {
+      "text": "Wholesale",
+      "label": "SUPPLIER",
+      "bbox": [
+        160,
+        18,
+        242,
+        27
+      ]
+    },
+    {
+      "text": "Traders",
+      "label": "SUPPLIER",
+      "bbox": [
+        246,
+        18,
+        309,
+        27
+      ]
+    },
+    {
+      "text": "Bhopal",
+      "label": "O",
+      "bbox": [
+        186,
+        36,
+        226,
+        45
+      ]
+    },
+    {
+      "text": "Bill#:",
+      "label": "O",
+      "bbox": [
+        20,
+        70,
+        60,
+        78
+      ]
+    },
+    {
+      "text": "INV6733",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        64,
+        70,
+        110,
+        77
+      ]
+    },
+    {
+      "text": "08/11/2022",
+      "label": "DATE",
+      "bbox": [
+        326,
+        69,
+        392,
+        78
+      ]
+    },
+    {
+      "text": "Kabuli",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        104,
+        60,
+        111
+      ]
+    },
+    {
+      "text": "Chana",
+      "label": "PRODUCT",
+      "bbox": [
+        64,
+        104,
+        97,
+        111
+      ]
+    },
+    {
+      "text": "500g",
+      "label": "PRODUCT",
+      "bbox": [
+        101,
+        104,
+        128,
+        113
+      ]
+    },
+    {
+      "text": "2",
+      "label": "QUANTITY",
+      "bbox": [
+        33,
+        121,
+        40,
+        128
+      ]
+    },
+    {
+      "text": "123",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        60,
+        121,
+        80,
+        128
+      ]
+    },
+    {
+      "text": "246.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        352,
+        121,
+        392,
+        128
+      ]
+    },
+    {
+      "text": "Subtotal",
+      "label": "O",
+      "bbox": [
+        20,
+        155,
+        73,
+        162
+      ]
+    },
+    {
+      "text": "246.00",
+      "label": "SUBTOTAL",
+      "bbox": [
+        352,
+        155,
+        392,
+        162
+      ]
+    },
+    {
+      "text": "GST 5%",
+      "label": "O",
+      "bbox": [
+        20,
+        172,
+        60,
+        179
+      ]
+    },
+    {
+      "text": "12.30",
+      "label": "O",
+      "bbox": [
+        359,
+        172,
+        392,
+        179
+      ]
+    },
+    {
+      "text": "TOTAL",
+      "label": "O",
+      "bbox": [
+        20,
+        206,
+        53,
+        213
+      ]
+    },
+    {
+      "text": "₹258.30",
+      "label": "TOTAL",
+      "bbox": [
+        346,
+        206,
+        392,
+        213
+      ]
+    },
+    {
+      "text": "PAID",
+      "label": "O",
+      "bbox": [
+        20,
+        223,
+        47,
+        230
+      ]
+    },
+    {
+      "text": "258.30",
+      "label": "PAID",
+      "bbox": [
+        352,
+        223,
+        392,
+        230
+      ]
+    }
+  ]
+}

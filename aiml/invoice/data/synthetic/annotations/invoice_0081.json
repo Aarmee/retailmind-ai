@@ -1,0 +1,208 @@
+{
+  "document": "invoice_0081.png",
+  "layout": "thermal_receipt",
+  "width": 398,
+  "height": 280,
+  "tokens": [
+    {
+      "text": "India",
+      "label": "SUPPLIER",
+      "bbox": [
+        145,
+        18,
+        190,
+        27
+      ]
+    },
+    {
+      "text": "Stores",
+      "label": "SUPPLIER",
+      "bbox": [
+        194,
+        19,
+        248,
+        27
+      ]
+    },
+    {
+      "text": "Agra",
+      "label": "O",
+      "bbox": [
+        186,
+        36,
+        212,
+        45
+      ]
+    },
+    {
+      "text": "Bill#:",
+      "label": "O",
+      "bbox": [
+        20,
+        70,
+        60,
+        78
+      ]
+    },
+    {
+      "text": "915437",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        64,
+        70,
+        104,
+        77
+      ]
+    },
+    {
+      "text": "06/01/2025",
+      "label": "DATE",
+      "bbox": [
+        312,
+        69,
+        378,
+        78
+      ]
+    },
+    {
+      "text": "Aashirvaad",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        104,
+        86,
+        111
+      ]
+    },
+    {
+      "text": "Atta",
+      "label": "PRODUCT",
+      "bbox": [
+        90,
+        104,
+        116,
+        111
+      ]
+    },
+    {
+      "text": "5kg",
+      "label": "PRODUCT",
+      "bbox": [
+        120,
+        104,
+        140,
+        113
+      ]
+    },
+    {
+      "text": "1",
+      "label": "QUANTITY",
+      "bbox": [
+        33,
+        121,
+        40,
+        128
+      ]
+    },
+    {
+      "text": "211.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        60,
+        121,
+        100,
+        128
+      ]
+    },
+    {
+      "text": "Rs. 211.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        312,
+        121,
+        378,
+        128
+      ]
+    },
+    {
+      "text": "Subtotal",
+      "label": "O",
+      "bbox": [
+        20,
+        155,
+        73,
+        162
+      ]
+    },
+    {
+      "text": "211",
+      "label": "SUBTOTAL",
+      "bbox": [
+        358,
+        155,
+        378,
+        162
+      ]
+    },
+    {
+      "text": "TOTAL",
+      "label": "O",
+      "bbox": [
+        20,
+        189,
+        53,
+        196
+      ]
+    },
+    {
+      "text": "211",
+      "label": "TOTAL",
+      "bbox": [
+        358,
+        189,
+        378,
+        196
+      ]
+    },
+    {
+      "text": "PAID",
+      "label": "O",
+      "bbox": [
+        20,
+        206,
+        47,
+        213
+      ]
+    },
+    {
+      "text": "105.50",
+      "label": "PAID",
+      "bbox": [
+        338,
+        206,
+        378,
+        213
+      ]
+    },
+    {
+      "text": "DUE",
+      "label": "O",
+      "bbox": [
+        20,
+        223,
+        40,
+        230
+      ]
+    },
+    {
+      "text": "105.50",
+      "label": "DUE",
+      "bbox": [
+        338,
+        223,
+        378,
+        230
+      ]
+    }
+  ]
+}

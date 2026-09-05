@@ -1,0 +1,308 @@
+{
+  "document": "invoice_0076.png",
+  "layout": "kirana_bill",
+  "width": 719,
+  "height": 400,
+  "tokens": [
+    {
+      "text": "Laxmi",
+      "label": "SUPPLIER",
+      "bbox": [
+        274,
+        22,
+        315,
+        33
+      ]
+    },
+    {
+      "text": "Depot",
+      "label": "SUPPLIER",
+      "bbox": [
+        319,
+        22,
+        362,
+        36
+      ]
+    },
+    {
+      "text": "Enterprises",
+      "label": "SUPPLIER",
+      "bbox": [
+        366,
+        22,
+        445,
+        36
+      ]
+    },
+    {
+      "text": "191,",
+      "label": "O",
+      "bbox": [
+        328,
+        43,
+        347,
+        52
+      ]
+    },
+    {
+      "text": "MG",
+      "label": "O",
+      "bbox": [
+        351,
+        43,
+        367,
+        50
+      ]
+    },
+    {
+      "text": "Road",
+      "label": "O",
+      "bbox": [
+        371,
+        43,
+        394,
+        50
+      ]
+    },
+    {
+      "text": "Bill To:",
+      "label": "O",
+      "bbox": [
+        46,
+        71,
+        75,
+        78
+      ]
+    },
+    {
+      "text": "Rohit",
+      "label": "CUSTOMER",
+      "bbox": [
+        81,
+        69,
+        108,
+        78
+      ]
+    },
+    {
+      "text": "Yadav",
+      "label": "CUSTOMER",
+      "bbox": [
+        112,
+        70,
+        141,
+        78
+      ]
+    },
+    {
+      "text": "Date:",
+      "label": "O",
+      "bbox": [
+        584,
+        71,
+        608,
+        78
+      ]
+    },
+    {
+      "text": "18/10/2024",
+      "label": "DATE",
+      "bbox": [
+        612,
+        69,
+        671,
+        80
+      ]
+    },
+    {
+      "text": "Bill No:",
+      "label": "O",
+      "bbox": [
+        46,
+        91,
+        78,
+        98
+      ]
+    },
+    {
+      "text": "B7731",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        82,
+        90,
+        113,
+        98
+      ]
+    },
+    {
+      "text": "Close-Up",
+      "label": "PRODUCT",
+      "bbox": [
+        46,
+        119,
+        86,
+        128
+      ]
+    },
+    {
+      "text": "Toothpaste",
+      "label": "PRODUCT",
+      "bbox": [
+        90,
+        119,
+        140,
+        128
+      ]
+    },
+    {
+      "text": "80g",
+      "label": "PRODUCT",
+      "bbox": [
+        144,
+        119,
+        160,
+        128
+      ]
+    },
+    {
+      "text": "1.25",
+      "label": "QUANTITY",
+      "bbox": [
+        309,
+        119,
+        329,
+        126
+      ]
+    },
+    {
+      "text": "kg",
+      "label": "UNIT",
+      "bbox": [
+        400,
+        119,
+        410,
+        128
+      ]
+    },
+    {
+      "text": "292.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        491,
+        119,
+        522,
+        126
+      ]
+    },
+    {
+      "text": "365.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        582,
+        119,
+        613,
+        126
+      ]
+    },
+    {
+      "text": "Sub Total :",
+      "label": "O",
+      "bbox": [
+        359,
+        145,
+        405,
+        152
+      ]
+    },
+    {
+      "text": "365.00",
+      "label": "SUBTOTAL",
+      "bbox": [
+        639,
+        144,
+        673,
+        152
+      ]
+    },
+    {
+      "text": "GST 18% :",
+      "label": "O",
+      "bbox": [
+        359,
+        165,
+        403,
+        172
+      ]
+    },
+    {
+      "text": "₹65.70",
+      "label": "O",
+      "bbox": [
+        639,
+        164,
+        673,
+        172
+      ]
+    },
+    {
+      "text": "Net Amount :",
+      "label": "O",
+      "bbox": [
+        359,
+        185,
+        419,
+        192
+      ]
+    },
+    {
+      "text": "430.70",
+      "label": "TOTAL",
+      "bbox": [
+        639,
+        184,
+        673,
+        192
+      ]
+    },
+    {
+      "text": "Received   :",
+      "label": "O",
+      "bbox": [
+        359,
+        205,
+        409,
+        212
+      ]
+    },
+    {
+      "text": "107.67",
+      "label": "PAID",
+      "bbox": [
+        639,
+        204,
+        673,
+        212
+      ]
+    },
+    {
+      "text": "Balance    :",
+      "label": "O",
+      "bbox": [
+        359,
+        225,
+        407,
+        232
+      ]
+    },
+    {
+      "text": "₹323.03",
+      "label": "DUE",
+      "bbox": [
+        633,
+        224,
+        673,
+        232
+      ]
+    }
+  ]
+}

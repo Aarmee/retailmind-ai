@@ -1,0 +1,698 @@
+{
+  "document": "invoice_0096.png",
+  "layout": "thermal_receipt",
+  "width": 472,
+  "height": 516,
+  "tokens": [
+    {
+      "text": "Star",
+      "label": "SUPPLIER",
+      "bbox": [
+        147,
+        18,
+        181,
+        26
+      ]
+    },
+    {
+      "text": "Corner",
+      "label": "SUPPLIER",
+      "bbox": [
+        185,
+        18,
+        236,
+        26
+      ]
+    },
+    {
+      "text": "Pvt.",
+      "label": "SUPPLIER",
+      "bbox": [
+        240,
+        18,
+        274,
+        26
+      ]
+    },
+    {
+      "text": "Ltd.",
+      "label": "SUPPLIER",
+      "bbox": [
+        278,
+        17,
+        312,
+        26
+      ]
+    },
+    {
+      "text": "Jaipur",
+      "label": "O",
+      "bbox": [
+        218,
+        35,
+        254,
+        43
+      ]
+    },
+    {
+      "text": "Bill#:",
+      "label": "O",
+      "bbox": [
+        20,
+        66,
+        56,
+        74
+      ]
+    },
+    {
+      "text": "INV/2024/0674",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        60,
+        66,
+        138,
+        74
+      ]
+    },
+    {
+      "text": "19-03-2024",
+      "label": "DATE",
+      "bbox": [
+        392,
+        67,
+        452,
+        73
+      ]
+    },
+    {
+      "text": "Sunfeast",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        99,
+        68,
+        105
+      ]
+    },
+    {
+      "text": "Pasta",
+      "label": "PRODUCT",
+      "bbox": [
+        72,
+        99,
+        102,
+        105
+      ]
+    },
+    {
+      "text": "250g",
+      "label": "PRODUCT",
+      "bbox": [
+        106,
+        99,
+        130,
+        107
+      ]
+    },
+    {
+      "text": "0.25",
+      "label": "QUANTITY",
+      "bbox": [
+        32,
+        115,
+        56,
+        121
+      ]
+    },
+    {
+      "text": "160.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        74,
+        115,
+        110,
+        121
+      ]
+    },
+    {
+      "text": "₹40.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        416,
+        115,
+        452,
+        121
+      ]
+    },
+    {
+      "text": "Pepsi",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        131,
+        50,
+        139
+      ]
+    },
+    {
+      "text": "2L",
+      "label": "PRODUCT",
+      "bbox": [
+        54,
+        131,
+        66,
+        137
+      ]
+    },
+    {
+      "text": "2",
+      "label": "QUANTITY",
+      "bbox": [
+        32,
+        147,
+        38,
+        153
+      ]
+    },
+    {
+      "text": "375",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        56,
+        147,
+        74,
+        153
+      ]
+    },
+    {
+      "text": "₹750.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        410,
+        147,
+        452,
+        153
+      ]
+    },
+    {
+      "text": "Maggi",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        163,
+        50,
+        171
+      ]
+    },
+    {
+      "text": "Noodles",
+      "label": "PRODUCT",
+      "bbox": [
+        54,
+        163,
+        96,
+        169
+      ]
+    },
+    {
+      "text": "70g",
+      "label": "PRODUCT",
+      "bbox": [
+        100,
+        163,
+        118,
+        171
+      ]
+    },
+    {
+      "text": "1",
+      "label": "QUANTITY",
+      "bbox": [
+        32,
+        179,
+        38,
+        185
+      ]
+    },
+    {
+      "text": "308.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        56,
+        179,
+        92,
+        185
+      ]
+    },
+    {
+      "text": "308.50",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        416,
+        179,
+        452,
+        185
+      ]
+    },
+    {
+      "text": "Sundrop",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        195,
+        62,
+        203
+      ]
+    },
+    {
+      "text": "Oil",
+      "label": "PRODUCT",
+      "bbox": [
+        66,
+        195,
+        84,
+        201
+      ]
+    },
+    {
+      "text": "1L",
+      "label": "PRODUCT",
+      "bbox": [
+        88,
+        195,
+        100,
+        201
+      ]
+    },
+    {
+      "text": "0.5",
+      "label": "QUANTITY",
+      "bbox": [
+        32,
+        211,
+        50,
+        217
+      ]
+    },
+    {
+      "text": "447.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        68,
+        211,
+        104,
+        217
+      ]
+    },
+    {
+      "text": "223.50",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        416,
+        211,
+        452,
+        217
+      ]
+    },
+    {
+      "text": "Fortune",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        227,
+        62,
+        233
+      ]
+    },
+    {
+      "text": "Sunflower",
+      "label": "PRODUCT",
+      "bbox": [
+        66,
+        227,
+        120,
+        233
+      ]
+    },
+    {
+      "text": "Oil",
+      "label": "PRODUCT",
+      "bbox": [
+        124,
+        227,
+        142,
+        233
+      ]
+    },
+    {
+      "text": "1L",
+      "label": "PRODUCT",
+      "bbox": [
+        146,
+        227,
+        158,
+        233
+      ]
+    },
+    {
+      "text": "6",
+      "label": "QUANTITY",
+      "bbox": [
+        32,
+        243,
+        38,
+        249
+      ]
+    },
+    {
+      "text": "280.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        56,
+        243,
+        92,
+        249
+      ]
+    },
+    {
+      "text": "1680.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        410,
+        243,
+        452,
+        249
+      ]
+    },
+    {
+      "text": "Horlicks",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        259,
+        68,
+        265
+      ]
+    },
+    {
+      "text": "500g",
+      "label": "PRODUCT",
+      "bbox": [
+        72,
+        259,
+        96,
+        267
+      ]
+    },
+    {
+      "text": "24",
+      "label": "QUANTITY",
+      "bbox": [
+        32,
+        275,
+        44,
+        281
+      ]
+    },
+    {
+      "text": "98.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        62,
+        275,
+        92,
+        281
+      ]
+    },
+    {
+      "text": "2364",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        428,
+        275,
+        452,
+        281
+      ]
+    },
+    {
+      "text": "Amul",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        291,
+        44,
+        297
+      ]
+    },
+    {
+      "text": "Butter",
+      "label": "PRODUCT",
+      "bbox": [
+        48,
+        291,
+        84,
+        297
+      ]
+    },
+    {
+      "text": "100g",
+      "label": "PRODUCT",
+      "bbox": [
+        88,
+        291,
+        112,
+        299
+      ]
+    },
+    {
+      "text": "0.5",
+      "label": "QUANTITY",
+      "bbox": [
+        32,
+        307,
+        50,
+        313
+      ]
+    },
+    {
+      "text": "23.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        68,
+        307,
+        98,
+        313
+      ]
+    },
+    {
+      "text": "11.50",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        422,
+        307,
+        452,
+        313
+      ]
+    },
+    {
+      "text": "Dettol",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        323,
+        56,
+        329
+      ]
+    },
+    {
+      "text": "Soap",
+      "label": "PRODUCT",
+      "bbox": [
+        60,
+        323,
+        84,
+        331
+      ]
+    },
+    {
+      "text": "125g",
+      "label": "PRODUCT",
+      "bbox": [
+        88,
+        323,
+        112,
+        331
+      ]
+    },
+    {
+      "text": "1",
+      "label": "QUANTITY",
+      "bbox": [
+        32,
+        339,
+        38,
+        345
+      ]
+    },
+    {
+      "text": "221.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        56,
+        339,
+        92,
+        345
+      ]
+    },
+    {
+      "text": "₹221.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        410,
+        339,
+        452,
+        345
+      ]
+    },
+    {
+      "text": "Haldiram",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        355,
+        68,
+        361
+      ]
+    },
+    {
+      "text": "Bhujia",
+      "label": "PRODUCT",
+      "bbox": [
+        72,
+        355,
+        108,
+        363
+      ]
+    },
+    {
+      "text": "400g",
+      "label": "PRODUCT",
+      "bbox": [
+        112,
+        355,
+        136,
+        363
+      ]
+    },
+    {
+      "text": "5",
+      "label": "QUANTITY",
+      "bbox": [
+        32,
+        371,
+        38,
+        377
+      ]
+    },
+    {
+      "text": "₹181.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        56,
+        371,
+        98,
+        377
+      ]
+    },
+    {
+      "text": "907.50",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        416,
+        371,
+        452,
+        377
+      ]
+    },
+    {
+      "text": "Subtotal",
+      "label": "O",
+      "bbox": [
+        20,
+        403,
+        68,
+        409
+      ]
+    },
+    {
+      "text": "₹6506.00",
+      "label": "SUBTOTAL",
+      "bbox": [
+        404,
+        403,
+        452,
+        409
+      ]
+    },
+    {
+      "text": "GST 12%",
+      "label": "O",
+      "bbox": [
+        20,
+        419,
+        62,
+        425
+      ]
+    },
+    {
+      "text": "780.72",
+      "label": "O",
+      "bbox": [
+        416,
+        419,
+        452,
+        425
+      ]
+    },
+    {
+      "text": "TOTAL",
+      "label": "O",
+      "bbox": [
+        20,
+        451,
+        50,
+        457
+      ]
+    },
+    {
+      "text": "7286.72",
+      "label": "TOTAL",
+      "bbox": [
+        410,
+        451,
+        452,
+        457
+      ]
+    },
+    {
+      "text": "PAID",
+      "label": "O",
+      "bbox": [
+        20,
+        467,
+        44,
+        473
+      ]
+    },
+    {
+      "text": "₹7286.72",
+      "label": "PAID",
+      "bbox": [
+        404,
+        467,
+        452,
+        473
+      ]
+    }
+  ]
+}

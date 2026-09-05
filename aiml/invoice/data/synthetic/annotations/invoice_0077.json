@@ -1,0 +1,378 @@
+{
+  "document": "invoice_0077.png",
+  "layout": "traditional",
+  "width": 942,
+  "height": 400,
+  "tokens": [
+    {
+      "text": "INVOICE",
+      "label": "O",
+      "bbox": [
+        434,
+        32,
+        508,
+        44
+      ]
+    },
+    {
+      "text": "Vijay",
+      "label": "SUPPLIER",
+      "bbox": [
+        44,
+        63,
+        70,
+        73
+      ]
+    },
+    {
+      "text": "Distributors",
+      "label": "SUPPLIER",
+      "bbox": [
+        74,
+        63,
+        131,
+        71
+      ]
+    },
+    {
+      "text": "Bill No:",
+      "label": "O",
+      "bbox": [
+        466,
+        63,
+        502,
+        72
+      ]
+    },
+    {
+      "text": "INV/2020/9792",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        508,
+        63,
+        578,
+        71
+      ]
+    },
+    {
+      "text": "928,",
+      "label": "O",
+      "bbox": [
+        44,
+        82,
+        64,
+        92
+      ]
+    },
+    {
+      "text": "Tilak",
+      "label": "O",
+      "bbox": [
+        68,
+        82,
+        91,
+        90
+      ]
+    },
+    {
+      "text": "Road",
+      "label": "O",
+      "bbox": [
+        95,
+        82,
+        119,
+        90
+      ]
+    },
+    {
+      "text": "Date:",
+      "label": "O",
+      "bbox": [
+        466,
+        82,
+        490,
+        90
+      ]
+    },
+    {
+      "text": "24.05.2026",
+      "label": "DATE",
+      "bbox": [
+        496,
+        82,
+        546,
+        90
+      ]
+    },
+    {
+      "text": "Visakhapatnam",
+      "label": "O",
+      "bbox": [
+        44,
+        101,
+        112,
+        111
+      ]
+    },
+    {
+      "text": "Customer:",
+      "label": "O",
+      "bbox": [
+        44,
+        125,
+        90,
+        133
+      ]
+    },
+    {
+      "text": "Sanjay",
+      "label": "CUSTOMER",
+      "bbox": [
+        54,
+        144,
+        87,
+        154
+      ]
+    },
+    {
+      "text": "Gupta",
+      "label": "CUSTOMER",
+      "bbox": [
+        91,
+        144,
+        121,
+        154
+      ]
+    },
+    {
+      "text": "76,",
+      "label": "O",
+      "bbox": [
+        54,
+        163,
+        68,
+        173
+      ]
+    },
+    {
+      "text": "Surat",
+      "label": "O",
+      "bbox": [
+        72,
+        163,
+        96,
+        171
+      ]
+    },
+    {
+      "text": "#",
+      "label": "O",
+      "bbox": [
+        44,
+        201,
+        50,
+        209
+      ]
+    },
+    {
+      "text": "Description",
+      "label": "O",
+      "bbox": [
+        95,
+        201,
+        149,
+        211
+      ]
+    },
+    {
+      "text": "Qty",
+      "label": "O",
+      "bbox": [
+        436,
+        201,
+        454,
+        211
+      ]
+    },
+    {
+      "text": "Unit",
+      "label": "O",
+      "bbox": [
+        538,
+        201,
+        559,
+        209
+      ]
+    },
+    {
+      "text": "Rate",
+      "label": "O",
+      "bbox": [
+        640,
+        201,
+        662,
+        209
+      ]
+    },
+    {
+      "text": "Amount",
+      "label": "O",
+      "bbox": [
+        742,
+        201,
+        781,
+        209
+      ]
+    },
+    {
+      "text": "Ariel",
+      "label": "PRODUCT",
+      "bbox": [
+        95,
+        216,
+        118,
+        224
+      ]
+    },
+    {
+      "text": "Powder",
+      "label": "PRODUCT",
+      "bbox": [
+        122,
+        216,
+        156,
+        224
+      ]
+    },
+    {
+      "text": "1kg",
+      "label": "PRODUCT",
+      "bbox": [
+        160,
+        216,
+        177,
+        226
+      ]
+    },
+    {
+      "text": "2.5",
+      "label": "QUANTITY",
+      "bbox": [
+        436,
+        216,
+        450,
+        224
+      ]
+    },
+    {
+      "text": "pcs",
+      "label": "UNIT",
+      "bbox": [
+        537,
+        219,
+        553,
+        226
+      ]
+    },
+    {
+      "text": "330.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        640,
+        216,
+        671,
+        224
+      ]
+    },
+    {
+      "text": "825",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        742,
+        216,
+        759,
+        224
+      ]
+    },
+    {
+      "text": "Subtotal:",
+      "label": "O",
+      "bbox": [
+        471,
+        243,
+        511,
+        251
+      ]
+    },
+    {
+      "text": "825",
+      "label": "SUBTOTAL",
+      "bbox": [
+        798,
+        243,
+        815,
+        251
+      ]
+    },
+    {
+      "text": "Discount (15%):",
+      "label": "O",
+      "bbox": [
+        471,
+        255,
+        544,
+        265
+      ]
+    },
+    {
+      "text": "Rs. 123.75",
+      "label": "DISCOUNT",
+      "bbox": [
+        798,
+        255,
+        846,
+        263
+      ]
+    },
+    {
+      "text": "Grand Total:",
+      "label": "O",
+      "bbox": [
+        471,
+        273,
+        527,
+        281
+      ]
+    },
+    {
+      "text": "701.25",
+      "label": "TOTAL",
+      "bbox": [
+        798,
+        273,
+        829,
+        281
+      ]
+    },
+    {
+      "text": "Amount Paid:",
+      "label": "O",
+      "bbox": [
+        471,
+        285,
+        532,
+        293
+      ]
+    },
+    {
+      "text": "701.25",
+      "label": "PAID",
+      "bbox": [
+        798,
+        285,
+        829,
+        293
+      ]
+    }
+  ]
+}

@@ -1,0 +1,468 @@
+{
+  "document": "invoice_0068.png",
+  "layout": "thermal_receipt",
+  "width": 438,
+  "height": 366,
+  "tokens": [
+    {
+      "text": "Modern",
+      "label": "SUPPLIER",
+      "bbox": [
+        124,
+        17,
+        172,
+        25
+      ]
+    },
+    {
+      "text": "Mahal",
+      "label": "SUPPLIER",
+      "bbox": [
+        175,
+        17,
+        215,
+        25
+      ]
+    },
+    {
+      "text": "Enterprises",
+      "label": "SUPPLIER",
+      "bbox": [
+        219,
+        17,
+        305,
+        27
+      ]
+    },
+    {
+      "text": "Coimbatore",
+      "label": "O",
+      "bbox": [
+        192,
+        33,
+        246,
+        39
+      ]
+    },
+    {
+      "text": "Bill#:",
+      "label": "O",
+      "bbox": [
+        20,
+        63,
+        52,
+        70
+      ]
+    },
+    {
+      "text": "INV7170",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        56,
+        63,
+        94,
+        69
+      ]
+    },
+    {
+      "text": "19/11/2026",
+      "label": "DATE",
+      "bbox": [
+        364,
+        63,
+        418,
+        70
+      ]
+    },
+    {
+      "text": "Sugar",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        93,
+        47,
+        101
+      ]
+    },
+    {
+      "text": "5kg",
+      "label": "PRODUCT",
+      "bbox": [
+        51,
+        93,
+        68,
+        101
+      ]
+    },
+    {
+      "text": "2.5",
+      "label": "QUANTITY",
+      "bbox": [
+        31,
+        108,
+        47,
+        114
+      ]
+    },
+    {
+      "text": "235.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        63,
+        108,
+        95,
+        114
+      ]
+    },
+    {
+      "text": "587.50",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        386,
+        108,
+        418,
+        114
+      ]
+    },
+    {
+      "text": "Catch",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        123,
+        47,
+        129
+      ]
+    },
+    {
+      "text": "Salt",
+      "label": "PRODUCT",
+      "bbox": [
+        51,
+        123,
+        73,
+        129
+      ]
+    },
+    {
+      "text": "1kg",
+      "label": "PRODUCT",
+      "bbox": [
+        77,
+        123,
+        94,
+        131
+      ]
+    },
+    {
+      "text": "1",
+      "label": "QUANTITY",
+      "bbox": [
+        31,
+        138,
+        36,
+        144
+      ]
+    },
+    {
+      "text": "₹332.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        52,
+        138,
+        90,
+        144
+      ]
+    },
+    {
+      "text": "₹332.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        380,
+        138,
+        418,
+        144
+      ]
+    },
+    {
+      "text": "Wagh",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        153,
+        42,
+        161
+      ]
+    },
+    {
+      "text": "Bakri",
+      "label": "PRODUCT",
+      "bbox": [
+        46,
+        153,
+        73,
+        159
+      ]
+    },
+    {
+      "text": "Tea",
+      "label": "PRODUCT",
+      "bbox": [
+        77,
+        153,
+        93,
+        159
+      ]
+    },
+    {
+      "text": "250g",
+      "label": "PRODUCT",
+      "bbox": [
+        97,
+        153,
+        119,
+        161
+      ]
+    },
+    {
+      "text": "3",
+      "label": "QUANTITY",
+      "bbox": [
+        31,
+        168,
+        36,
+        174
+      ]
+    },
+    {
+      "text": "Rs. 14.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        52,
+        168,
+        101,
+        174
+      ]
+    },
+    {
+      "text": "43.50",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        391,
+        168,
+        418,
+        174
+      ]
+    },
+    {
+      "text": "Toor",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        183,
+        42,
+        189
+      ]
+    },
+    {
+      "text": "Dal",
+      "label": "PRODUCT",
+      "bbox": [
+        46,
+        183,
+        62,
+        189
+      ]
+    },
+    {
+      "text": "1kg",
+      "label": "PRODUCT",
+      "bbox": [
+        66,
+        183,
+        83,
+        191
+      ]
+    },
+    {
+      "text": "24",
+      "label": "QUANTITY",
+      "bbox": [
+        31,
+        198,
+        42,
+        204
+      ]
+    },
+    {
+      "text": "₹490.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        58,
+        198,
+        96,
+        204
+      ]
+    },
+    {
+      "text": "₹11760.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        369,
+        198,
+        418,
+        204
+      ]
+    },
+    {
+      "text": "Everest",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        213,
+        58,
+        219
+      ]
+    },
+    {
+      "text": "Garam",
+      "label": "PRODUCT",
+      "bbox": [
+        62,
+        213,
+        90,
+        219
+      ]
+    },
+    {
+      "text": "Masala",
+      "label": "PRODUCT",
+      "bbox": [
+        94,
+        213,
+        126,
+        219
+      ]
+    },
+    {
+      "text": "100g",
+      "label": "PRODUCT",
+      "bbox": [
+        130,
+        213,
+        152,
+        221
+      ]
+    },
+    {
+      "text": "6",
+      "label": "QUANTITY",
+      "bbox": [
+        31,
+        228,
+        36,
+        234
+      ]
+    },
+    {
+      "text": "₹245.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        52,
+        228,
+        90,
+        234
+      ]
+    },
+    {
+      "text": "1470",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        396,
+        228,
+        418,
+        234
+      ]
+    },
+    {
+      "text": "Subtotal",
+      "label": "O",
+      "bbox": [
+        20,
+        258,
+        63,
+        264
+      ]
+    },
+    {
+      "text": "₹14193.00",
+      "label": "SUBTOTAL",
+      "bbox": [
+        369,
+        258,
+        418,
+        264
+      ]
+    },
+    {
+      "text": "GST 5%",
+      "label": "O",
+      "bbox": [
+        20,
+        273,
+        52,
+        279
+      ]
+    },
+    {
+      "text": "709.65",
+      "label": "O",
+      "bbox": [
+        386,
+        273,
+        418,
+        279
+      ]
+    },
+    {
+      "text": "TOTAL",
+      "label": "O",
+      "bbox": [
+        20,
+        303,
+        47,
+        309
+      ]
+    },
+    {
+      "text": "₹14902.65",
+      "label": "TOTAL",
+      "bbox": [
+        369,
+        303,
+        418,
+        309
+      ]
+    },
+    {
+      "text": "PAID",
+      "label": "O",
+      "bbox": [
+        20,
+        318,
+        42,
+        324
+      ]
+    },
+    {
+      "text": "Rs. 14902.65",
+      "label": "PAID",
+      "bbox": [
+        353,
+        318,
+        418,
+        324
+      ]
+    }
+  ]
+}

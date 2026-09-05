@@ -1,0 +1,448 @@
+{
+  "document": "invoice_0050.png",
+  "layout": "kirana_bill",
+  "width": 771,
+  "height": 400,
+  "tokens": [
+    {
+      "text": "General",
+      "label": "SUPPLIER",
+      "bbox": [
+        302,
+        25,
+        361,
+        36
+      ]
+    },
+    {
+      "text": "Supplier",
+      "label": "SUPPLIER",
+      "bbox": [
+        365,
+        25,
+        428,
+        40
+      ]
+    },
+    {
+      "text": "Mart",
+      "label": "SUPPLIER",
+      "bbox": [
+        432,
+        25,
+        470,
+        36
+      ]
+    },
+    {
+      "text": "665,",
+      "label": "O",
+      "bbox": [
+        343,
+        43,
+        363,
+        53
+      ]
+    },
+    {
+      "text": "Gandhi",
+      "label": "O",
+      "bbox": [
+        367,
+        43,
+        399,
+        51
+      ]
+    },
+    {
+      "text": "Nagar",
+      "label": "O",
+      "bbox": [
+        402,
+        43,
+        430,
+        53
+      ]
+    },
+    {
+      "text": "Bill To:",
+      "label": "O",
+      "bbox": [
+        40,
+        71,
+        74,
+        79
+      ]
+    },
+    {
+      "text": "Ganesh",
+      "label": "CUSTOMER",
+      "bbox": [
+        80,
+        71,
+        119,
+        80
+      ]
+    },
+    {
+      "text": "Agarwal",
+      "label": "CUSTOMER",
+      "bbox": [
+        123,
+        71,
+        168,
+        83
+      ]
+    },
+    {
+      "text": "Date:",
+      "label": "O",
+      "bbox": [
+        638,
+        71,
+        662,
+        79
+      ]
+    },
+    {
+      "text": "19 Aug 2026",
+      "label": "DATE",
+      "bbox": [
+        666,
+        71,
+        729,
+        83
+      ]
+    },
+    {
+      "text": "No:",
+      "label": "O",
+      "bbox": [
+        39,
+        91,
+        57,
+        100
+      ]
+    },
+    {
+      "text": "INV/2020/6817",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        62,
+        91,
+        139,
+        100
+      ]
+    },
+    {
+      "text": "Fair",
+      "label": "PRODUCT",
+      "bbox": [
+        40,
+        119,
+        58,
+        127
+      ]
+    },
+    {
+      "text": "&",
+      "label": "PRODUCT",
+      "bbox": [
+        62,
+        119,
+        71,
+        127
+      ]
+    },
+    {
+      "text": "Lovely",
+      "label": "PRODUCT",
+      "bbox": [
+        75,
+        119,
+        107,
+        129
+      ]
+    },
+    {
+      "text": "25g",
+      "label": "PRODUCT",
+      "bbox": [
+        111,
+        119,
+        128,
+        129
+      ]
+    },
+    {
+      "text": "3",
+      "label": "QUANTITY",
+      "bbox": [
+        330,
+        119,
+        336,
+        127
+      ]
+    },
+    {
+      "text": "g",
+      "label": "UNIT",
+      "bbox": [
+        430,
+        122,
+        436,
+        129
+      ]
+    },
+    {
+      "text": "Rs. 244.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        530,
+        119,
+        578,
+        127
+      ]
+    },
+    {
+      "text": "732",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        630,
+        119,
+        647,
+        127
+      ]
+    },
+    {
+      "text": "Mother",
+      "label": "PRODUCT",
+      "bbox": [
+        40,
+        139,
+        73,
+        147
+      ]
+    },
+    {
+      "text": "Dairy",
+      "label": "PRODUCT",
+      "bbox": [
+        77,
+        139,
+        103,
+        149
+      ]
+    },
+    {
+      "text": "Milk",
+      "label": "PRODUCT",
+      "bbox": [
+        107,
+        139,
+        129,
+        147
+      ]
+    },
+    {
+      "text": "1L",
+      "label": "PRODUCT",
+      "bbox": [
+        133,
+        139,
+        146,
+        147
+      ]
+    },
+    {
+      "text": "5",
+      "label": "QUANTITY",
+      "bbox": [
+        330,
+        139,
+        336,
+        147
+      ]
+    },
+    {
+      "text": "pack",
+      "label": "UNIT",
+      "bbox": [
+        429,
+        139,
+        451,
+        149
+      ]
+    },
+    {
+      "text": "223.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        530,
+        139,
+        561,
+        147
+      ]
+    },
+    {
+      "text": "1,115.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        630,
+        139,
+        669,
+        149
+      ]
+    },
+    {
+      "text": "Dabur",
+      "label": "PRODUCT",
+      "bbox": [
+        40,
+        159,
+        68,
+        167
+      ]
+    },
+    {
+      "text": "Honey",
+      "label": "PRODUCT",
+      "bbox": [
+        72,
+        159,
+        102,
+        169
+      ]
+    },
+    {
+      "text": "500g",
+      "label": "PRODUCT",
+      "bbox": [
+        106,
+        159,
+        129,
+        169
+      ]
+    },
+    {
+      "text": "0.25",
+      "label": "QUANTITY",
+      "bbox": [
+        330,
+        159,
+        349,
+        167
+      ]
+    },
+    {
+      "text": "box",
+      "label": "UNIT",
+      "bbox": [
+        429,
+        159,
+        447,
+        167
+      ]
+    },
+    {
+      "text": "11.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        530,
+        159,
+        555,
+        167
+      ]
+    },
+    {
+      "text": "2.75",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        630,
+        159,
+        649,
+        167
+      ]
+    },
+    {
+      "text": "Sub Total :",
+      "label": "O",
+      "bbox": [
+        385,
+        185,
+        433,
+        193
+      ]
+    },
+    {
+      "text": "1849.75",
+      "label": "SUBTOTAL",
+      "bbox": [
+        692,
+        185,
+        731,
+        194
+      ]
+    },
+    {
+      "text": "Net Amount :",
+      "label": "O",
+      "bbox": [
+        384,
+        205,
+        445,
+        214
+      ]
+    },
+    {
+      "text": "1,849.75",
+      "label": "TOTAL",
+      "bbox": [
+        689,
+        205,
+        731,
+        216
+      ]
+    },
+    {
+      "text": "Received   :",
+      "label": "O",
+      "bbox": [
+        385,
+        225,
+        437,
+        233
+      ]
+    },
+    {
+      "text": "Rs. 924.88",
+      "label": "PAID",
+      "bbox": [
+        679,
+        225,
+        731,
+        234
+      ]
+    },
+    {
+      "text": "Balance    :",
+      "label": "O",
+      "bbox": [
+        385,
+        245,
+        434,
+        253
+      ]
+    },
+    {
+      "text": "Rs. 924.87",
+      "label": "DUE",
+      "bbox": [
+        679,
+        245,
+        731,
+        254
+      ]
+    }
+  ]
+}

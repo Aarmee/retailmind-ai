@@ -1,0 +1,718 @@
+{
+  "document": "invoice_0090.png",
+  "layout": "kirana_bill",
+  "width": 795,
+  "height": 415,
+  "tokens": [
+    {
+      "text": "Ram",
+      "label": "SUPPLIER",
+      "bbox": [
+        325,
+        23,
+        361,
+        35
+      ]
+    },
+    {
+      "text": "Agency",
+      "label": "SUPPLIER",
+      "bbox": [
+        365,
+        23,
+        422,
+        38
+      ]
+    },
+    {
+      "text": "&",
+      "label": "SUPPLIER",
+      "bbox": [
+        426,
+        22,
+        439,
+        35
+      ]
+    },
+    {
+      "text": "Co.",
+      "label": "SUPPLIER",
+      "bbox": [
+        443,
+        23,
+        468,
+        35
+      ]
+    },
+    {
+      "text": "478,",
+      "label": "O",
+      "bbox": [
+        351,
+        45,
+        374,
+        55
+      ]
+    },
+    {
+      "text": "Station",
+      "label": "O",
+      "bbox": [
+        378,
+        45,
+        415,
+        53
+      ]
+    },
+    {
+      "text": "Road",
+      "label": "O",
+      "bbox": [
+        419,
+        44,
+        446,
+        53
+      ]
+    },
+    {
+      "text": "M/s.:",
+      "label": "O",
+      "bbox": [
+        52,
+        74,
+        80,
+        85
+      ]
+    },
+    {
+      "text": "Deepak",
+      "label": "CUSTOMER",
+      "bbox": [
+        86,
+        74,
+        130,
+        87
+      ]
+    },
+    {
+      "text": "Nair",
+      "label": "CUSTOMER",
+      "bbox": [
+        134,
+        74,
+        159,
+        84
+      ]
+    },
+    {
+      "text": "Dt.",
+      "label": "O",
+      "bbox": [
+        652,
+        75,
+        668,
+        83
+      ]
+    },
+    {
+      "text": "03/06/2025",
+      "label": "DATE",
+      "bbox": [
+        672,
+        74,
+        741,
+        86
+      ]
+    },
+    {
+      "text": "No:",
+      "label": "O",
+      "bbox": [
+        52,
+        97,
+        71,
+        105
+      ]
+    },
+    {
+      "text": "C1665",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        75,
+        97,
+        111,
+        106
+      ]
+    },
+    {
+      "text": "Wagh",
+      "label": "PRODUCT",
+      "bbox": [
+        52,
+        126,
+        82,
+        137
+      ]
+    },
+    {
+      "text": "Bakri",
+      "label": "PRODUCT",
+      "bbox": [
+        86,
+        126,
+        113,
+        135
+      ]
+    },
+    {
+      "text": "Tea",
+      "label": "PRODUCT",
+      "bbox": [
+        117,
+        127,
+        135,
+        135
+      ]
+    },
+    {
+      "text": "250g",
+      "label": "PRODUCT",
+      "bbox": [
+        139,
+        127,
+        165,
+        137
+      ]
+    },
+    {
+      "text": "206.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        342,
+        127,
+        378,
+        135
+      ]
+    },
+    {
+      "text": "2.5",
+      "label": "QUANTITY",
+      "bbox": [
+        475,
+        127,
+        491,
+        135
+      ]
+    },
+    {
+      "text": "Rs. 516.25",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        608,
+        127,
+        663,
+        135
+      ]
+    },
+    {
+      "text": "Bingo",
+      "label": "PRODUCT",
+      "bbox": [
+        52,
+        149,
+        82,
+        159
+      ]
+    },
+    {
+      "text": "Mad",
+      "label": "PRODUCT",
+      "bbox": [
+        86,
+        148,
+        110,
+        157
+      ]
+    },
+    {
+      "text": "Angles",
+      "label": "PRODUCT",
+      "bbox": [
+        114,
+        148,
+        149,
+        159
+      ]
+    },
+    {
+      "text": "90g",
+      "label": "PRODUCT",
+      "bbox": [
+        153,
+        149,
+        172,
+        159
+      ]
+    },
+    {
+      "text": "Rs. 448.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        342,
+        149,
+        397,
+        157
+      ]
+    },
+    {
+      "text": "2",
+      "label": "QUANTITY",
+      "bbox": [
+        475,
+        149,
+        482,
+        157
+      ]
+    },
+    {
+      "text": "896.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        608,
+        149,
+        644,
+        157
+      ]
+    },
+    {
+      "text": "Clinic",
+      "label": "PRODUCT",
+      "bbox": [
+        52,
+        170,
+        80,
+        179
+      ]
+    },
+    {
+      "text": "Plus",
+      "label": "PRODUCT",
+      "bbox": [
+        84,
+        170,
+        106,
+        179
+      ]
+    },
+    {
+      "text": "80ml",
+      "label": "PRODUCT",
+      "bbox": [
+        110,
+        170,
+        137,
+        179
+      ]
+    },
+    {
+      "text": "₹11.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        342,
+        171,
+        378,
+        179
+      ]
+    },
+    {
+      "text": "1.25",
+      "label": "QUANTITY",
+      "bbox": [
+        475,
+        171,
+        498,
+        179
+      ]
+    },
+    {
+      "text": "14.38",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        608,
+        171,
+        638,
+        179
+      ]
+    },
+    {
+      "text": "Mother",
+      "label": "PRODUCT",
+      "bbox": [
+        52,
+        192,
+        93,
+        201
+      ]
+    },
+    {
+      "text": "Dairy",
+      "label": "PRODUCT",
+      "bbox": [
+        97,
+        193,
+        125,
+        203
+      ]
+    },
+    {
+      "text": "Paneer",
+      "label": "PRODUCT",
+      "bbox": [
+        129,
+        193,
+        166,
+        201
+      ]
+    },
+    {
+      "text": "200g",
+      "label": "PRODUCT",
+      "bbox": [
+        170,
+        193,
+        196,
+        203
+      ]
+    },
+    {
+      "text": "Rs. 201.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        342,
+        193,
+        397,
+        201
+      ]
+    },
+    {
+      "text": "24",
+      "label": "QUANTITY",
+      "bbox": [
+        475,
+        193,
+        488,
+        201
+      ]
+    },
+    {
+      "text": "4824.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        608,
+        193,
+        651,
+        201
+      ]
+    },
+    {
+      "text": "Boost",
+      "label": "PRODUCT",
+      "bbox": [
+        52,
+        215,
+        82,
+        223
+      ]
+    },
+    {
+      "text": "Chocolate",
+      "label": "PRODUCT",
+      "bbox": [
+        86,
+        214,
+        139,
+        223
+      ]
+    },
+    {
+      "text": "Drink",
+      "label": "PRODUCT",
+      "bbox": [
+        143,
+        214,
+        171,
+        223
+      ]
+    },
+    {
+      "text": "500g",
+      "label": "PRODUCT",
+      "bbox": [
+        175,
+        215,
+        201,
+        225
+      ]
+    },
+    {
+      "text": "76.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        342,
+        215,
+        372,
+        223
+      ]
+    },
+    {
+      "text": "6",
+      "label": "QUANTITY",
+      "bbox": [
+        475,
+        215,
+        482,
+        223
+      ]
+    },
+    {
+      "text": "₹456.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        608,
+        215,
+        651,
+        223
+      ]
+    },
+    {
+      "text": "Lizol",
+      "label": "PRODUCT",
+      "bbox": [
+        52,
+        236,
+        75,
+        245
+      ]
+    },
+    {
+      "text": "Floor",
+      "label": "PRODUCT",
+      "bbox": [
+        79,
+        236,
+        107,
+        245
+      ]
+    },
+    {
+      "text": "Cleaner",
+      "label": "PRODUCT",
+      "bbox": [
+        111,
+        236,
+        152,
+        245
+      ]
+    },
+    {
+      "text": "500ml",
+      "label": "PRODUCT",
+      "bbox": [
+        156,
+        236,
+        189,
+        245
+      ]
+    },
+    {
+      "text": "Rs. 37.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        342,
+        237,
+        390,
+        245
+      ]
+    },
+    {
+      "text": "4",
+      "label": "QUANTITY",
+      "bbox": [
+        475,
+        237,
+        482,
+        245
+      ]
+    },
+    {
+      "text": "Rs. 148.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        608,
+        237,
+        663,
+        245
+      ]
+    },
+    {
+      "text": "Stayfree",
+      "label": "PRODUCT",
+      "bbox": [
+        52,
+        258,
+        95,
+        269
+      ]
+    },
+    {
+      "text": "XL",
+      "label": "PRODUCT",
+      "bbox": [
+        99,
+        259,
+        111,
+        267
+      ]
+    },
+    {
+      "text": "8pc",
+      "label": "PRODUCT",
+      "bbox": [
+        115,
+        259,
+        134,
+        269
+      ]
+    },
+    {
+      "text": "299.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        342,
+        259,
+        378,
+        267
+      ]
+    },
+    {
+      "text": "0.5",
+      "label": "QUANTITY",
+      "bbox": [
+        475,
+        259,
+        491,
+        267
+      ]
+    },
+    {
+      "text": "149.75",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        608,
+        259,
+        644,
+        267
+      ]
+    },
+    {
+      "text": "Sub Total :",
+      "label": "O",
+      "bbox": [
+        397,
+        286,
+        451,
+        295
+      ]
+    },
+    {
+      "text": "7004.38",
+      "label": "SUBTOTAL",
+      "bbox": [
+        697,
+        287,
+        743,
+        296
+      ]
+    },
+    {
+      "text": "GST 12% :",
+      "label": "O",
+      "bbox": [
+        397,
+        309,
+        449,
+        317
+      ]
+    },
+    {
+      "text": "840.53",
+      "label": "O",
+      "bbox": [
+        704,
+        309,
+        743,
+        318
+      ]
+    },
+    {
+      "text": "Net Amount :",
+      "label": "O",
+      "bbox": [
+        397,
+        331,
+        468,
+        339
+      ]
+    },
+    {
+      "text": "7844.91",
+      "label": "TOTAL",
+      "bbox": [
+        697,
+        331,
+        743,
+        340
+      ]
+    },
+    {
+      "text": "Received   :",
+      "label": "O",
+      "bbox": [
+        397,
+        352,
+        457,
+        361
+      ]
+    },
+    {
+      "text": "1961.23",
+      "label": "PAID",
+      "bbox": [
+        697,
+        353,
+        743,
+        362
+      ]
+    },
+    {
+      "text": "Balance    :",
+      "label": "O",
+      "bbox": [
+        397,
+        374,
+        454,
+        383
+      ]
+    },
+    {
+      "text": "Rs. 5883.68",
+      "label": "DUE",
+      "bbox": [
+        676,
+        375,
+        743,
+        384
+      ]
+    }
+  ]
+}

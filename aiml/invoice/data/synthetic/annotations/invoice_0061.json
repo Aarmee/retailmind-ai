@@ -1,0 +1,238 @@
+{
+  "document": "invoice_0061.png",
+  "layout": "thermal_receipt",
+  "width": 455,
+  "height": 306,
+  "tokens": [
+    {
+      "text": "Ganesh",
+      "label": "SUPPLIER",
+      "bbox": [
+        165,
+        18,
+        223,
+        28
+      ]
+    },
+    {
+      "text": "Agency",
+      "label": "SUPPLIER",
+      "bbox": [
+        226,
+        19,
+        285,
+        31
+      ]
+    },
+    {
+      "text": "Patna",
+      "label": "O",
+      "bbox": [
+        209,
+        36,
+        245,
+        44
+      ]
+    },
+    {
+      "text": "Bill#:",
+      "label": "O",
+      "bbox": [
+        20,
+        72,
+        63,
+        81
+      ]
+    },
+    {
+      "text": "INV/2026/2746",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        67,
+        72,
+        161,
+        81
+      ]
+    },
+    {
+      "text": "21 Jun 2025",
+      "label": "DATE",
+      "bbox": [
+        356,
+        72,
+        435,
+        80
+      ]
+    },
+    {
+      "text": "Patanjali",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        108,
+        85,
+        118
+      ]
+    },
+    {
+      "text": "Atta",
+      "label": "PRODUCT",
+      "bbox": [
+        89,
+        108,
+        118,
+        116
+      ]
+    },
+    {
+      "text": "5kg",
+      "label": "PRODUCT",
+      "bbox": [
+        122,
+        108,
+        144,
+        118
+      ]
+    },
+    {
+      "text": "1.5",
+      "label": "QUANTITY",
+      "bbox": [
+        34,
+        126,
+        56,
+        134
+      ]
+    },
+    {
+      "text": "Rs. 162.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        78,
+        126,
+        150,
+        134
+      ]
+    },
+    {
+      "text": "243",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        413,
+        126,
+        435,
+        134
+      ]
+    },
+    {
+      "text": "Sugar",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        144,
+        56,
+        154
+      ]
+    },
+    {
+      "text": "1kg",
+      "label": "PRODUCT",
+      "bbox": [
+        60,
+        144,
+        82,
+        154
+      ]
+    },
+    {
+      "text": "0.5",
+      "label": "QUANTITY",
+      "bbox": [
+        34,
+        162,
+        56,
+        170
+      ]
+    },
+    {
+      "text": "139.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        78,
+        162,
+        121,
+        170
+      ]
+    },
+    {
+      "text": "69.75",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        399,
+        162,
+        435,
+        170
+      ]
+    },
+    {
+      "text": "Subtotal",
+      "label": "O",
+      "bbox": [
+        20,
+        198,
+        78,
+        206
+      ]
+    },
+    {
+      "text": "312.75",
+      "label": "SUBTOTAL",
+      "bbox": [
+        392,
+        198,
+        435,
+        206
+      ]
+    },
+    {
+      "text": "TOTAL",
+      "label": "O",
+      "bbox": [
+        20,
+        234,
+        56,
+        242
+      ]
+    },
+    {
+      "text": "₹312.75",
+      "label": "TOTAL",
+      "bbox": [
+        385,
+        234,
+        435,
+        242
+      ]
+    },
+    {
+      "text": "PAID",
+      "label": "O",
+      "bbox": [
+        20,
+        252,
+        49,
+        260
+      ]
+    },
+    {
+      "text": "312.75",
+      "label": "PAID",
+      "bbox": [
+        392,
+        252,
+        435,
+        260
+      ]
+    }
+  ]
+}

@@ -1,0 +1,538 @@
+{
+  "document": "invoice_0067.png",
+  "layout": "kirana_bill",
+  "width": 689,
+  "height": 400,
+  "tokens": [
+    {
+      "text": "Balaji",
+      "label": "SUPPLIER",
+      "bbox": [
+        291,
+        21,
+        337,
+        39
+      ]
+    },
+    {
+      "text": "Corner",
+      "label": "SUPPLIER",
+      "bbox": [
+        341,
+        22,
+        397,
+        35
+      ]
+    },
+    {
+      "text": "517,",
+      "label": "O",
+      "bbox": [
+        291,
+        46,
+        316,
+        57
+      ]
+    },
+    {
+      "text": "Market",
+      "label": "O",
+      "bbox": [
+        320,
+        45,
+        361,
+        55
+      ]
+    },
+    {
+      "text": "Street",
+      "label": "O",
+      "bbox": [
+        365,
+        46,
+        400,
+        55
+      ]
+    },
+    {
+      "text": "To:",
+      "label": "O",
+      "bbox": [
+        49,
+        77,
+        66,
+        86
+      ]
+    },
+    {
+      "text": "Sanjay",
+      "label": "CUSTOMER",
+      "bbox": [
+        72,
+        77,
+        113,
+        90
+      ]
+    },
+    {
+      "text": "Patel",
+      "label": "CUSTOMER",
+      "bbox": [
+        117,
+        77,
+        148,
+        87
+      ]
+    },
+    {
+      "text": "Dt.",
+      "label": "O",
+      "bbox": [
+        543,
+        77,
+        560,
+        86
+      ]
+    },
+    {
+      "text": "16 Oct 2022",
+      "label": "DATE",
+      "bbox": [
+        564,
+        78,
+        638,
+        87
+      ]
+    },
+    {
+      "text": "Bill No:",
+      "label": "O",
+      "bbox": [
+        49,
+        99,
+        90,
+        109
+      ]
+    },
+    {
+      "text": "INV/2022/1353",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        94,
+        99,
+        190,
+        112
+      ]
+    },
+    {
+      "text": "Patanjali",
+      "label": "PRODUCT",
+      "bbox": [
+        49,
+        130,
+        98,
+        143
+      ]
+    },
+    {
+      "text": "Atta",
+      "label": "PRODUCT",
+      "bbox": [
+        102,
+        131,
+        125,
+        140
+      ]
+    },
+    {
+      "text": "5kg",
+      "label": "PRODUCT",
+      "bbox": [
+        129,
+        130,
+        149,
+        143
+      ]
+    },
+    {
+      "text": "0.5",
+      "label": "QUANTITY",
+      "bbox": [
+        297,
+        131,
+        315,
+        140
+      ]
+    },
+    {
+      "text": "282",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        411,
+        131,
+        432,
+        140
+      ]
+    },
+    {
+      "text": "₹141.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        525,
+        131,
+        571,
+        140
+      ]
+    },
+    {
+      "text": "Britannia",
+      "label": "PRODUCT",
+      "bbox": [
+        49,
+        153,
+        101,
+        163
+      ]
+    },
+    {
+      "text": "Good",
+      "label": "PRODUCT",
+      "bbox": [
+        105,
+        153,
+        136,
+        163
+      ]
+    },
+    {
+      "text": "Day",
+      "label": "PRODUCT",
+      "bbox": [
+        140,
+        154,
+        162,
+        166
+      ]
+    },
+    {
+      "text": "200g",
+      "label": "PRODUCT",
+      "bbox": [
+        166,
+        154,
+        194,
+        166
+      ]
+    },
+    {
+      "text": "10",
+      "label": "QUANTITY",
+      "bbox": [
+        297,
+        154,
+        311,
+        163
+      ]
+    },
+    {
+      "text": "283",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        411,
+        154,
+        432,
+        163
+      ]
+    },
+    {
+      "text": "2830.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        525,
+        154,
+        571,
+        163
+      ]
+    },
+    {
+      "text": "Lux",
+      "label": "PRODUCT",
+      "bbox": [
+        49,
+        177,
+        68,
+        186
+      ]
+    },
+    {
+      "text": "Soap",
+      "label": "PRODUCT",
+      "bbox": [
+        72,
+        177,
+        100,
+        189
+      ]
+    },
+    {
+      "text": "100g",
+      "label": "PRODUCT",
+      "bbox": [
+        104,
+        177,
+        132,
+        189
+      ]
+    },
+    {
+      "text": "3",
+      "label": "QUANTITY",
+      "bbox": [
+        297,
+        177,
+        304,
+        186
+      ]
+    },
+    {
+      "text": "40.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        411,
+        177,
+        443,
+        186
+      ]
+    },
+    {
+      "text": "121.50",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        525,
+        177,
+        564,
+        186
+      ]
+    },
+    {
+      "text": "Haldiram",
+      "label": "PRODUCT",
+      "bbox": [
+        49,
+        199,
+        101,
+        209
+      ]
+    },
+    {
+      "text": "Bhujia",
+      "label": "PRODUCT",
+      "bbox": [
+        105,
+        199,
+        141,
+        212
+      ]
+    },
+    {
+      "text": "400g",
+      "label": "PRODUCT",
+      "bbox": [
+        145,
+        200,
+        173,
+        212
+      ]
+    },
+    {
+      "text": "1",
+      "label": "QUANTITY",
+      "bbox": [
+        297,
+        200,
+        304,
+        209
+      ]
+    },
+    {
+      "text": "60.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        411,
+        200,
+        443,
+        209
+      ]
+    },
+    {
+      "text": "60.50",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        525,
+        200,
+        557,
+        209
+      ]
+    },
+    {
+      "text": "Dabur",
+      "label": "PRODUCT",
+      "bbox": [
+        49,
+        222,
+        84,
+        232
+      ]
+    },
+    {
+      "text": "Honey",
+      "label": "PRODUCT",
+      "bbox": [
+        88,
+        223,
+        125,
+        235
+      ]
+    },
+    {
+      "text": "500g",
+      "label": "PRODUCT",
+      "bbox": [
+        129,
+        223,
+        157,
+        235
+      ]
+    },
+    {
+      "text": "8",
+      "label": "QUANTITY",
+      "bbox": [
+        297,
+        223,
+        304,
+        232
+      ]
+    },
+    {
+      "text": "177.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        411,
+        223,
+        450,
+        232
+      ]
+    },
+    {
+      "text": "₹1420.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        525,
+        223,
+        578,
+        232
+      ]
+    },
+    {
+      "text": "Sub Total :",
+      "label": "O",
+      "bbox": [
+        344,
+        251,
+        403,
+        261
+      ]
+    },
+    {
+      "text": "4573.00",
+      "label": "SUBTOTAL",
+      "bbox": [
+        590,
+        253,
+        640,
+        262
+      ]
+    },
+    {
+      "text": "Discount :",
+      "label": "O",
+      "bbox": [
+        344,
+        274,
+        401,
+        284
+      ]
+    },
+    {
+      "text": "₹457.30",
+      "label": "DISCOUNT",
+      "bbox": [
+        590,
+        276,
+        640,
+        285
+      ]
+    },
+    {
+      "text": "Net Amount :",
+      "label": "O",
+      "bbox": [
+        344,
+        298,
+        421,
+        307
+      ]
+    },
+    {
+      "text": "4115.70",
+      "label": "TOTAL",
+      "bbox": [
+        590,
+        299,
+        640,
+        308
+      ]
+    },
+    {
+      "text": "Received   :",
+      "label": "O",
+      "bbox": [
+        344,
+        320,
+        408,
+        330
+      ]
+    },
+    {
+      "text": "₹2057.85",
+      "label": "PAID",
+      "bbox": [
+        583,
+        322,
+        640,
+        331
+      ]
+    },
+    {
+      "text": "Balance    :",
+      "label": "O",
+      "bbox": [
+        344,
+        343,
+        405,
+        353
+      ]
+    },
+    {
+      "text": "Rs. 2057.85",
+      "label": "DUE",
+      "bbox": [
+        569,
+        345,
+        640,
+        354
+      ]
+    }
+  ]
+}

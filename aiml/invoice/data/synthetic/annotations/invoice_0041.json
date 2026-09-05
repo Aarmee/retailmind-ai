@@ -1,0 +1,408 @@
+{
+  "document": "invoice_0041.png",
+  "layout": "thermal_receipt",
+  "width": 467,
+  "height": 393,
+  "tokens": [
+    {
+      "text": "Balaji",
+      "label": "SUPPLIER",
+      "bbox": [
+        161,
+        18,
+        215,
+        30
+      ]
+    },
+    {
+      "text": "Provision",
+      "label": "SUPPLIER",
+      "bbox": [
+        219,
+        18,
+        300,
+        27
+      ]
+    },
+    {
+      "text": "Vadodara",
+      "label": "O",
+      "bbox": [
+        207,
+        36,
+        260,
+        43
+      ]
+    },
+    {
+      "text": "Bill#:",
+      "label": "O",
+      "bbox": [
+        20,
+        70,
+        60,
+        78
+      ]
+    },
+    {
+      "text": "INV8126",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        64,
+        70,
+        110,
+        77
+      ]
+    },
+    {
+      "text": "22.03.2023",
+      "label": "DATE",
+      "bbox": [
+        381,
+        70,
+        447,
+        77
+      ]
+    },
+    {
+      "text": "Horlicks",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        104,
+        73,
+        111
+      ]
+    },
+    {
+      "text": "500g",
+      "label": "PRODUCT",
+      "bbox": [
+        77,
+        104,
+        104,
+        113
+      ]
+    },
+    {
+      "text": "0.75",
+      "label": "QUANTITY",
+      "bbox": [
+        33,
+        121,
+        59,
+        128
+      ]
+    },
+    {
+      "text": "139.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        79,
+        121,
+        119,
+        128
+      ]
+    },
+    {
+      "text": "104.62",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        407,
+        121,
+        447,
+        128
+      ]
+    },
+    {
+      "text": "Catch",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        138,
+        53,
+        145
+      ]
+    },
+    {
+      "text": "Pepper",
+      "label": "PRODUCT",
+      "bbox": [
+        57,
+        138,
+        97,
+        147
+      ]
+    },
+    {
+      "text": "100g",
+      "label": "PRODUCT",
+      "bbox": [
+        101,
+        138,
+        128,
+        147
+      ]
+    },
+    {
+      "text": "0.5",
+      "label": "QUANTITY",
+      "bbox": [
+        33,
+        155,
+        53,
+        162
+      ]
+    },
+    {
+      "text": "₹391.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        73,
+        155,
+        119,
+        162
+      ]
+    },
+    {
+      "text": "195.50",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        407,
+        155,
+        447,
+        162
+      ]
+    },
+    {
+      "text": "Parle-G",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        172,
+        67,
+        179
+      ]
+    },
+    {
+      "text": "Biscuits",
+      "label": "PRODUCT",
+      "bbox": [
+        71,
+        172,
+        124,
+        179
+      ]
+    },
+    {
+      "text": "200g",
+      "label": "PRODUCT",
+      "bbox": [
+        128,
+        172,
+        155,
+        181
+      ]
+    },
+    {
+      "text": "10",
+      "label": "QUANTITY",
+      "bbox": [
+        33,
+        189,
+        46,
+        196
+      ]
+    },
+    {
+      "text": "57.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        66,
+        189,
+        99,
+        196
+      ]
+    },
+    {
+      "text": "₹575.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        401,
+        189,
+        447,
+        196
+      ]
+    },
+    {
+      "text": "Dettol",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        206,
+        60,
+        213
+      ]
+    },
+    {
+      "text": "Sanitizer",
+      "label": "PRODUCT",
+      "bbox": [
+        64,
+        206,
+        123,
+        213
+      ]
+    },
+    {
+      "text": "50ml",
+      "label": "PRODUCT",
+      "bbox": [
+        127,
+        206,
+        153,
+        213
+      ]
+    },
+    {
+      "text": "10",
+      "label": "QUANTITY",
+      "bbox": [
+        33,
+        223,
+        46,
+        230
+      ]
+    },
+    {
+      "text": "206.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        66,
+        223,
+        106,
+        230
+      ]
+    },
+    {
+      "text": "2060.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        401,
+        223,
+        447,
+        230
+      ]
+    },
+    {
+      "text": "Stayfree",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        240,
+        73,
+        249
+      ]
+    },
+    {
+      "text": "20pc",
+      "label": "PRODUCT",
+      "bbox": [
+        77,
+        240,
+        103,
+        249
+      ]
+    },
+    {
+      "text": "1.5",
+      "label": "QUANTITY",
+      "bbox": [
+        33,
+        257,
+        53,
+        264
+      ]
+    },
+    {
+      "text": "₹228.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        73,
+        257,
+        119,
+        264
+      ]
+    },
+    {
+      "text": "₹342.75",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        401,
+        257,
+        447,
+        264
+      ]
+    },
+    {
+      "text": "Subtotal",
+      "label": "O",
+      "bbox": [
+        20,
+        291,
+        73,
+        298
+      ]
+    },
+    {
+      "text": "3277.87",
+      "label": "SUBTOTAL",
+      "bbox": [
+        401,
+        291,
+        447,
+        298
+      ]
+    },
+    {
+      "text": "TOTAL",
+      "label": "O",
+      "bbox": [
+        20,
+        325,
+        53,
+        332
+      ]
+    },
+    {
+      "text": "Rs. 3277.87",
+      "label": "TOTAL",
+      "bbox": [
+        374,
+        325,
+        447,
+        332
+      ]
+    },
+    {
+      "text": "PAID",
+      "label": "O",
+      "bbox": [
+        20,
+        342,
+        47,
+        349
+      ]
+    },
+    {
+      "text": "Rs. 3277.87",
+      "label": "PAID",
+      "bbox": [
+        374,
+        342,
+        447,
+        349
+      ]
+    }
+  ]
+}

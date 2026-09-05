@@ -1,0 +1,1108 @@
+{
+  "document": "invoice_0099.png",
+  "layout": "traditional",
+  "width": 1196,
+  "height": 627,
+  "tokens": [
+    {
+      "text": "INVOICE",
+      "label": "O",
+      "bbox": [
+        561,
+        40,
+        635,
+        52
+      ]
+    },
+    {
+      "text": "Durga",
+      "label": "SUPPLIER",
+      "bbox": [
+        59,
+        76,
+        95,
+        88
+      ]
+    },
+    {
+      "text": "Brothers",
+      "label": "SUPPLIER",
+      "bbox": [
+        99,
+        76,
+        148,
+        85
+      ]
+    },
+    {
+      "text": "Stores",
+      "label": "SUPPLIER",
+      "bbox": [
+        152,
+        76,
+        186,
+        85
+      ]
+    },
+    {
+      "text": "Vou. No:",
+      "label": "O",
+      "bbox": [
+        633,
+        76,
+        680,
+        86
+      ]
+    },
+    {
+      "text": "INV/2021/3033",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        686,
+        76,
+        769,
+        85
+      ]
+    },
+    {
+      "text": "602,",
+      "label": "O",
+      "bbox": [
+        59,
+        97,
+        82,
+        108
+      ]
+    },
+    {
+      "text": "Shivaji",
+      "label": "O",
+      "bbox": [
+        86,
+        97,
+        123,
+        109
+      ]
+    },
+    {
+      "text": "Chowk",
+      "label": "O",
+      "bbox": [
+        127,
+        97,
+        165,
+        106
+      ]
+    },
+    {
+      "text": "Date:",
+      "label": "O",
+      "bbox": [
+        633,
+        97,
+        661,
+        106
+      ]
+    },
+    {
+      "text": "03.12.2026",
+      "label": "DATE",
+      "bbox": [
+        667,
+        97,
+        726,
+        106
+      ]
+    },
+    {
+      "text": "Patna",
+      "label": "O",
+      "bbox": [
+        59,
+        118,
+        88,
+        127
+      ]
+    },
+    {
+      "text": "Customer:",
+      "label": "O",
+      "bbox": [
+        59,
+        146,
+        113,
+        155
+      ]
+    },
+    {
+      "text": "Ajay",
+      "label": "CUSTOMER",
+      "bbox": [
+        69,
+        167,
+        96,
+        179
+      ]
+    },
+    {
+      "text": "Nair",
+      "label": "CUSTOMER",
+      "bbox": [
+        100,
+        167,
+        126,
+        176
+      ]
+    },
+    {
+      "text": "68,",
+      "label": "O",
+      "bbox": [
+        69,
+        188,
+        85,
+        199
+      ]
+    },
+    {
+      "text": "Lucknow",
+      "label": "O",
+      "bbox": [
+        89,
+        188,
+        139,
+        197
+      ]
+    },
+    {
+      "text": "#",
+      "label": "O",
+      "bbox": [
+        59,
+        232,
+        66,
+        241
+      ]
+    },
+    {
+      "text": "Description",
+      "label": "O",
+      "bbox": [
+        123,
+        232,
+        187,
+        244
+      ]
+    },
+    {
+      "text": "Qty",
+      "label": "O",
+      "bbox": [
+        554,
+        232,
+        575,
+        244
+      ]
+    },
+    {
+      "text": "Unit",
+      "label": "O",
+      "bbox": [
+        683,
+        232,
+        708,
+        241
+      ]
+    },
+    {
+      "text": "Rate",
+      "label": "O",
+      "bbox": [
+        812,
+        232,
+        838,
+        241
+      ]
+    },
+    {
+      "text": "Amount",
+      "label": "O",
+      "bbox": [
+        941,
+        232,
+        987,
+        241
+      ]
+    },
+    {
+      "text": "Saffola",
+      "label": "PRODUCT",
+      "bbox": [
+        123,
+        249,
+        161,
+        258
+      ]
+    },
+    {
+      "text": "Gold",
+      "label": "PRODUCT",
+      "bbox": [
+        165,
+        249,
+        192,
+        258
+      ]
+    },
+    {
+      "text": "Oil",
+      "label": "PRODUCT",
+      "bbox": [
+        196,
+        249,
+        213,
+        258
+      ]
+    },
+    {
+      "text": "1L",
+      "label": "PRODUCT",
+      "bbox": [
+        217,
+        249,
+        232,
+        258
+      ]
+    },
+    {
+      "text": "10",
+      "label": "QUANTITY",
+      "bbox": [
+        554,
+        249,
+        568,
+        258
+      ]
+    },
+    {
+      "text": "packet",
+      "label": "UNIT",
+      "bbox": [
+        682,
+        249,
+        717,
+        261
+      ]
+    },
+    {
+      "text": "155.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        812,
+        249,
+        848,
+        258
+      ]
+    },
+    {
+      "text": "1550.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        941,
+        249,
+        984,
+        258
+      ]
+    },
+    {
+      "text": "Haldiram",
+      "label": "PRODUCT",
+      "bbox": [
+        123,
+        270,
+        173,
+        279
+      ]
+    },
+    {
+      "text": "Bhujia",
+      "label": "PRODUCT",
+      "bbox": [
+        177,
+        270,
+        212,
+        282
+      ]
+    },
+    {
+      "text": "400g",
+      "label": "PRODUCT",
+      "bbox": [
+        216,
+        270,
+        243,
+        282
+      ]
+    },
+    {
+      "text": "2.5",
+      "label": "QUANTITY",
+      "bbox": [
+        554,
+        270,
+        570,
+        279
+      ]
+    },
+    {
+      "text": "pack",
+      "label": "UNIT",
+      "bbox": [
+        682,
+        270,
+        708,
+        282
+      ]
+    },
+    {
+      "text": "₹403.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        812,
+        270,
+        855,
+        279
+      ]
+    },
+    {
+      "text": "1,008.75",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        941,
+        270,
+        987,
+        281
+      ]
+    },
+    {
+      "text": "Hamam",
+      "label": "PRODUCT",
+      "bbox": [
+        123,
+        291,
+        165,
+        300
+      ]
+    },
+    {
+      "text": "Soap",
+      "label": "PRODUCT",
+      "bbox": [
+        169,
+        291,
+        196,
+        303
+      ]
+    },
+    {
+      "text": "100g",
+      "label": "PRODUCT",
+      "bbox": [
+        200,
+        291,
+        227,
+        303
+      ]
+    },
+    {
+      "text": "0.5",
+      "label": "QUANTITY",
+      "bbox": [
+        554,
+        291,
+        570,
+        300
+      ]
+    },
+    {
+      "text": "g",
+      "label": "UNIT",
+      "bbox": [
+        683,
+        294,
+        690,
+        303
+      ]
+    },
+    {
+      "text": "Rs. 12.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        812,
+        291,
+        862,
+        300
+      ]
+    },
+    {
+      "text": "Rs. 6.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        941,
+        291,
+        984,
+        300
+      ]
+    },
+    {
+      "text": "Fortune",
+      "label": "PRODUCT",
+      "bbox": [
+        123,
+        312,
+        164,
+        321
+      ]
+    },
+    {
+      "text": "Basmati",
+      "label": "PRODUCT",
+      "bbox": [
+        168,
+        312,
+        211,
+        321
+      ]
+    },
+    {
+      "text": "Rice",
+      "label": "PRODUCT",
+      "bbox": [
+        215,
+        312,
+        239,
+        321
+      ]
+    },
+    {
+      "text": "5kg",
+      "label": "PRODUCT",
+      "bbox": [
+        243,
+        312,
+        263,
+        324
+      ]
+    },
+    {
+      "text": "1",
+      "label": "QUANTITY",
+      "bbox": [
+        554,
+        312,
+        561,
+        321
+      ]
+    },
+    {
+      "text": "L",
+      "label": "UNIT",
+      "bbox": [
+        683,
+        312,
+        691,
+        321
+      ]
+    },
+    {
+      "text": "430.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        812,
+        312,
+        848,
+        321
+      ]
+    },
+    {
+      "text": "₹430.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        941,
+        312,
+        984,
+        321
+      ]
+    },
+    {
+      "text": "Aashirvaad",
+      "label": "PRODUCT",
+      "bbox": [
+        123,
+        333,
+        183,
+        342
+      ]
+    },
+    {
+      "text": "Atta",
+      "label": "PRODUCT",
+      "bbox": [
+        187,
+        333,
+        210,
+        342
+      ]
+    },
+    {
+      "text": "5kg",
+      "label": "PRODUCT",
+      "bbox": [
+        214,
+        333,
+        234,
+        345
+      ]
+    },
+    {
+      "text": "4",
+      "label": "QUANTITY",
+      "bbox": [
+        554,
+        333,
+        561,
+        342
+      ]
+    },
+    {
+      "text": "g",
+      "label": "UNIT",
+      "bbox": [
+        683,
+        336,
+        690,
+        345
+      ]
+    },
+    {
+      "text": "Rs. 326.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        812,
+        333,
+        868,
+        342
+      ]
+    },
+    {
+      "text": "1306.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        941,
+        333,
+        984,
+        342
+      ]
+    },
+    {
+      "text": "Parle-G",
+      "label": "PRODUCT",
+      "bbox": [
+        123,
+        354,
+        164,
+        363
+      ]
+    },
+    {
+      "text": "Biscuits",
+      "label": "PRODUCT",
+      "bbox": [
+        168,
+        354,
+        210,
+        363
+      ]
+    },
+    {
+      "text": "200g",
+      "label": "PRODUCT",
+      "bbox": [
+        214,
+        354,
+        241,
+        366
+      ]
+    },
+    {
+      "text": "2",
+      "label": "QUANTITY",
+      "bbox": [
+        554,
+        354,
+        561,
+        363
+      ]
+    },
+    {
+      "text": "kg",
+      "label": "UNIT",
+      "bbox": [
+        683,
+        354,
+        697,
+        366
+      ]
+    },
+    {
+      "text": "154",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        812,
+        354,
+        832,
+        363
+      ]
+    },
+    {
+      "text": "Rs. 308.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        941,
+        354,
+        997,
+        363
+      ]
+    },
+    {
+      "text": "Saffola",
+      "label": "PRODUCT",
+      "bbox": [
+        123,
+        375,
+        161,
+        384
+      ]
+    },
+    {
+      "text": "Gold",
+      "label": "PRODUCT",
+      "bbox": [
+        165,
+        375,
+        192,
+        384
+      ]
+    },
+    {
+      "text": "Oil",
+      "label": "PRODUCT",
+      "bbox": [
+        196,
+        375,
+        213,
+        384
+      ]
+    },
+    {
+      "text": "5L",
+      "label": "PRODUCT",
+      "bbox": [
+        217,
+        375,
+        232,
+        384
+      ]
+    },
+    {
+      "text": "2.5",
+      "label": "QUANTITY",
+      "bbox": [
+        554,
+        375,
+        570,
+        384
+      ]
+    },
+    {
+      "text": "packet",
+      "label": "UNIT",
+      "bbox": [
+        682,
+        375,
+        717,
+        387
+      ]
+    },
+    {
+      "text": "214",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        812,
+        375,
+        832,
+        384
+      ]
+    },
+    {
+      "text": "535.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        941,
+        375,
+        977,
+        384
+      ]
+    },
+    {
+      "text": "Aashirvaad",
+      "label": "PRODUCT",
+      "bbox": [
+        123,
+        396,
+        183,
+        405
+      ]
+    },
+    {
+      "text": "Atta",
+      "label": "PRODUCT",
+      "bbox": [
+        187,
+        396,
+        210,
+        405
+      ]
+    },
+    {
+      "text": "10kg",
+      "label": "PRODUCT",
+      "bbox": [
+        214,
+        396,
+        241,
+        408
+      ]
+    },
+    {
+      "text": "0.5",
+      "label": "QUANTITY",
+      "bbox": [
+        554,
+        396,
+        570,
+        405
+      ]
+    },
+    {
+      "text": "g",
+      "label": "UNIT",
+      "bbox": [
+        683,
+        399,
+        690,
+        408
+      ]
+    },
+    {
+      "text": "₹370.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        812,
+        396,
+        855,
+        405
+      ]
+    },
+    {
+      "text": "185.25",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        941,
+        396,
+        977,
+        405
+      ]
+    },
+    {
+      "text": "Sugar",
+      "label": "PRODUCT",
+      "bbox": [
+        123,
+        417,
+        154,
+        429
+      ]
+    },
+    {
+      "text": "5kg",
+      "label": "PRODUCT",
+      "bbox": [
+        158,
+        417,
+        178,
+        429
+      ]
+    },
+    {
+      "text": "10",
+      "label": "QUANTITY",
+      "bbox": [
+        554,
+        417,
+        568,
+        426
+      ]
+    },
+    {
+      "text": "packet",
+      "label": "UNIT",
+      "bbox": [
+        682,
+        417,
+        717,
+        429
+      ]
+    },
+    {
+      "text": "Rs. 14.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        812,
+        417,
+        862,
+        426
+      ]
+    },
+    {
+      "text": "145",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        941,
+        417,
+        961,
+        426
+      ]
+    },
+    {
+      "text": "Wheel",
+      "label": "PRODUCT",
+      "bbox": [
+        123,
+        438,
+        157,
+        447
+      ]
+    },
+    {
+      "text": "Detergent",
+      "label": "PRODUCT",
+      "bbox": [
+        161,
+        438,
+        212,
+        450
+      ]
+    },
+    {
+      "text": "500g",
+      "label": "PRODUCT",
+      "bbox": [
+        216,
+        438,
+        243,
+        450
+      ]
+    },
+    {
+      "text": "2.5",
+      "label": "QUANTITY",
+      "bbox": [
+        554,
+        438,
+        570,
+        447
+      ]
+    },
+    {
+      "text": "L",
+      "label": "UNIT",
+      "bbox": [
+        683,
+        438,
+        691,
+        447
+      ]
+    },
+    {
+      "text": "Rs. 151.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        812,
+        438,
+        868,
+        447
+      ]
+    },
+    {
+      "text": "Rs. 377.50",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        941,
+        438,
+        997,
+        447
+      ]
+    },
+    {
+      "text": "Yippee",
+      "label": "PRODUCT",
+      "bbox": [
+        123,
+        459,
+        160,
+        471
+      ]
+    },
+    {
+      "text": "Noodles",
+      "label": "PRODUCT",
+      "bbox": [
+        163,
+        459,
+        207,
+        469
+      ]
+    },
+    {
+      "text": "70g",
+      "label": "PRODUCT",
+      "bbox": [
+        211,
+        459,
+        231,
+        471
+      ]
+    },
+    {
+      "text": "4",
+      "label": "QUANTITY",
+      "bbox": [
+        554,
+        459,
+        561,
+        468
+      ]
+    },
+    {
+      "text": "box",
+      "label": "UNIT",
+      "bbox": [
+        682,
+        459,
+        703,
+        468
+      ]
+    },
+    {
+      "text": "₹9.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        812,
+        459,
+        842,
+        468
+      ]
+    },
+    {
+      "text": "Rs. 36.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        941,
+        459,
+        991,
+        468
+      ]
+    },
+    {
+      "text": "Subtotal:",
+      "label": "O",
+      "bbox": [
+        598,
+        488,
+        645,
+        497
+      ]
+    },
+    {
+      "text": "5887.50",
+      "label": "SUBTOTAL",
+      "bbox": [
+        1037,
+        488,
+        1080,
+        497
+      ]
+    },
+    {
+      "text": "Net Amount:",
+      "label": "O",
+      "bbox": [
+        597,
+        505,
+        666,
+        515
+      ]
+    },
+    {
+      "text": "5887.50",
+      "label": "TOTAL",
+      "bbox": [
+        1037,
+        505,
+        1080,
+        514
+      ]
+    },
+    {
+      "text": "Amount Paid:",
+      "label": "O",
+      "bbox": [
+        598,
+        519,
+        671,
+        528
+      ]
+    },
+    {
+      "text": "2940.00",
+      "label": "PAID",
+      "bbox": [
+        1037,
+        519,
+        1080,
+        528
+      ]
+    },
+    {
+      "text": "Amount Due:",
+      "label": "O",
+      "bbox": [
+        598,
+        532,
+        669,
+        541
+      ]
+    },
+    {
+      "text": "Rs. 2947.50",
+      "label": "DUE",
+      "bbox": [
+        1037,
+        532,
+        1101,
+        541
+      ]
+    }
+  ]
+}

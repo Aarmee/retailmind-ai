@@ -1,0 +1,338 @@
+{
+  "document": "invoice_0085.png",
+  "layout": "thermal_receipt",
+  "width": 437,
+  "height": 324,
+  "tokens": [
+    {
+      "text": "New",
+      "label": "SUPPLIER",
+      "bbox": [
+        103,
+        18,
+        130,
+        26
+      ]
+    },
+    {
+      "text": "Enterprises",
+      "label": "SUPPLIER",
+      "bbox": [
+        134,
+        17,
+        226,
+        29
+      ]
+    },
+    {
+      "text": "Enterprises",
+      "label": "SUPPLIER",
+      "bbox": [
+        230,
+        17,
+        322,
+        29
+      ]
+    },
+    {
+      "text": "Nagpur",
+      "label": "O",
+      "bbox": [
+        200,
+        35,
+        236,
+        43
+      ]
+    },
+    {
+      "text": "Bill#:",
+      "label": "O",
+      "bbox": [
+        20,
+        66,
+        56,
+        74
+      ]
+    },
+    {
+      "text": "274444",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        60,
+        67,
+        96,
+        73
+      ]
+    },
+    {
+      "text": "20.03.2026",
+      "label": "DATE",
+      "bbox": [
+        357,
+        67,
+        417,
+        73
+      ]
+    },
+    {
+      "text": "Refined",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        99,
+        62,
+        105
+      ]
+    },
+    {
+      "text": "Sugar",
+      "label": "PRODUCT",
+      "bbox": [
+        66,
+        99,
+        96,
+        107
+      ]
+    },
+    {
+      "text": "1kg",
+      "label": "PRODUCT",
+      "bbox": [
+        100,
+        99,
+        118,
+        107
+      ]
+    },
+    {
+      "text": "6",
+      "label": "QUANTITY",
+      "bbox": [
+        32,
+        115,
+        38,
+        121
+      ]
+    },
+    {
+      "text": "123.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        56,
+        115,
+        92,
+        121
+      ]
+    },
+    {
+      "text": "₹738.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        375,
+        115,
+        417,
+        121
+      ]
+    },
+    {
+      "text": "Stayfree",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        131,
+        68,
+        139
+      ]
+    },
+    {
+      "text": "XL",
+      "label": "PRODUCT",
+      "bbox": [
+        72,
+        131,
+        84,
+        137
+      ]
+    },
+    {
+      "text": "8pc",
+      "label": "PRODUCT",
+      "bbox": [
+        88,
+        131,
+        106,
+        139
+      ]
+    },
+    {
+      "text": "0.25",
+      "label": "QUANTITY",
+      "bbox": [
+        32,
+        147,
+        56,
+        153
+      ]
+    },
+    {
+      "text": "223.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        74,
+        147,
+        110,
+        153
+      ]
+    },
+    {
+      "text": "Rs. 55.75",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        363,
+        147,
+        417,
+        153
+      ]
+    },
+    {
+      "text": "Amul",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        163,
+        44,
+        169
+      ]
+    },
+    {
+      "text": "Butter",
+      "label": "PRODUCT",
+      "bbox": [
+        48,
+        163,
+        84,
+        169
+      ]
+    },
+    {
+      "text": "100g",
+      "label": "PRODUCT",
+      "bbox": [
+        88,
+        163,
+        112,
+        171
+      ]
+    },
+    {
+      "text": "1.5",
+      "label": "QUANTITY",
+      "bbox": [
+        32,
+        179,
+        50,
+        185
+      ]
+    },
+    {
+      "text": "283.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        68,
+        179,
+        104,
+        185
+      ]
+    },
+    {
+      "text": "Rs. 425.25",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        357,
+        179,
+        417,
+        185
+      ]
+    },
+    {
+      "text": "Subtotal",
+      "label": "O",
+      "bbox": [
+        20,
+        211,
+        68,
+        217
+      ]
+    },
+    {
+      "text": "1219",
+      "label": "SUBTOTAL",
+      "bbox": [
+        393,
+        211,
+        417,
+        217
+      ]
+    },
+    {
+      "text": "Discount",
+      "label": "O",
+      "bbox": [
+        20,
+        227,
+        68,
+        233
+      ]
+    },
+    {
+      "text": "60.95",
+      "label": "DISCOUNT",
+      "bbox": [
+        387,
+        227,
+        417,
+        233
+      ]
+    },
+    {
+      "text": "TOTAL",
+      "label": "O",
+      "bbox": [
+        20,
+        259,
+        50,
+        265
+      ]
+    },
+    {
+      "text": "1,158.05",
+      "label": "TOTAL",
+      "bbox": [
+        369,
+        259,
+        417,
+        267
+      ]
+    },
+    {
+      "text": "PAID",
+      "label": "O",
+      "bbox": [
+        20,
+        275,
+        44,
+        281
+      ]
+    },
+    {
+      "text": "1,158.05",
+      "label": "PAID",
+      "bbox": [
+        369,
+        275,
+        417,
+        283
+      ]
+    }
+  ]
+}

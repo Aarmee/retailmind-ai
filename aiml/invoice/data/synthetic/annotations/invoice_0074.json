@@ -1,0 +1,758 @@
+{
+  "document": "invoice_0074.png",
+  "layout": "thermal_receipt",
+  "width": 432,
+  "height": 532,
+  "tokens": [
+    {
+      "text": "India",
+      "label": "SUPPLIER",
+      "bbox": [
+        98,
+        17,
+        141,
+        26
+      ]
+    },
+    {
+      "text": "Distributors",
+      "label": "SUPPLIER",
+      "bbox": [
+        145,
+        17,
+        246,
+        26
+      ]
+    },
+    {
+      "text": "Pvt.",
+      "label": "SUPPLIER",
+      "bbox": [
+        250,
+        18,
+        284,
+        26
+      ]
+    },
+    {
+      "text": "Ltd.",
+      "label": "SUPPLIER",
+      "bbox": [
+        288,
+        17,
+        322,
+        26
+      ]
+    },
+    {
+      "text": "Mumbai",
+      "label": "O",
+      "bbox": [
+        198,
+        35,
+        234,
+        41
+      ]
+    },
+    {
+      "text": "Bill#:",
+      "label": "O",
+      "bbox": [
+        20,
+        66,
+        56,
+        74
+      ]
+    },
+    {
+      "text": "INV7987",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        60,
+        67,
+        102,
+        73
+      ]
+    },
+    {
+      "text": "13 Mar 2026",
+      "label": "DATE",
+      "bbox": [
+        346,
+        67,
+        412,
+        73
+      ]
+    },
+    {
+      "text": "7UP",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        99,
+        38,
+        105
+      ]
+    },
+    {
+      "text": "500ml",
+      "label": "PRODUCT",
+      "bbox": [
+        42,
+        99,
+        72,
+        105
+      ]
+    },
+    {
+      "text": "2",
+      "label": "QUANTITY",
+      "bbox": [
+        32,
+        115,
+        38,
+        121
+      ]
+    },
+    {
+      "text": "51.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        56,
+        115,
+        86,
+        121
+      ]
+    },
+    {
+      "text": "102",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        394,
+        115,
+        412,
+        121
+      ]
+    },
+    {
+      "text": "Boost",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        131,
+        50,
+        137
+      ]
+    },
+    {
+      "text": "Chocolate",
+      "label": "PRODUCT",
+      "bbox": [
+        54,
+        131,
+        108,
+        137
+      ]
+    },
+    {
+      "text": "Drink",
+      "label": "PRODUCT",
+      "bbox": [
+        112,
+        131,
+        142,
+        137
+      ]
+    },
+    {
+      "text": "500g",
+      "label": "PRODUCT",
+      "bbox": [
+        146,
+        131,
+        170,
+        139
+      ]
+    },
+    {
+      "text": "5",
+      "label": "QUANTITY",
+      "bbox": [
+        32,
+        147,
+        38,
+        153
+      ]
+    },
+    {
+      "text": "158.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        56,
+        147,
+        92,
+        153
+      ]
+    },
+    {
+      "text": "Rs. 792.50",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        352,
+        147,
+        412,
+        153
+      ]
+    },
+    {
+      "text": "Coca",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        163,
+        44,
+        169
+      ]
+    },
+    {
+      "text": "Cola",
+      "label": "PRODUCT",
+      "bbox": [
+        48,
+        163,
+        72,
+        169
+      ]
+    },
+    {
+      "text": "1L",
+      "label": "PRODUCT",
+      "bbox": [
+        76,
+        163,
+        88,
+        169
+      ]
+    },
+    {
+      "text": "24",
+      "label": "QUANTITY",
+      "bbox": [
+        32,
+        179,
+        44,
+        185
+      ]
+    },
+    {
+      "text": "119.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        62,
+        179,
+        98,
+        185
+      ]
+    },
+    {
+      "text": "₹2868.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        364,
+        179,
+        412,
+        185
+      ]
+    },
+    {
+      "text": "Durex",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        195,
+        50,
+        201
+      ]
+    },
+    {
+      "text": "Condom",
+      "label": "PRODUCT",
+      "bbox": [
+        54,
+        195,
+        90,
+        201
+      ]
+    },
+    {
+      "text": "10pc",
+      "label": "PRODUCT",
+      "bbox": [
+        94,
+        195,
+        118,
+        203
+      ]
+    },
+    {
+      "text": "1",
+      "label": "QUANTITY",
+      "bbox": [
+        32,
+        211,
+        38,
+        217
+      ]
+    },
+    {
+      "text": "457.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        56,
+        211,
+        92,
+        217
+      ]
+    },
+    {
+      "text": "Rs. 457.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        352,
+        211,
+        412,
+        217
+      ]
+    },
+    {
+      "text": "Toor",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        227,
+        44,
+        233
+      ]
+    },
+    {
+      "text": "Dal",
+      "label": "PRODUCT",
+      "bbox": [
+        48,
+        227,
+        66,
+        233
+      ]
+    },
+    {
+      "text": "1kg",
+      "label": "PRODUCT",
+      "bbox": [
+        70,
+        227,
+        88,
+        235
+      ]
+    },
+    {
+      "text": "2",
+      "label": "QUANTITY",
+      "bbox": [
+        32,
+        243,
+        38,
+        249
+      ]
+    },
+    {
+      "text": "395.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        56,
+        243,
+        92,
+        249
+      ]
+    },
+    {
+      "text": "₹791.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        370,
+        243,
+        412,
+        249
+      ]
+    },
+    {
+      "text": "Amul",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        259,
+        44,
+        265
+      ]
+    },
+    {
+      "text": "Butter",
+      "label": "PRODUCT",
+      "bbox": [
+        48,
+        259,
+        84,
+        265
+      ]
+    },
+    {
+      "text": "500g",
+      "label": "PRODUCT",
+      "bbox": [
+        88,
+        259,
+        112,
+        267
+      ]
+    },
+    {
+      "text": "6",
+      "label": "QUANTITY",
+      "bbox": [
+        32,
+        275,
+        38,
+        281
+      ]
+    },
+    {
+      "text": "20",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        56,
+        275,
+        68,
+        281
+      ]
+    },
+    {
+      "text": "120",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        394,
+        275,
+        412,
+        281
+      ]
+    },
+    {
+      "text": "Maggi",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        291,
+        50,
+        299
+      ]
+    },
+    {
+      "text": "Sauce",
+      "label": "PRODUCT",
+      "bbox": [
+        54,
+        291,
+        84,
+        297
+      ]
+    },
+    {
+      "text": "500g",
+      "label": "PRODUCT",
+      "bbox": [
+        88,
+        291,
+        112,
+        299
+      ]
+    },
+    {
+      "text": "5",
+      "label": "QUANTITY",
+      "bbox": [
+        32,
+        307,
+        38,
+        313
+      ]
+    },
+    {
+      "text": "242.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        56,
+        307,
+        92,
+        313
+      ]
+    },
+    {
+      "text": "1,210.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        364,
+        307,
+        412,
+        315
+      ]
+    },
+    {
+      "text": "Pril",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        323,
+        44,
+        329
+      ]
+    },
+    {
+      "text": "Liquid",
+      "label": "PRODUCT",
+      "bbox": [
+        48,
+        323,
+        84,
+        331
+      ]
+    },
+    {
+      "text": "500ml",
+      "label": "PRODUCT",
+      "bbox": [
+        88,
+        323,
+        118,
+        329
+      ]
+    },
+    {
+      "text": "0.25",
+      "label": "QUANTITY",
+      "bbox": [
+        32,
+        339,
+        56,
+        345
+      ]
+    },
+    {
+      "text": "304.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        74,
+        339,
+        110,
+        345
+      ]
+    },
+    {
+      "text": "76.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        382,
+        339,
+        412,
+        345
+      ]
+    },
+    {
+      "text": "Tata",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        355,
+        44,
+        361
+      ]
+    },
+    {
+      "text": "Sampann",
+      "label": "PRODUCT",
+      "bbox": [
+        48,
+        355,
+        90,
+        363
+      ]
+    },
+    {
+      "text": "Turmeric",
+      "label": "PRODUCT",
+      "bbox": [
+        94,
+        355,
+        142,
+        361
+      ]
+    },
+    {
+      "text": "200g",
+      "label": "PRODUCT",
+      "bbox": [
+        146,
+        355,
+        170,
+        363
+      ]
+    },
+    {
+      "text": "1",
+      "label": "QUANTITY",
+      "bbox": [
+        32,
+        371,
+        38,
+        377
+      ]
+    },
+    {
+      "text": "Rs. 409.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        56,
+        371,
+        116,
+        377
+      ]
+    },
+    {
+      "text": "₹409.50",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        370,
+        371,
+        412,
+        377
+      ]
+    },
+    {
+      "text": "Hamam",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        387,
+        50,
+        393
+      ]
+    },
+    {
+      "text": "Soap",
+      "label": "PRODUCT",
+      "bbox": [
+        54,
+        387,
+        78,
+        395
+      ]
+    },
+    {
+      "text": "100g",
+      "label": "PRODUCT",
+      "bbox": [
+        82,
+        387,
+        106,
+        395
+      ]
+    },
+    {
+      "text": "0.25",
+      "label": "QUANTITY",
+      "bbox": [
+        32,
+        403,
+        56,
+        409
+      ]
+    },
+    {
+      "text": "326.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        74,
+        403,
+        110,
+        409
+      ]
+    },
+    {
+      "text": "Rs. 81.62",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        358,
+        403,
+        412,
+        409
+      ]
+    },
+    {
+      "text": "Subtotal",
+      "label": "O",
+      "bbox": [
+        20,
+        435,
+        68,
+        441
+      ]
+    },
+    {
+      "text": "₹6907.62",
+      "label": "SUBTOTAL",
+      "bbox": [
+        364,
+        435,
+        412,
+        441
+      ]
+    },
+    {
+      "text": "TOTAL",
+      "label": "O",
+      "bbox": [
+        20,
+        467,
+        50,
+        473
+      ]
+    },
+    {
+      "text": "Rs. 6907.62",
+      "label": "TOTAL",
+      "bbox": [
+        346,
+        467,
+        412,
+        473
+      ]
+    },
+    {
+      "text": "PAID",
+      "label": "O",
+      "bbox": [
+        20,
+        483,
+        44,
+        489
+      ]
+    },
+    {
+      "text": "6907.62",
+      "label": "PAID",
+      "bbox": [
+        370,
+        483,
+        412,
+        489
+      ]
+    }
+  ]
+}

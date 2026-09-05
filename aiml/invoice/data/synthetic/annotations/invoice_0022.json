@@ -1,0 +1,428 @@
+{
+  "document": "invoice_0022.png",
+  "layout": "traditional",
+  "width": 993,
+  "height": 404,
+  "tokens": [
+    {
+      "text": "INVOICE",
+      "label": "O",
+      "bbox": [
+        469,
+        31,
+        524,
+        41
+      ]
+    },
+    {
+      "text": "Bharat",
+      "label": "SUPPLIER",
+      "bbox": [
+        65,
+        67,
+        98,
+        75
+      ]
+    },
+    {
+      "text": "Depot",
+      "label": "SUPPLIER",
+      "bbox": [
+        102,
+        67,
+        133,
+        77
+      ]
+    },
+    {
+      "text": "&",
+      "label": "SUPPLIER",
+      "bbox": [
+        137,
+        67,
+        145,
+        75
+      ]
+    },
+    {
+      "text": "Co.",
+      "label": "SUPPLIER",
+      "bbox": [
+        149,
+        67,
+        165,
+        75
+      ]
+    },
+    {
+      "text": "Invoice No:",
+      "label": "O",
+      "bbox": [
+        481,
+        67,
+        536,
+        75
+      ]
+    },
+    {
+      "text": "491435",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        542,
+        67,
+        578,
+        75
+      ]
+    },
+    {
+      "text": "977,",
+      "label": "O",
+      "bbox": [
+        65,
+        87,
+        86,
+        97
+      ]
+    },
+    {
+      "text": "MG",
+      "label": "O",
+      "bbox": [
+        90,
+        87,
+        108,
+        95
+      ]
+    },
+    {
+      "text": "Road",
+      "label": "O",
+      "bbox": [
+        112,
+        87,
+        137,
+        95
+      ]
+    },
+    {
+      "text": "Date:",
+      "label": "O",
+      "bbox": [
+        481,
+        87,
+        507,
+        95
+      ]
+    },
+    {
+      "text": "09.12.2022",
+      "label": "DATE",
+      "bbox": [
+        513,
+        87,
+        568,
+        95
+      ]
+    },
+    {
+      "text": "Vadodara",
+      "label": "O",
+      "bbox": [
+        65,
+        107,
+        112,
+        115
+      ]
+    },
+    {
+      "text": "To,",
+      "label": "O",
+      "bbox": [
+        65,
+        134,
+        79,
+        144
+      ]
+    },
+    {
+      "text": "Vijay",
+      "label": "CUSTOMER",
+      "bbox": [
+        75,
+        153,
+        100,
+        164
+      ]
+    },
+    {
+      "text": "Reddy",
+      "label": "CUSTOMER",
+      "bbox": [
+        104,
+        154,
+        135,
+        164
+      ]
+    },
+    {
+      "text": "121,",
+      "label": "O",
+      "bbox": [
+        75,
+        174,
+        96,
+        184
+      ]
+    },
+    {
+      "text": "Delhi",
+      "label": "O",
+      "bbox": [
+        100,
+        174,
+        125,
+        182
+      ]
+    },
+    {
+      "text": "Item",
+      "label": "O",
+      "bbox": [
+        65,
+        218,
+        88,
+        226
+      ]
+    },
+    {
+      "text": "Description",
+      "label": "O",
+      "bbox": [
+        116,
+        217,
+        173,
+        228
+      ]
+    },
+    {
+      "text": "Qty",
+      "label": "O",
+      "bbox": [
+        461,
+        218,
+        479,
+        228
+      ]
+    },
+    {
+      "text": "Unit",
+      "label": "O",
+      "bbox": [
+        564,
+        217,
+        585,
+        226
+      ]
+    },
+    {
+      "text": "Unit Price",
+      "label": "O",
+      "bbox": [
+        667,
+        217,
+        716,
+        226
+      ]
+    },
+    {
+      "text": "Total",
+      "label": "O",
+      "bbox": [
+        770,
+        218,
+        794,
+        226
+      ]
+    },
+    {
+      "text": "Sprite",
+      "label": "PRODUCT",
+      "bbox": [
+        116,
+        233,
+        145,
+        243
+      ]
+    },
+    {
+      "text": "1L",
+      "label": "PRODUCT",
+      "bbox": [
+        149,
+        233,
+        160,
+        241
+      ]
+    },
+    {
+      "text": "12",
+      "label": "QUANTITY",
+      "bbox": [
+        461,
+        233,
+        473,
+        241
+      ]
+    },
+    {
+      "text": "box",
+      "label": "UNIT",
+      "bbox": [
+        564,
+        233,
+        582,
+        241
+      ]
+    },
+    {
+      "text": "₹71.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        667,
+        233,
+        700,
+        241
+      ]
+    },
+    {
+      "text": "852.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        770,
+        233,
+        803,
+        241
+      ]
+    },
+    {
+      "text": "Rajma",
+      "label": "PRODUCT",
+      "bbox": [
+        116,
+        253,
+        147,
+        263
+      ]
+    },
+    {
+      "text": "500g",
+      "label": "PRODUCT",
+      "bbox": [
+        151,
+        253,
+        175,
+        263
+      ]
+    },
+    {
+      "text": "0.75",
+      "label": "QUANTITY",
+      "bbox": [
+        461,
+        253,
+        482,
+        261
+      ]
+    },
+    {
+      "text": "g",
+      "label": "UNIT",
+      "bbox": [
+        564,
+        255,
+        570,
+        263
+      ]
+    },
+    {
+      "text": "416.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        667,
+        253,
+        700,
+        261
+      ]
+    },
+    {
+      "text": "Rs. 312.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        770,
+        253,
+        820,
+        261
+      ]
+    },
+    {
+      "text": "Subtotal:",
+      "label": "O",
+      "bbox": [
+        496,
+        281,
+        540,
+        289
+      ]
+    },
+    {
+      "text": "1164",
+      "label": "SUBTOTAL",
+      "bbox": [
+        828,
+        281,
+        852,
+        289
+      ]
+    },
+    {
+      "text": "Grand Total:",
+      "label": "O",
+      "bbox": [
+        496,
+        297,
+        555,
+        305
+      ]
+    },
+    {
+      "text": "₹1164.00",
+      "label": "TOTAL",
+      "bbox": [
+        828,
+        297,
+        874,
+        305
+      ]
+    },
+    {
+      "text": "Paid:",
+      "label": "O",
+      "bbox": [
+        496,
+        309,
+        520,
+        317
+      ]
+    },
+    {
+      "text": "₹1164.00",
+      "label": "PAID",
+      "bbox": [
+        828,
+        309,
+        874,
+        317
+      ]
+    }
+  ]
+}

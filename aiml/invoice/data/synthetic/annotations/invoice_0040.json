@@ -1,0 +1,448 @@
+{
+  "document": "invoice_0040.png",
+  "layout": "traditional",
+  "width": 977,
+  "height": 463,
+  "tokens": [
+    {
+      "text": "INVOICE",
+      "label": "O",
+      "bbox": [
+        451,
+        44,
+        525,
+        57
+      ]
+    },
+    {
+      "text": "Prime",
+      "label": "SUPPLIER",
+      "bbox": [
+        40,
+        83,
+        79,
+        93
+      ]
+    },
+    {
+      "text": "Depot",
+      "label": "SUPPLIER",
+      "bbox": [
+        83,
+        83,
+        123,
+        96
+      ]
+    },
+    {
+      "text": "&",
+      "label": "SUPPLIER",
+      "bbox": [
+        127,
+        83,
+        137,
+        93
+      ]
+    },
+    {
+      "text": "Co.",
+      "label": "SUPPLIER",
+      "bbox": [
+        141,
+        83,
+        164,
+        93
+      ]
+    },
+    {
+      "text": "Bill No:",
+      "label": "O",
+      "bbox": [
+        449,
+        83,
+        493,
+        93
+      ]
+    },
+    {
+      "text": "172274",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        499,
+        83,
+        546,
+        93
+      ]
+    },
+    {
+      "text": "515,",
+      "label": "O",
+      "bbox": [
+        40,
+        105,
+        67,
+        117
+      ]
+    },
+    {
+      "text": "Station",
+      "label": "O",
+      "bbox": [
+        71,
+        104,
+        115,
+        115
+      ]
+    },
+    {
+      "text": "Road",
+      "label": "O",
+      "bbox": [
+        119,
+        105,
+        152,
+        115
+      ]
+    },
+    {
+      "text": "Date:",
+      "label": "O",
+      "bbox": [
+        449,
+        104,
+        482,
+        115
+      ]
+    },
+    {
+      "text": "15.05.2024",
+      "label": "DATE",
+      "bbox": [
+        488,
+        105,
+        558,
+        115
+      ]
+    },
+    {
+      "text": "Delhi",
+      "label": "O",
+      "bbox": [
+        40,
+        127,
+        72,
+        137
+      ]
+    },
+    {
+      "text": "Customer:",
+      "label": "O",
+      "bbox": [
+        40,
+        156,
+        105,
+        167
+      ]
+    },
+    {
+      "text": "Kavita",
+      "label": "CUSTOMER",
+      "bbox": [
+        50,
+        179,
+        92,
+        189
+      ]
+    },
+    {
+      "text": "Nair",
+      "label": "CUSTOMER",
+      "bbox": [
+        96,
+        179,
+        124,
+        189
+      ]
+    },
+    {
+      "text": "133,",
+      "label": "O",
+      "bbox": [
+        50,
+        201,
+        77,
+        213
+      ]
+    },
+    {
+      "text": "Delhi",
+      "label": "O",
+      "bbox": [
+        81,
+        201,
+        113,
+        211
+      ]
+    },
+    {
+      "text": "Description",
+      "label": "O",
+      "bbox": [
+        40,
+        248,
+        117,
+        261
+      ]
+    },
+    {
+      "text": "Qty",
+      "label": "O",
+      "bbox": [
+        398,
+        248,
+        422,
+        261
+      ]
+    },
+    {
+      "text": "Rate",
+      "label": "O",
+      "bbox": [
+        577,
+        248,
+        608,
+        258
+      ]
+    },
+    {
+      "text": "Total",
+      "label": "O",
+      "bbox": [
+        756,
+        248,
+        788,
+        258
+      ]
+    },
+    {
+      "text": "Colgate",
+      "label": "PRODUCT",
+      "bbox": [
+        40,
+        265,
+        88,
+        279
+      ]
+    },
+    {
+      "text": "Strong",
+      "label": "PRODUCT",
+      "bbox": [
+        92,
+        265,
+        133,
+        279
+      ]
+    },
+    {
+      "text": "Teeth",
+      "label": "PRODUCT",
+      "bbox": [
+        137,
+        265,
+        171,
+        276
+      ]
+    },
+    {
+      "text": "200g",
+      "label": "PRODUCT",
+      "bbox": [
+        175,
+        266,
+        206,
+        279
+      ]
+    },
+    {
+      "text": "0.25",
+      "label": "QUANTITY",
+      "bbox": [
+        398,
+        266,
+        425,
+        276
+      ]
+    },
+    {
+      "text": "₹149.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        577,
+        266,
+        628,
+        276
+      ]
+    },
+    {
+      "text": "37.38",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        756,
+        266,
+        791,
+        276
+      ]
+    },
+    {
+      "text": "Bingo",
+      "label": "PRODUCT",
+      "bbox": [
+        40,
+        288,
+        76,
+        301
+      ]
+    },
+    {
+      "text": "Mad",
+      "label": "PRODUCT",
+      "bbox": [
+        80,
+        288,
+        107,
+        298
+      ]
+    },
+    {
+      "text": "Angles",
+      "label": "PRODUCT",
+      "bbox": [
+        110,
+        288,
+        154,
+        301
+      ]
+    },
+    {
+      "text": "90g",
+      "label": "PRODUCT",
+      "bbox": [
+        158,
+        288,
+        181,
+        301
+      ]
+    },
+    {
+      "text": "1",
+      "label": "QUANTITY",
+      "bbox": [
+        398,
+        288,
+        406,
+        298
+      ]
+    },
+    {
+      "text": "187.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        577,
+        288,
+        620,
+        298
+      ]
+    },
+    {
+      "text": "Rs. 187.50",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        756,
+        288,
+        824,
+        298
+      ]
+    },
+    {
+      "text": "Subtotal:",
+      "label": "O",
+      "bbox": [
+        488,
+        317,
+        543,
+        328
+      ]
+    },
+    {
+      "text": "224.88",
+      "label": "SUBTOTAL",
+      "bbox": [
+        837,
+        318,
+        880,
+        328
+      ]
+    },
+    {
+      "text": "Total:",
+      "label": "O",
+      "bbox": [
+        488,
+        336,
+        521,
+        347
+      ]
+    },
+    {
+      "text": "₹224.88",
+      "label": "TOTAL",
+      "bbox": [
+        837,
+        337,
+        888,
+        347
+      ]
+    },
+    {
+      "text": "Paid:",
+      "label": "O",
+      "bbox": [
+        488,
+        352,
+        520,
+        362
+      ]
+    },
+    {
+      "text": "112.44",
+      "label": "PAID",
+      "bbox": [
+        837,
+        352,
+        879,
+        362
+      ]
+    },
+    {
+      "text": "Due:",
+      "label": "O",
+      "bbox": [
+        488,
+        366,
+        518,
+        376
+      ]
+    },
+    {
+      "text": "112.44",
+      "label": "DUE",
+      "bbox": [
+        837,
+        366,
+        879,
+        376
+      ]
+    }
+  ]
+}

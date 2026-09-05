@@ -1,0 +1,838 @@
+{
+  "document": "invoice_0032.png",
+  "layout": "kirana_bill",
+  "width": 688,
+  "height": 423,
+  "tokens": [
+    {
+      "text": "New",
+      "label": "SUPPLIER",
+      "bbox": [
+        276,
+        25,
+        309,
+        36
+      ]
+    },
+    {
+      "text": "Kirana",
+      "label": "SUPPLIER",
+      "bbox": [
+        313,
+        25,
+        365,
+        36
+      ]
+    },
+    {
+      "text": "&",
+      "label": "SUPPLIER",
+      "bbox": [
+        369,
+        25,
+        383,
+        36
+      ]
+    },
+    {
+      "text": "Co.",
+      "label": "SUPPLIER",
+      "bbox": [
+        387,
+        25,
+        412,
+        36
+      ]
+    },
+    {
+      "text": "537,",
+      "label": "O",
+      "bbox": [
+        302,
+        43,
+        322,
+        53
+      ]
+    },
+    {
+      "text": "Market",
+      "label": "O",
+      "bbox": [
+        326,
+        43,
+        359,
+        51
+      ]
+    },
+    {
+      "text": "Street",
+      "label": "O",
+      "bbox": [
+        363,
+        43,
+        390,
+        51
+      ]
+    },
+    {
+      "text": "To:",
+      "label": "O",
+      "bbox": [
+        31,
+        71,
+        46,
+        79
+      ]
+    },
+    {
+      "text": "Sunita",
+      "label": "CUSTOMER",
+      "bbox": [
+        52,
+        71,
+        85,
+        80
+      ]
+    },
+    {
+      "text": "Mehta",
+      "label": "CUSTOMER",
+      "bbox": [
+        89,
+        71,
+        122,
+        80
+      ]
+    },
+    {
+      "text": "Date:",
+      "label": "O",
+      "bbox": [
+        566,
+        71,
+        590,
+        79
+      ]
+    },
+    {
+      "text": "03 Jun 2025",
+      "label": "DATE",
+      "bbox": [
+        594,
+        71,
+        655,
+        80
+      ]
+    },
+    {
+      "text": "No:",
+      "label": "O",
+      "bbox": [
+        30,
+        91,
+        48,
+        100
+      ]
+    },
+    {
+      "text": "GST-914-7502",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        53,
+        91,
+        126,
+        100
+      ]
+    },
+    {
+      "text": "Kabuli",
+      "label": "PRODUCT",
+      "bbox": [
+        31,
+        119,
+        61,
+        127
+      ]
+    },
+    {
+      "text": "Chana",
+      "label": "PRODUCT",
+      "bbox": [
+        65,
+        119,
+        93,
+        127
+      ]
+    },
+    {
+      "text": "500g",
+      "label": "PRODUCT",
+      "bbox": [
+        97,
+        119,
+        120,
+        129
+      ]
+    },
+    {
+      "text": "191.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        293,
+        119,
+        324,
+        127
+      ]
+    },
+    {
+      "text": "2",
+      "label": "QUANTITY",
+      "bbox": [
+        414,
+        119,
+        420,
+        127
+      ]
+    },
+    {
+      "text": "383.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        535,
+        119,
+        566,
+        127
+      ]
+    },
+    {
+      "text": "Dettol",
+      "label": "PRODUCT",
+      "bbox": [
+        31,
+        139,
+        59,
+        147
+      ]
+    },
+    {
+      "text": "Sanitizer",
+      "label": "PRODUCT",
+      "bbox": [
+        63,
+        139,
+        102,
+        147
+      ]
+    },
+    {
+      "text": "50ml",
+      "label": "PRODUCT",
+      "bbox": [
+        106,
+        139,
+        129,
+        147
+      ]
+    },
+    {
+      "text": "Rs. 353.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        293,
+        139,
+        341,
+        147
+      ]
+    },
+    {
+      "text": "5",
+      "label": "QUANTITY",
+      "bbox": [
+        414,
+        139,
+        420,
+        147
+      ]
+    },
+    {
+      "text": "₹1765.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        535,
+        139,
+        577,
+        147
+      ]
+    },
+    {
+      "text": "Urad",
+      "label": "PRODUCT",
+      "bbox": [
+        31,
+        159,
+        53,
+        167
+      ]
+    },
+    {
+      "text": "Dal",
+      "label": "PRODUCT",
+      "bbox": [
+        57,
+        159,
+        73,
+        167
+      ]
+    },
+    {
+      "text": "1kg",
+      "label": "PRODUCT",
+      "bbox": [
+        77,
+        159,
+        94,
+        169
+      ]
+    },
+    {
+      "text": "324.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        293,
+        159,
+        324,
+        167
+      ]
+    },
+    {
+      "text": "2",
+      "label": "QUANTITY",
+      "bbox": [
+        414,
+        159,
+        420,
+        167
+      ]
+    },
+    {
+      "text": "₹648.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        535,
+        159,
+        571,
+        167
+      ]
+    },
+    {
+      "text": "Nescafe",
+      "label": "PRODUCT",
+      "bbox": [
+        30,
+        179,
+        67,
+        188
+      ]
+    },
+    {
+      "text": "Classic",
+      "label": "PRODUCT",
+      "bbox": [
+        71,
+        179,
+        103,
+        187
+      ]
+    },
+    {
+      "text": "100g",
+      "label": "PRODUCT",
+      "bbox": [
+        107,
+        179,
+        130,
+        189
+      ]
+    },
+    {
+      "text": "Rs. 460.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        293,
+        179,
+        341,
+        187
+      ]
+    },
+    {
+      "text": "3",
+      "label": "QUANTITY",
+      "bbox": [
+        414,
+        179,
+        420,
+        187
+      ]
+    },
+    {
+      "text": "Rs. 1380.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        535,
+        179,
+        588,
+        187
+      ]
+    },
+    {
+      "text": "Lizol",
+      "label": "PRODUCT",
+      "bbox": [
+        31,
+        199,
+        54,
+        207
+      ]
+    },
+    {
+      "text": "Floor",
+      "label": "PRODUCT",
+      "bbox": [
+        58,
+        199,
+        82,
+        207
+      ]
+    },
+    {
+      "text": "Cleaner",
+      "label": "PRODUCT",
+      "bbox": [
+        86,
+        199,
+        121,
+        207
+      ]
+    },
+    {
+      "text": "500ml",
+      "label": "PRODUCT",
+      "bbox": [
+        125,
+        199,
+        153,
+        207
+      ]
+    },
+    {
+      "text": "139",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        293,
+        199,
+        310,
+        207
+      ]
+    },
+    {
+      "text": "1",
+      "label": "QUANTITY",
+      "bbox": [
+        414,
+        199,
+        420,
+        207
+      ]
+    },
+    {
+      "text": "₹139.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        535,
+        199,
+        571,
+        207
+      ]
+    },
+    {
+      "text": "Whisper",
+      "label": "PRODUCT",
+      "bbox": [
+        31,
+        219,
+        69,
+        229
+      ]
+    },
+    {
+      "text": "Ultra",
+      "label": "PRODUCT",
+      "bbox": [
+        73,
+        219,
+        96,
+        227
+      ]
+    },
+    {
+      "text": "15pc",
+      "label": "PRODUCT",
+      "bbox": [
+        100,
+        219,
+        122,
+        229
+      ]
+    },
+    {
+      "text": "284.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        293,
+        219,
+        324,
+        227
+      ]
+    },
+    {
+      "text": "0.25",
+      "label": "QUANTITY",
+      "bbox": [
+        414,
+        219,
+        433,
+        227
+      ]
+    },
+    {
+      "text": "Rs. 71.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        535,
+        219,
+        577,
+        227
+      ]
+    },
+    {
+      "text": "Patanjali",
+      "label": "PRODUCT",
+      "bbox": [
+        31,
+        239,
+        70,
+        249
+      ]
+    },
+    {
+      "text": "Atta",
+      "label": "PRODUCT",
+      "bbox": [
+        74,
+        239,
+        93,
+        247
+      ]
+    },
+    {
+      "text": "5kg",
+      "label": "PRODUCT",
+      "bbox": [
+        97,
+        239,
+        114,
+        249
+      ]
+    },
+    {
+      "text": "Rs. 13.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        293,
+        239,
+        335,
+        247
+      ]
+    },
+    {
+      "text": "0.5",
+      "label": "QUANTITY",
+      "bbox": [
+        414,
+        239,
+        428,
+        247
+      ]
+    },
+    {
+      "text": "6.50",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        535,
+        239,
+        555,
+        247
+      ]
+    },
+    {
+      "text": "Wheel",
+      "label": "PRODUCT",
+      "bbox": [
+        31,
+        259,
+        60,
+        267
+      ]
+    },
+    {
+      "text": "Detergent",
+      "label": "PRODUCT",
+      "bbox": [
+        64,
+        259,
+        108,
+        269
+      ]
+    },
+    {
+      "text": "500g",
+      "label": "PRODUCT",
+      "bbox": [
+        112,
+        259,
+        135,
+        269
+      ]
+    },
+    {
+      "text": "465.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        293,
+        259,
+        324,
+        267
+      ]
+    },
+    {
+      "text": "1",
+      "label": "QUANTITY",
+      "bbox": [
+        414,
+        259,
+        420,
+        267
+      ]
+    },
+    {
+      "text": "Rs. 465.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        535,
+        259,
+        583,
+        267
+      ]
+    },
+    {
+      "text": "Maggi",
+      "label": "PRODUCT",
+      "bbox": [
+        31,
+        279,
+        60,
+        289
+      ]
+    },
+    {
+      "text": "Sauce",
+      "label": "PRODUCT",
+      "bbox": [
+        64,
+        279,
+        90,
+        287
+      ]
+    },
+    {
+      "text": "500g",
+      "label": "PRODUCT",
+      "bbox": [
+        94,
+        279,
+        117,
+        289
+      ]
+    },
+    {
+      "text": "285.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        293,
+        279,
+        324,
+        287
+      ]
+    },
+    {
+      "text": "1",
+      "label": "QUANTITY",
+      "bbox": [
+        414,
+        279,
+        420,
+        287
+      ]
+    },
+    {
+      "text": "285.50",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        535,
+        279,
+        566,
+        287
+      ]
+    },
+    {
+      "text": "Daawat",
+      "label": "PRODUCT",
+      "bbox": [
+        31,
+        299,
+        66,
+        307
+      ]
+    },
+    {
+      "text": "Rice",
+      "label": "PRODUCT",
+      "bbox": [
+        70,
+        299,
+        90,
+        307
+      ]
+    },
+    {
+      "text": "1kg",
+      "label": "PRODUCT",
+      "bbox": [
+        94,
+        299,
+        111,
+        309
+      ]
+    },
+    {
+      "text": "₹379.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        293,
+        299,
+        329,
+        307
+      ]
+    },
+    {
+      "text": "1",
+      "label": "QUANTITY",
+      "bbox": [
+        414,
+        299,
+        420,
+        307
+      ]
+    },
+    {
+      "text": "379",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        535,
+        299,
+        552,
+        307
+      ]
+    },
+    {
+      "text": "Sub Total :",
+      "label": "O",
+      "bbox": [
+        344,
+        325,
+        392,
+        333
+      ]
+    },
+    {
+      "text": "5522.00",
+      "label": "SUBTOTAL",
+      "bbox": [
+        618,
+        325,
+        657,
+        334
+      ]
+    },
+    {
+      "text": "Discount :",
+      "label": "O",
+      "bbox": [
+        344,
+        345,
+        390,
+        353
+      ]
+    },
+    {
+      "text": "828.30",
+      "label": "DISCOUNT",
+      "bbox": [
+        624,
+        345,
+        657,
+        354
+      ]
+    },
+    {
+      "text": "Net Amount :",
+      "label": "O",
+      "bbox": [
+        343,
+        365,
+        404,
+        374
+      ]
+    },
+    {
+      "text": "₹4693.70",
+      "label": "TOTAL",
+      "bbox": [
+        612,
+        365,
+        657,
+        374
+      ]
+    },
+    {
+      "text": "Received   :",
+      "label": "O",
+      "bbox": [
+        344,
+        385,
+        396,
+        393
+      ]
+    },
+    {
+      "text": "4693.70",
+      "label": "PAID",
+      "bbox": [
+        618,
+        385,
+        657,
+        394
+      ]
+    }
+  ]
+}

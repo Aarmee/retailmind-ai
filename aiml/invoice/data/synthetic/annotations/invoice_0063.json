@@ -1,0 +1,628 @@
+{
+  "document": "invoice_0063.png",
+  "layout": "traditional",
+  "width": 1027,
+  "height": 479,
+  "tokens": [
+    {
+      "text": "INVOICE",
+      "label": "O",
+      "bbox": [
+        480,
+        37,
+        546,
+        49
+      ]
+    },
+    {
+      "text": "India",
+      "label": "SUPPLIER",
+      "bbox": [
+        52,
+        68,
+        81,
+        78
+      ]
+    },
+    {
+      "text": "Krishna",
+      "label": "SUPPLIER",
+      "bbox": [
+        85,
+        68,
+        129,
+        78
+      ]
+    },
+    {
+      "text": "&",
+      "label": "SUPPLIER",
+      "bbox": [
+        133,
+        69,
+        143,
+        78
+      ]
+    },
+    {
+      "text": "Sons",
+      "label": "SUPPLIER",
+      "bbox": [
+        147,
+        69,
+        175,
+        78
+      ]
+    },
+    {
+      "text": "Invoice #",
+      "label": "O",
+      "bbox": [
+        485,
+        68,
+        536,
+        78
+      ]
+    },
+    {
+      "text": "INV4814",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        542,
+        69,
+        592,
+        78
+      ]
+    },
+    {
+      "text": "996,",
+      "label": "O",
+      "bbox": [
+        52,
+        91,
+        77,
+        102
+      ]
+    },
+    {
+      "text": "Nehru",
+      "label": "O",
+      "bbox": [
+        81,
+        90,
+        117,
+        100
+      ]
+    },
+    {
+      "text": "Marg",
+      "label": "O",
+      "bbox": [
+        121,
+        91,
+        151,
+        103
+      ]
+    },
+    {
+      "text": "Dt:",
+      "label": "O",
+      "bbox": [
+        485,
+        91,
+        502,
+        100
+      ]
+    },
+    {
+      "text": "03 Mar 2022",
+      "label": "DATE",
+      "bbox": [
+        508,
+        91,
+        581,
+        100
+      ]
+    },
+    {
+      "text": "Hyderabad",
+      "label": "O",
+      "bbox": [
+        52,
+        112,
+        114,
+        125
+      ]
+    },
+    {
+      "text": "Bill To:",
+      "label": "O",
+      "bbox": [
+        52,
+        138,
+        89,
+        148
+      ]
+    },
+    {
+      "text": "Neha",
+      "label": "CUSTOMER",
+      "bbox": [
+        62,
+        160,
+        93,
+        170
+      ]
+    },
+    {
+      "text": "Verma",
+      "label": "CUSTOMER",
+      "bbox": [
+        97,
+        161,
+        135,
+        170
+      ]
+    },
+    {
+      "text": "184,",
+      "label": "O",
+      "bbox": [
+        62,
+        183,
+        87,
+        194
+      ]
+    },
+    {
+      "text": "Patna",
+      "label": "O",
+      "bbox": [
+        91,
+        183,
+        123,
+        192
+      ]
+    },
+    {
+      "text": "Item",
+      "label": "O",
+      "bbox": [
+        52,
+        222,
+        79,
+        231
+      ]
+    },
+    {
+      "text": "Description",
+      "label": "O",
+      "bbox": [
+        107,
+        221,
+        173,
+        234
+      ]
+    },
+    {
+      "text": "Qty",
+      "label": "O",
+      "bbox": [
+        476,
+        222,
+        497,
+        234
+      ]
+    },
+    {
+      "text": "Unit",
+      "label": "O",
+      "bbox": [
+        586,
+        221,
+        611,
+        231
+      ]
+    },
+    {
+      "text": "Unit Price",
+      "label": "O",
+      "bbox": [
+        696,
+        221,
+        753,
+        231
+      ]
+    },
+    {
+      "text": "Total",
+      "label": "O",
+      "bbox": [
+        806,
+        221,
+        834,
+        231
+      ]
+    },
+    {
+      "text": "Pepsi",
+      "label": "PRODUCT",
+      "bbox": [
+        107,
+        238,
+        137,
+        251
+      ]
+    },
+    {
+      "text": "2L",
+      "label": "PRODUCT",
+      "bbox": [
+        141,
+        239,
+        154,
+        248
+      ]
+    },
+    {
+      "text": "1.25",
+      "label": "QUANTITY",
+      "bbox": [
+        476,
+        239,
+        501,
+        248
+      ]
+    },
+    {
+      "text": "packet",
+      "label": "UNIT",
+      "bbox": [
+        586,
+        238,
+        624,
+        251
+      ]
+    },
+    {
+      "text": "₹350.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        696,
+        239,
+        742,
+        248
+      ]
+    },
+    {
+      "text": "437.50",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        806,
+        239,
+        845,
+        248
+      ]
+    },
+    {
+      "text": "Sunfeast",
+      "label": "PRODUCT",
+      "bbox": [
+        107,
+        260,
+        156,
+        270
+      ]
+    },
+    {
+      "text": "Dark",
+      "label": "PRODUCT",
+      "bbox": [
+        160,
+        260,
+        187,
+        270
+      ]
+    },
+    {
+      "text": "Fantasy",
+      "label": "PRODUCT",
+      "bbox": [
+        191,
+        261,
+        234,
+        273
+      ]
+    },
+    {
+      "text": "300g",
+      "label": "PRODUCT",
+      "bbox": [
+        238,
+        261,
+        266,
+        273
+      ]
+    },
+    {
+      "text": "0.25",
+      "label": "QUANTITY",
+      "bbox": [
+        476,
+        261,
+        501,
+        270
+      ]
+    },
+    {
+      "text": "kg",
+      "label": "UNIT",
+      "bbox": [
+        586,
+        260,
+        599,
+        273
+      ]
+    },
+    {
+      "text": "422.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        696,
+        261,
+        735,
+        270
+      ]
+    },
+    {
+      "text": "105.62",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        806,
+        261,
+        845,
+        270
+      ]
+    },
+    {
+      "text": "Boost",
+      "label": "PRODUCT",
+      "bbox": [
+        107,
+        283,
+        140,
+        292
+      ]
+    },
+    {
+      "text": "Chocolate",
+      "label": "PRODUCT",
+      "bbox": [
+        144,
+        282,
+        201,
+        292
+      ]
+    },
+    {
+      "text": "Drink",
+      "label": "PRODUCT",
+      "bbox": [
+        205,
+        282,
+        236,
+        292
+      ]
+    },
+    {
+      "text": "500g",
+      "label": "PRODUCT",
+      "bbox": [
+        240,
+        283,
+        268,
+        295
+      ]
+    },
+    {
+      "text": "1",
+      "label": "QUANTITY",
+      "bbox": [
+        476,
+        283,
+        483,
+        292
+      ]
+    },
+    {
+      "text": "ml",
+      "label": "UNIT",
+      "bbox": [
+        586,
+        282,
+        600,
+        292
+      ]
+    },
+    {
+      "text": "₹389.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        696,
+        283,
+        742,
+        292
+      ]
+    },
+    {
+      "text": "Rs. 389.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        806,
+        283,
+        865,
+        292
+      ]
+    },
+    {
+      "text": "MDH",
+      "label": "PRODUCT",
+      "bbox": [
+        107,
+        305,
+        136,
+        314
+      ]
+    },
+    {
+      "text": "Chaat",
+      "label": "PRODUCT",
+      "bbox": [
+        140,
+        304,
+        173,
+        314
+      ]
+    },
+    {
+      "text": "Masala",
+      "label": "PRODUCT",
+      "bbox": [
+        177,
+        304,
+        218,
+        314
+      ]
+    },
+    {
+      "text": "100g",
+      "label": "PRODUCT",
+      "bbox": [
+        222,
+        305,
+        250,
+        317
+      ]
+    },
+    {
+      "text": "2",
+      "label": "QUANTITY",
+      "bbox": [
+        476,
+        305,
+        483,
+        314
+      ]
+    },
+    {
+      "text": "g",
+      "label": "UNIT",
+      "bbox": [
+        586,
+        307,
+        593,
+        317
+      ]
+    },
+    {
+      "text": "100",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        696,
+        305,
+        717,
+        314
+      ]
+    },
+    {
+      "text": "₹200.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        806,
+        305,
+        852,
+        314
+      ]
+    },
+    {
+      "text": "Subtotal:",
+      "label": "O",
+      "bbox": [
+        513,
+        334,
+        564,
+        344
+      ]
+    },
+    {
+      "text": "1132.12",
+      "label": "SUBTOTAL",
+      "bbox": [
+        875,
+        335,
+        921,
+        344
+      ]
+    },
+    {
+      "text": "Total:",
+      "label": "O",
+      "bbox": [
+        513,
+        352,
+        544,
+        362
+      ]
+    },
+    {
+      "text": "1132.12",
+      "label": "TOTAL",
+      "bbox": [
+        875,
+        353,
+        921,
+        362
+      ]
+    },
+    {
+      "text": "Cash Paid:",
+      "label": "O",
+      "bbox": [
+        513,
+        366,
+        571,
+        376
+      ]
+    },
+    {
+      "text": "Rs. 0.00",
+      "label": "PAID",
+      "bbox": [
+        875,
+        367,
+        920,
+        376
+      ]
+    },
+    {
+      "text": "Balance Due:",
+      "label": "O",
+      "bbox": [
+        513,
+        380,
+        587,
+        390
+      ]
+    },
+    {
+      "text": "1132.12",
+      "label": "DUE",
+      "bbox": [
+        875,
+        381,
+        921,
+        390
+      ]
+    }
+  ]
+}

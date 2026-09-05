@@ -1,0 +1,378 @@
+{
+  "document": "invoice_0056.png",
+  "layout": "supermarket_gst",
+  "width": 880,
+  "height": 400,
+  "tokens": [
+    {
+      "text": "Star",
+      "label": "SUPPLIER",
+      "bbox": [
+        383,
+        26,
+        425,
+        39
+      ]
+    },
+    {
+      "text": "Stores",
+      "label": "SUPPLIER",
+      "bbox": [
+        429,
+        26,
+        494,
+        39
+      ]
+    },
+    {
+      "text": "144,",
+      "label": "O",
+      "bbox": [
+        364,
+        48,
+        391,
+        59
+      ]
+    },
+    {
+      "text": "Station",
+      "label": "O",
+      "bbox": [
+        395,
+        47,
+        438,
+        57
+      ]
+    },
+    {
+      "text": "Road,",
+      "label": "O",
+      "bbox": [
+        442,
+        47,
+        476,
+        59
+      ]
+    },
+    {
+      "text": "Patna",
+      "label": "O",
+      "bbox": [
+        480,
+        48,
+        514,
+        57
+      ]
+    },
+    {
+      "text": "GSTIN:",
+      "label": "O",
+      "bbox": [
+        359,
+        67,
+        403,
+        76
+      ]
+    },
+    {
+      "text": "18POJJP2275N7Z9",
+      "label": "O",
+      "bbox": [
+        407,
+        67,
+        520,
+        76
+      ]
+    },
+    {
+      "text": "Bill No:",
+      "label": "O",
+      "bbox": [
+        46,
+        99,
+        90,
+        109
+      ]
+    },
+    {
+      "text": "476224",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        94,
+        100,
+        146,
+        109
+      ]
+    },
+    {
+      "text": "Bill Dt:",
+      "label": "O",
+      "bbox": [
+        706,
+        99,
+        748,
+        109
+      ]
+    },
+    {
+      "text": "02-04-2025",
+      "label": "DATE",
+      "bbox": [
+        752,
+        99,
+        832,
+        110
+      ]
+    },
+    {
+      "text": "Description",
+      "label": "O",
+      "bbox": [
+        46,
+        122,
+        123,
+        134
+      ]
+    },
+    {
+      "text": "Qty",
+      "label": "O",
+      "bbox": [
+        440,
+        123,
+        464,
+        134
+      ]
+    },
+    {
+      "text": "Price",
+      "label": "O",
+      "bbox": [
+        571,
+        122,
+        605,
+        132
+      ]
+    },
+    {
+      "text": "Amount",
+      "label": "O",
+      "bbox": [
+        702,
+        123,
+        755,
+        132
+      ]
+    },
+    {
+      "text": "Tata",
+      "label": "PRODUCT",
+      "bbox": [
+        46,
+        145,
+        71,
+        154
+      ]
+    },
+    {
+      "text": "Tea",
+      "label": "PRODUCT",
+      "bbox": [
+        75,
+        145,
+        95,
+        154
+      ]
+    },
+    {
+      "text": "Premium",
+      "label": "PRODUCT",
+      "bbox": [
+        99,
+        144,
+        153,
+        154
+      ]
+    },
+    {
+      "text": "250g",
+      "label": "PRODUCT",
+      "bbox": [
+        157,
+        145,
+        187,
+        156
+      ]
+    },
+    {
+      "text": "2",
+      "label": "QUANTITY",
+      "bbox": [
+        440,
+        145,
+        448,
+        154
+      ]
+    },
+    {
+      "text": "₹261.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        571,
+        145,
+        621,
+        154
+      ]
+    },
+    {
+      "text": "₹523.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        702,
+        145,
+        752,
+        154
+      ]
+    },
+    {
+      "text": "Amul",
+      "label": "PRODUCT",
+      "bbox": [
+        46,
+        163,
+        77,
+        173
+      ]
+    },
+    {
+      "text": "Milk",
+      "label": "PRODUCT",
+      "bbox": [
+        81,
+        163,
+        106,
+        173
+      ]
+    },
+    {
+      "text": "500ml",
+      "label": "PRODUCT",
+      "bbox": [
+        110,
+        163,
+        148,
+        173
+      ]
+    },
+    {
+      "text": "6",
+      "label": "QUANTITY",
+      "bbox": [
+        440,
+        164,
+        448,
+        173
+      ]
+    },
+    {
+      "text": "Rs. 459.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        571,
+        164,
+        637,
+        173
+      ]
+    },
+    {
+      "text": "Rs. 2757.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        702,
+        164,
+        775,
+        173
+      ]
+    },
+    {
+      "text": "Subtotal:",
+      "label": "O",
+      "bbox": [
+        674,
+        188,
+        730,
+        198
+      ]
+    },
+    {
+      "text": "3,280.00",
+      "label": "SUBTOTAL",
+      "bbox": [
+        764,
+        188,
+        824,
+        200
+      ]
+    },
+    {
+      "text": "GST 18%:",
+      "label": "O",
+      "bbox": [
+        674,
+        208,
+        737,
+        217
+      ]
+    },
+    {
+      "text": "590.40",
+      "label": "O",
+      "bbox": [
+        777,
+        207,
+        824,
+        218
+      ]
+    },
+    {
+      "text": "TOTAL:",
+      "label": "O",
+      "bbox": [
+        674,
+        230,
+        722,
+        239
+      ]
+    },
+    {
+      "text": "3,870.40",
+      "label": "TOTAL",
+      "bbox": [
+        764,
+        229,
+        824,
+        241
+      ]
+    },
+    {
+      "text": "Cash:",
+      "label": "O",
+      "bbox": [
+        674,
+        248,
+        709,
+        258
+      ]
+    },
+    {
+      "text": "3870.40",
+      "label": "PAID",
+      "bbox": [
+        768,
+        248,
+        824,
+        259
+      ]
+    }
+  ]
+}

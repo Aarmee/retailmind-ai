@@ -1,0 +1,558 @@
+{
+  "document": "invoice_0097.png",
+  "layout": "traditional",
+  "width": 1121,
+  "height": 491,
+  "tokens": [
+    {
+      "text": "INVOICE",
+      "label": "O",
+      "bbox": [
+        517,
+        28,
+        603,
+        43
+      ]
+    },
+    {
+      "text": "Balaji",
+      "label": "SUPPLIER",
+      "bbox": [
+        63,
+        65,
+        98,
+        78
+      ]
+    },
+    {
+      "text": "Supplier",
+      "label": "SUPPLIER",
+      "bbox": [
+        102,
+        65,
+        155,
+        78
+      ]
+    },
+    {
+      "text": "Invoice #",
+      "label": "O",
+      "bbox": [
+        567,
+        65,
+        620,
+        75
+      ]
+    },
+    {
+      "text": "440698",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        626,
+        65,
+        669,
+        75
+      ]
+    },
+    {
+      "text": "644,",
+      "label": "O",
+      "bbox": [
+        63,
+        86,
+        88,
+        98
+      ]
+    },
+    {
+      "text": "MG",
+      "label": "O",
+      "bbox": [
+        92,
+        86,
+        113,
+        96
+      ]
+    },
+    {
+      "text": "Road",
+      "label": "O",
+      "bbox": [
+        117,
+        86,
+        148,
+        96
+      ]
+    },
+    {
+      "text": "Dt:",
+      "label": "O",
+      "bbox": [
+        567,
+        86,
+        584,
+        96
+      ]
+    },
+    {
+      "text": "24-12-2026",
+      "label": "DATE",
+      "bbox": [
+        590,
+        86,
+        657,
+        96
+      ]
+    },
+    {
+      "text": "Jaipur",
+      "label": "O",
+      "bbox": [
+        63,
+        107,
+        99,
+        120
+      ]
+    },
+    {
+      "text": "Bill To:",
+      "label": "O",
+      "bbox": [
+        63,
+        134,
+        101,
+        144
+      ]
+    },
+    {
+      "text": "Amit",
+      "label": "CUSTOMER",
+      "bbox": [
+        73,
+        155,
+        103,
+        165
+      ]
+    },
+    {
+      "text": "Kumar",
+      "label": "CUSTOMER",
+      "bbox": [
+        107,
+        155,
+        149,
+        165
+      ]
+    },
+    {
+      "text": "168,",
+      "label": "O",
+      "bbox": [
+        73,
+        176,
+        98,
+        188
+      ]
+    },
+    {
+      "text": "Nashik",
+      "label": "O",
+      "bbox": [
+        102,
+        176,
+        142,
+        186
+      ]
+    },
+    {
+      "text": "Description",
+      "label": "O",
+      "bbox": [
+        63,
+        219,
+        135,
+        232
+      ]
+    },
+    {
+      "text": "Qty",
+      "label": "O",
+      "bbox": [
+        461,
+        219,
+        483,
+        232
+      ]
+    },
+    {
+      "text": "Rate",
+      "label": "O",
+      "bbox": [
+        659,
+        219,
+        687,
+        229
+      ]
+    },
+    {
+      "text": "Total",
+      "label": "O",
+      "bbox": [
+        857,
+        219,
+        887,
+        229
+      ]
+    },
+    {
+      "text": "Tata",
+      "label": "PRODUCT",
+      "bbox": [
+        63,
+        237,
+        88,
+        247
+      ]
+    },
+    {
+      "text": "Salt",
+      "label": "PRODUCT",
+      "bbox": [
+        92,
+        237,
+        115,
+        247
+      ]
+    },
+    {
+      "text": "1kg",
+      "label": "PRODUCT",
+      "bbox": [
+        119,
+        237,
+        140,
+        250
+      ]
+    },
+    {
+      "text": "3",
+      "label": "QUANTITY",
+      "bbox": [
+        461,
+        237,
+        468,
+        247
+      ]
+    },
+    {
+      "text": "Rs. 276.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        659,
+        237,
+        722,
+        247
+      ]
+    },
+    {
+      "text": "₹828.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        857,
+        237,
+        904,
+        247
+      ]
+    },
+    {
+      "text": "Catch",
+      "label": "PRODUCT",
+      "bbox": [
+        63,
+        258,
+        97,
+        268
+      ]
+    },
+    {
+      "text": "Pepper",
+      "label": "PRODUCT",
+      "bbox": [
+        101,
+        258,
+        144,
+        271
+      ]
+    },
+    {
+      "text": "100g",
+      "label": "PRODUCT",
+      "bbox": [
+        148,
+        258,
+        177,
+        271
+      ]
+    },
+    {
+      "text": "20",
+      "label": "QUANTITY",
+      "bbox": [
+        461,
+        258,
+        475,
+        268
+      ]
+    },
+    {
+      "text": "Rs. 202.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        659,
+        258,
+        722,
+        268
+      ]
+    },
+    {
+      "text": "4050.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        857,
+        258,
+        904,
+        268
+      ]
+    },
+    {
+      "text": "Rin",
+      "label": "PRODUCT",
+      "bbox": [
+        63,
+        279,
+        83,
+        289
+      ]
+    },
+    {
+      "text": "Bar",
+      "label": "PRODUCT",
+      "bbox": [
+        87,
+        279,
+        108,
+        289
+      ]
+    },
+    {
+      "text": "200g",
+      "label": "PRODUCT",
+      "bbox": [
+        112,
+        279,
+        141,
+        292
+      ]
+    },
+    {
+      "text": "0.5",
+      "label": "QUANTITY",
+      "bbox": [
+        461,
+        279,
+        479,
+        289
+      ]
+    },
+    {
+      "text": "₹49.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        659,
+        279,
+        699,
+        289
+      ]
+    },
+    {
+      "text": "24.50",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        857,
+        279,
+        890,
+        289
+      ]
+    },
+    {
+      "text": "Wagh",
+      "label": "PRODUCT",
+      "bbox": [
+        63,
+        300,
+        96,
+        313
+      ]
+    },
+    {
+      "text": "Bakri",
+      "label": "PRODUCT",
+      "bbox": [
+        100,
+        300,
+        130,
+        310
+      ]
+    },
+    {
+      "text": "Tea",
+      "label": "PRODUCT",
+      "bbox": [
+        134,
+        300,
+        155,
+        310
+      ]
+    },
+    {
+      "text": "250g",
+      "label": "PRODUCT",
+      "bbox": [
+        159,
+        300,
+        188,
+        313
+      ]
+    },
+    {
+      "text": "1",
+      "label": "QUANTITY",
+      "bbox": [
+        461,
+        300,
+        468,
+        310
+      ]
+    },
+    {
+      "text": "Rs. 391.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        659,
+        300,
+        722,
+        310
+      ]
+    },
+    {
+      "text": "391.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        857,
+        300,
+        897,
+        310
+      ]
+    },
+    {
+      "text": "Subtotal:",
+      "label": "O",
+      "bbox": [
+        560,
+        329,
+        611,
+        339
+      ]
+    },
+    {
+      "text": "₹5293.50",
+      "label": "SUBTOTAL",
+      "bbox": [
+        958,
+        329,
+        1012,
+        339
+      ]
+    },
+    {
+      "text": "Discount (15%):",
+      "label": "O",
+      "bbox": [
+        560,
+        343,
+        653,
+        356
+      ]
+    },
+    {
+      "text": "Rs. 794.02",
+      "label": "DISCOUNT",
+      "bbox": [
+        958,
+        343,
+        1022,
+        353
+      ]
+    },
+    {
+      "text": "GST 12%:",
+      "label": "O",
+      "bbox": [
+        560,
+        360,
+        620,
+        370
+      ]
+    },
+    {
+      "text": "539.94",
+      "label": "O",
+      "bbox": [
+        958,
+        360,
+        998,
+        370
+      ]
+    },
+    {
+      "text": "Net Amount:",
+      "label": "O",
+      "bbox": [
+        560,
+        378,
+        632,
+        388
+      ]
+    },
+    {
+      "text": "5039.42",
+      "label": "TOTAL",
+      "bbox": [
+        958,
+        378,
+        1005,
+        388
+      ]
+    },
+    {
+      "text": "Amount Paid:",
+      "label": "O",
+      "bbox": [
+        559,
+        392,
+        638,
+        402
+      ]
+    },
+    {
+      "text": "5,039.42",
+      "label": "PAID",
+      "bbox": [
+        958,
+        392,
+        1009,
+        404
+      ]
+    }
+  ]
+}

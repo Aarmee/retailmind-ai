@@ -6,65 +6,106 @@ from nlp import extract_transaction
 from validation import validate_transaction
 
 
-def process_voice_transaction(audio_file):
+SUPPORTED_LANGUAGES = {
+    "en": "English",
+    "hi": "Hindi",
+    "mr": "Marathi"
+}
 
-    # --------------------------------
-    # 1. Voice → Text
-    # --------------------------------
 
-    transcription = transcribe_audio(audio_file)
+def main():
 
-    text = transcription["text"]
+    # -----------------------------
+    # Get audio file
+    # -----------------------------
+    if len(sys.argv) < 2:
+        print("Usage:")
+        print("python app.py <audio_file> [language]")
+        print()
+        print("Examples:")
+        print("python app.py english.m4a en")
+        print("python app.py hindi.m4a hi")
+        print("python app.py marathi.m4a mr")
+        print("python app.py marathi.m4a")
+        return
 
-    # --------------------------------
-    # 2. Text → Language Detection
-    # --------------------------------
+    audio_file = sys.argv[1]
 
-    language_result = detect_language(text)
+    # -----------------------------
+    # Get preferred language
+    # -----------------------------
+    preferred_language = None
 
-    detected_language = language_result["language"]
+    if len(sys.argv) >= 3:
+        preferred_language = sys.argv[2].lower()
 
-    # --------------------------------
-    # 3. Text → Transaction Extraction
-    # --------------------------------
+        if preferred_language not in SUPPORTED_LANGUAGES:
+            print(
+                f"Invalid language '{preferred_language}'. "
+                f"Use: {', '.join(SUPPORTED_LANGUAGES.keys())}"
+            )
+            return
 
-    transaction = extract_transaction(
-        text,
-        detected_language
+    # -----------------------------
+    # Speech to Text
+    # -----------------------------
+    transcription = transcribe_audio(
+        audio_file,
+        preferred_language
     )
 
-    # --------------------------------
-    # 4. Validation
-    # --------------------------------
+    text = transcription["text"]
+    whisper_language = transcription["whisper_language"]
 
+    # -----------------------------
+    # Language
+    # -----------------------------
+    if preferred_language:
+        language_code = preferred_language
+    else:
+        language_code = whisper_language
+
+    language_name = SUPPORTED_LANGUAGES.get(
+        language_code,
+        "Unknown"
+    )
+
+    # -----------------------------
+    # AI/NLP extraction
+    # -----------------------------
+    transaction = extract_transaction(
+        text,
+        language_code
+    )
+
+    # -----------------------------
+    # Validation
+    # -----------------------------
     validation = validate_transaction(transaction)
 
-    return {
-        "transcription": text,
-        "language_detection": language_result,
-        "transaction": transaction,
-        "validation": validation
-    }
+    # -----------------------------
+    # Output
+    # -----------------------------
+    print("\n========== TRANSCRIPTION ==========")
+    print(text)
+
+    print("\n========== LANGUAGE ==========")
+    print({
+        "language": language_code,
+        "language_name": language_name,
+        "source": (
+            "user_selected"
+            if preferred_language
+            else "whisper_auto_detected"
+        )
+    })
+
+    print("\n========== AI EXTRACTION ==========")
+    print(transaction)
+
+    print("\n========== VALIDATION ==========")
+    print(validation)
 
 
 if __name__ == "__main__":
-
-    audio_file = (
-        sys.argv[1]
-        if len(sys.argv) > 1
-        else "Recording.m4a"
-    )
-
-    result = process_voice_transaction(audio_file)
-
-    print("\n========== TRANSCRIPTION ==========")
-    print(result["transcription"])
-
-    print("\n========== LANGUAGE DETECTION ==========")
-    print(result["language_detection"])
-
-    print("\n========== AI EXTRACTION ==========")
-    print(result["transaction"])
-
-    print("\n========== VALIDATION ==========")
-    print(result["validation"])
+    main()

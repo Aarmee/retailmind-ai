@@ -1,0 +1,268 @@
+{
+  "document": "invoice_0055.png",
+  "layout": "kirana_bill",
+  "width": 738,
+  "height": 400,
+  "tokens": [
+    {
+      "text": "Ganesh",
+      "label": "SUPPLIER",
+      "bbox": [
+        304,
+        25,
+        362,
+        37
+      ]
+    },
+    {
+      "text": "Brothers",
+      "label": "SUPPLIER",
+      "bbox": [
+        366,
+        25,
+        434,
+        37
+      ]
+    },
+    {
+      "text": "565,",
+      "label": "O",
+      "bbox": [
+        325,
+        44,
+        346,
+        55
+      ]
+    },
+    {
+      "text": "Station",
+      "label": "O",
+      "bbox": [
+        350,
+        44,
+        384,
+        53
+      ]
+    },
+    {
+      "text": "Road",
+      "label": "O",
+      "bbox": [
+        388,
+        44,
+        414,
+        53
+      ]
+    },
+    {
+      "text": "M/s.:",
+      "label": "O",
+      "bbox": [
+        45,
+        73,
+        70,
+        82
+      ]
+    },
+    {
+      "text": "Ajay",
+      "label": "CUSTOMER",
+      "bbox": [
+        76,
+        74,
+        103,
+        86
+      ]
+    },
+    {
+      "text": "Sharma",
+      "label": "CUSTOMER",
+      "bbox": [
+        107,
+        74,
+        152,
+        83
+      ]
+    },
+    {
+      "text": "Date:",
+      "label": "O",
+      "bbox": [
+        602,
+        73,
+        628,
+        82
+      ]
+    },
+    {
+      "text": "24/11/2022",
+      "label": "DATE",
+      "bbox": [
+        632,
+        74,
+        691,
+        83
+      ]
+    },
+    {
+      "text": "No:",
+      "label": "O",
+      "bbox": [
+        44,
+        94,
+        63,
+        104
+      ]
+    },
+    {
+      "text": "A5312",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        68,
+        95,
+        103,
+        104
+      ]
+    },
+    {
+      "text": "Lux",
+      "label": "PRODUCT",
+      "bbox": [
+        45,
+        123,
+        64,
+        132
+      ]
+    },
+    {
+      "text": "Soap",
+      "label": "PRODUCT",
+      "bbox": [
+        68,
+        123,
+        92,
+        135
+      ]
+    },
+    {
+      "text": "100g",
+      "label": "PRODUCT",
+      "bbox": [
+        96,
+        123,
+        120,
+        135
+      ]
+    },
+    {
+      "text": "12",
+      "label": "QUANTITY",
+      "bbox": [
+        317,
+        123,
+        329,
+        132
+      ]
+    },
+    {
+      "text": "Rs. 386.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        442,
+        123,
+        494,
+        132
+      ]
+    },
+    {
+      "text": "4,632.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        567,
+        123,
+        609,
+        134
+      ]
+    },
+    {
+      "text": "Sub Total :",
+      "label": "O",
+      "bbox": [
+        369,
+        150,
+        421,
+        159
+      ]
+    },
+    {
+      "text": "4,632.00",
+      "label": "SUBTOTAL",
+      "bbox": [
+        647,
+        151,
+        693,
+        162
+      ]
+    },
+    {
+      "text": "Discount :",
+      "label": "O",
+      "bbox": [
+        369,
+        171,
+        419,
+        180
+      ]
+    },
+    {
+      "text": "92.64",
+      "label": "DISCOUNT",
+      "bbox": [
+        664,
+        172,
+        693,
+        181
+      ]
+    },
+    {
+      "text": "Net Amount :",
+      "label": "O",
+      "bbox": [
+        368,
+        192,
+        434,
+        202
+      ]
+    },
+    {
+      "text": "Rs. 4539.36",
+      "label": "TOTAL",
+      "bbox": [
+        629,
+        193,
+        693,
+        202
+      ]
+    },
+    {
+      "text": "Received   :",
+      "label": "O",
+      "bbox": [
+        369,
+        213,
+        426,
+        222
+      ]
+    },
+    {
+      "text": "₹4539.36",
+      "label": "PAID",
+      "bbox": [
+        644,
+        214,
+        693,
+        223
+      ]
+    }
+  ]
+}

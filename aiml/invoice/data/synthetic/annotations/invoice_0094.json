@@ -1,0 +1,368 @@
+{
+  "document": "invoice_0094.png",
+  "layout": "thermal_receipt",
+  "width": 433,
+  "height": 359,
+  "tokens": [
+    {
+      "text": "Durga",
+      "label": "SUPPLIER",
+      "bbox": [
+        162,
+        19,
+        207,
+        30
+      ]
+    },
+    {
+      "text": "Corner",
+      "label": "SUPPLIER",
+      "bbox": [
+        211,
+        19,
+        265,
+        27
+      ]
+    },
+    {
+      "text": "Lucknow",
+      "label": "O",
+      "bbox": [
+        193,
+        36,
+        240,
+        43
+      ]
+    },
+    {
+      "text": "Bill#:",
+      "label": "O",
+      "bbox": [
+        20,
+        70,
+        60,
+        78
+      ]
+    },
+    {
+      "text": "929443",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        64,
+        70,
+        104,
+        77
+      ]
+    },
+    {
+      "text": "21 Mar 2022",
+      "label": "DATE",
+      "bbox": [
+        340,
+        70,
+        413,
+        77
+      ]
+    },
+    {
+      "text": "Ariel",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        104,
+        53,
+        111
+      ]
+    },
+    {
+      "text": "Powder",
+      "label": "PRODUCT",
+      "bbox": [
+        57,
+        104,
+        97,
+        111
+      ]
+    },
+    {
+      "text": "1kg",
+      "label": "PRODUCT",
+      "bbox": [
+        101,
+        104,
+        121,
+        113
+      ]
+    },
+    {
+      "text": "1",
+      "label": "QUANTITY",
+      "bbox": [
+        33,
+        121,
+        40,
+        128
+      ]
+    },
+    {
+      "text": "128.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        60,
+        121,
+        100,
+        128
+      ]
+    },
+    {
+      "text": "Rs. 128.50",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        347,
+        121,
+        413,
+        128
+      ]
+    },
+    {
+      "text": "Boost",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        138,
+        53,
+        145
+      ]
+    },
+    {
+      "text": "Chocolate",
+      "label": "PRODUCT",
+      "bbox": [
+        57,
+        138,
+        116,
+        145
+      ]
+    },
+    {
+      "text": "Drink",
+      "label": "PRODUCT",
+      "bbox": [
+        120,
+        138,
+        153,
+        145
+      ]
+    },
+    {
+      "text": "500g",
+      "label": "PRODUCT",
+      "bbox": [
+        157,
+        138,
+        184,
+        147
+      ]
+    },
+    {
+      "text": "6",
+      "label": "QUANTITY",
+      "bbox": [
+        33,
+        155,
+        40,
+        162
+      ]
+    },
+    {
+      "text": "397.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        60,
+        155,
+        100,
+        162
+      ]
+    },
+    {
+      "text": "2385",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        387,
+        155,
+        413,
+        162
+      ]
+    },
+    {
+      "text": "Horlicks",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        172,
+        73,
+        179
+      ]
+    },
+    {
+      "text": "500g",
+      "label": "PRODUCT",
+      "bbox": [
+        77,
+        172,
+        104,
+        181
+      ]
+    },
+    {
+      "text": "6",
+      "label": "QUANTITY",
+      "bbox": [
+        33,
+        189,
+        40,
+        196
+      ]
+    },
+    {
+      "text": "437.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        60,
+        189,
+        100,
+        196
+      ]
+    },
+    {
+      "text": "2,625.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        360,
+        189,
+        413,
+        198
+      ]
+    },
+    {
+      "text": "Pantene",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        206,
+        66,
+        213
+      ]
+    },
+    {
+      "text": "Shampoo",
+      "label": "PRODUCT",
+      "bbox": [
+        70,
+        206,
+        116,
+        215
+      ]
+    },
+    {
+      "text": "200ml",
+      "label": "PRODUCT",
+      "bbox": [
+        120,
+        206,
+        153,
+        213
+      ]
+    },
+    {
+      "text": "0.25",
+      "label": "QUANTITY",
+      "bbox": [
+        33,
+        223,
+        59,
+        230
+      ]
+    },
+    {
+      "text": "345.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        79,
+        223,
+        119,
+        230
+      ]
+    },
+    {
+      "text": "86.38",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        380,
+        223,
+        413,
+        230
+      ]
+    },
+    {
+      "text": "Subtotal",
+      "label": "O",
+      "bbox": [
+        20,
+        257,
+        73,
+        264
+      ]
+    },
+    {
+      "text": "Rs. 5224.88",
+      "label": "SUBTOTAL",
+      "bbox": [
+        340,
+        257,
+        413,
+        264
+      ]
+    },
+    {
+      "text": "TOTAL",
+      "label": "O",
+      "bbox": [
+        20,
+        291,
+        53,
+        298
+      ]
+    },
+    {
+      "text": "5224.88",
+      "label": "TOTAL",
+      "bbox": [
+        367,
+        291,
+        413,
+        298
+      ]
+    },
+    {
+      "text": "PAID",
+      "label": "O",
+      "bbox": [
+        20,
+        308,
+        47,
+        315
+      ]
+    },
+    {
+      "text": "₹5224.88",
+      "label": "PAID",
+      "bbox": [
+        360,
+        308,
+        413,
+        315
+      ]
+    }
+  ]
+}

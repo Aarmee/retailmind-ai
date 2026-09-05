@@ -1,0 +1,218 @@
+{
+  "document": "invoice_0086.png",
+  "layout": "thermal_receipt",
+  "width": 408,
+  "height": 280,
+  "tokens": [
+    {
+      "text": "Vijay",
+      "label": "SUPPLIER",
+      "bbox": [
+        139,
+        18,
+        185,
+        30
+      ]
+    },
+    {
+      "text": "Brothers",
+      "label": "SUPPLIER",
+      "bbox": [
+        189,
+        18,
+        261,
+        27
+      ]
+    },
+    {
+      "text": "Chennai",
+      "label": "O",
+      "bbox": [
+        181,
+        36,
+        227,
+        43
+      ]
+    },
+    {
+      "text": "Bill#:",
+      "label": "O",
+      "bbox": [
+        20,
+        70,
+        60,
+        78
+      ]
+    },
+    {
+      "text": "INV3284",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        64,
+        70,
+        110,
+        77
+      ]
+    },
+    {
+      "text": "22.09.2022",
+      "label": "DATE",
+      "bbox": [
+        322,
+        70,
+        388,
+        77
+      ]
+    },
+    {
+      "text": "Britannia",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        104,
+        79,
+        111
+      ]
+    },
+    {
+      "text": "Good",
+      "label": "PRODUCT",
+      "bbox": [
+        83,
+        104,
+        110,
+        111
+      ]
+    },
+    {
+      "text": "Day",
+      "label": "PRODUCT",
+      "bbox": [
+        114,
+        104,
+        134,
+        113
+      ]
+    },
+    {
+      "text": "200g",
+      "label": "PRODUCT",
+      "bbox": [
+        138,
+        104,
+        165,
+        113
+      ]
+    },
+    {
+      "text": "5",
+      "label": "QUANTITY",
+      "bbox": [
+        33,
+        121,
+        40,
+        128
+      ]
+    },
+    {
+      "text": "182",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        60,
+        121,
+        80,
+        128
+      ]
+    },
+    {
+      "text": "910.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        348,
+        121,
+        388,
+        128
+      ]
+    },
+    {
+      "text": "Subtotal",
+      "label": "O",
+      "bbox": [
+        20,
+        155,
+        73,
+        162
+      ]
+    },
+    {
+      "text": "910.00",
+      "label": "SUBTOTAL",
+      "bbox": [
+        348,
+        155,
+        388,
+        162
+      ]
+    },
+    {
+      "text": "Discount",
+      "label": "O",
+      "bbox": [
+        20,
+        172,
+        73,
+        179
+      ]
+    },
+    {
+      "text": "Rs. 91.00",
+      "label": "DISCOUNT",
+      "bbox": [
+        329,
+        172,
+        388,
+        179
+      ]
+    },
+    {
+      "text": "TOTAL",
+      "label": "O",
+      "bbox": [
+        20,
+        206,
+        53,
+        213
+      ]
+    },
+    {
+      "text": "819.00",
+      "label": "TOTAL",
+      "bbox": [
+        348,
+        206,
+        388,
+        213
+      ]
+    },
+    {
+      "text": "PAID",
+      "label": "O",
+      "bbox": [
+        20,
+        223,
+        47,
+        230
+      ]
+    },
+    {
+      "text": "819.00",
+      "label": "PAID",
+      "bbox": [
+        348,
+        223,
+        388,
+        230
+      ]
+    }
+  ]
+}

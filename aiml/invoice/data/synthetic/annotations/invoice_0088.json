@@ -1,0 +1,648 @@
+{
+  "document": "invoice_0088.png",
+  "layout": "traditional",
+  "width": 1148,
+  "height": 498,
+  "tokens": [
+    {
+      "text": "INVOICE",
+      "label": "O",
+      "bbox": [
+        537,
+        40,
+        611,
+        53
+      ]
+    },
+    {
+      "text": "Ganesh",
+      "label": "SUPPLIER",
+      "bbox": [
+        53,
+        73,
+        101,
+        83
+      ]
+    },
+    {
+      "text": "Bhandar",
+      "label": "SUPPLIER",
+      "bbox": [
+        105,
+        73,
+        159,
+        83
+      ]
+    },
+    {
+      "text": "Invoice #",
+      "label": "O",
+      "bbox": [
+        562,
+        73,
+        615,
+        83
+      ]
+    },
+    {
+      "text": "826959",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        621,
+        73,
+        664,
+        83
+      ]
+    },
+    {
+      "text": "18,",
+      "label": "O",
+      "bbox": [
+        53,
+        94,
+        71,
+        106
+      ]
+    },
+    {
+      "text": "Station",
+      "label": "O",
+      "bbox": [
+        75,
+        94,
+        115,
+        104
+      ]
+    },
+    {
+      "text": "Road",
+      "label": "O",
+      "bbox": [
+        119,
+        94,
+        150,
+        104
+      ]
+    },
+    {
+      "text": "Invoice Date:",
+      "label": "O",
+      "bbox": [
+        562,
+        94,
+        638,
+        104
+      ]
+    },
+    {
+      "text": "05/06/2023",
+      "label": "DATE",
+      "bbox": [
+        644,
+        94,
+        709,
+        104
+      ]
+    },
+    {
+      "text": "Jaipur",
+      "label": "O",
+      "bbox": [
+        53,
+        115,
+        89,
+        128
+      ]
+    },
+    {
+      "text": "Customer:",
+      "label": "O",
+      "bbox": [
+        53,
+        141,
+        113,
+        151
+      ]
+    },
+    {
+      "text": "Rohit",
+      "label": "CUSTOMER",
+      "bbox": [
+        63,
+        162,
+        97,
+        172
+      ]
+    },
+    {
+      "text": "Kumar",
+      "label": "CUSTOMER",
+      "bbox": [
+        101,
+        162,
+        143,
+        172
+      ]
+    },
+    {
+      "text": "38,",
+      "label": "O",
+      "bbox": [
+        63,
+        183,
+        81,
+        195
+      ]
+    },
+    {
+      "text": "Lucknow",
+      "label": "O",
+      "bbox": [
+        85,
+        183,
+        137,
+        193
+      ]
+    },
+    {
+      "text": "#",
+      "label": "O",
+      "bbox": [
+        53,
+        224,
+        61,
+        234
+      ]
+    },
+    {
+      "text": "Description",
+      "label": "O",
+      "bbox": [
+        115,
+        224,
+        187,
+        237
+      ]
+    },
+    {
+      "text": "Qty",
+      "label": "O",
+      "bbox": [
+        531,
+        224,
+        553,
+        237
+      ]
+    },
+    {
+      "text": "Unit",
+      "label": "O",
+      "bbox": [
+        656,
+        224,
+        682,
+        234
+      ]
+    },
+    {
+      "text": "Rate",
+      "label": "O",
+      "bbox": [
+        781,
+        224,
+        809,
+        234
+      ]
+    },
+    {
+      "text": "Amount",
+      "label": "O",
+      "bbox": [
+        906,
+        224,
+        956,
+        234
+      ]
+    },
+    {
+      "text": "Limca",
+      "label": "PRODUCT",
+      "bbox": [
+        115,
+        242,
+        150,
+        252
+      ]
+    },
+    {
+      "text": "200ml",
+      "label": "PRODUCT",
+      "bbox": [
+        154,
+        242,
+        189,
+        252
+      ]
+    },
+    {
+      "text": "0.5",
+      "label": "QUANTITY",
+      "bbox": [
+        531,
+        242,
+        549,
+        252
+      ]
+    },
+    {
+      "text": "dozen",
+      "label": "UNIT",
+      "bbox": [
+        656,
+        242,
+        691,
+        252
+      ]
+    },
+    {
+      "text": "Rs. 321.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        781,
+        242,
+        844,
+        252
+      ]
+    },
+    {
+      "text": "Rs. 160.75",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        906,
+        242,
+        969,
+        252
+      ]
+    },
+    {
+      "text": "Sunfeast",
+      "label": "PRODUCT",
+      "bbox": [
+        115,
+        263,
+        167,
+        273
+      ]
+    },
+    {
+      "text": "Dark",
+      "label": "PRODUCT",
+      "bbox": [
+        171,
+        263,
+        199,
+        273
+      ]
+    },
+    {
+      "text": "Fantasy",
+      "label": "PRODUCT",
+      "bbox": [
+        203,
+        263,
+        250,
+        276
+      ]
+    },
+    {
+      "text": "300g",
+      "label": "PRODUCT",
+      "bbox": [
+        254,
+        263,
+        283,
+        276
+      ]
+    },
+    {
+      "text": "0.5",
+      "label": "QUANTITY",
+      "bbox": [
+        531,
+        263,
+        549,
+        273
+      ]
+    },
+    {
+      "text": "g",
+      "label": "UNIT",
+      "bbox": [
+        656,
+        266,
+        663,
+        276
+      ]
+    },
+    {
+      "text": "383.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        781,
+        263,
+        821,
+        273
+      ]
+    },
+    {
+      "text": "191.75",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        906,
+        263,
+        946,
+        273
+      ]
+    },
+    {
+      "text": "Tide",
+      "label": "PRODUCT",
+      "bbox": [
+        115,
+        284,
+        140,
+        294
+      ]
+    },
+    {
+      "text": "Powder",
+      "label": "PRODUCT",
+      "bbox": [
+        144,
+        284,
+        189,
+        294
+      ]
+    },
+    {
+      "text": "1kg",
+      "label": "PRODUCT",
+      "bbox": [
+        193,
+        284,
+        214,
+        297
+      ]
+    },
+    {
+      "text": "5",
+      "label": "QUANTITY",
+      "bbox": [
+        531,
+        284,
+        538,
+        294
+      ]
+    },
+    {
+      "text": "dozen",
+      "label": "UNIT",
+      "bbox": [
+        656,
+        284,
+        691,
+        294
+      ]
+    },
+    {
+      "text": "Rs. 164.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        781,
+        284,
+        844,
+        294
+      ]
+    },
+    {
+      "text": "₹822.50",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        906,
+        284,
+        953,
+        294
+      ]
+    },
+    {
+      "text": "7UP",
+      "label": "PRODUCT",
+      "bbox": [
+        115,
+        305,
+        141,
+        315
+      ]
+    },
+    {
+      "text": "500ml",
+      "label": "PRODUCT",
+      "bbox": [
+        145,
+        305,
+        180,
+        315
+      ]
+    },
+    {
+      "text": "0.75",
+      "label": "QUANTITY",
+      "bbox": [
+        531,
+        305,
+        556,
+        315
+      ]
+    },
+    {
+      "text": "ml",
+      "label": "UNIT",
+      "bbox": [
+        656,
+        305,
+        670,
+        315
+      ]
+    },
+    {
+      "text": "₹344.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        781,
+        305,
+        828,
+        315
+      ]
+    },
+    {
+      "text": "258.38",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        906,
+        305,
+        946,
+        315
+      ]
+    },
+    {
+      "text": "Tata",
+      "label": "PRODUCT",
+      "bbox": [
+        115,
+        326,
+        140,
+        336
+      ]
+    },
+    {
+      "text": "Salt",
+      "label": "PRODUCT",
+      "bbox": [
+        144,
+        326,
+        167,
+        336
+      ]
+    },
+    {
+      "text": "1kg",
+      "label": "PRODUCT",
+      "bbox": [
+        171,
+        326,
+        192,
+        339
+      ]
+    },
+    {
+      "text": "3",
+      "label": "QUANTITY",
+      "bbox": [
+        531,
+        326,
+        538,
+        336
+      ]
+    },
+    {
+      "text": "dozen",
+      "label": "UNIT",
+      "bbox": [
+        656,
+        326,
+        691,
+        336
+      ]
+    },
+    {
+      "text": "292.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        781,
+        326,
+        821,
+        336
+      ]
+    },
+    {
+      "text": "876.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        906,
+        326,
+        946,
+        336
+      ]
+    },
+    {
+      "text": "Subtotal:",
+      "label": "O",
+      "bbox": [
+        574,
+        355,
+        625,
+        365
+      ]
+    },
+    {
+      "text": "₹2309.38",
+      "label": "SUBTOTAL",
+      "bbox": [
+        995,
+        355,
+        1049,
+        365
+      ]
+    },
+    {
+      "text": "GST 18%:",
+      "label": "O",
+      "bbox": [
+        574,
+        369,
+        634,
+        379
+      ]
+    },
+    {
+      "text": "415.69",
+      "label": "O",
+      "bbox": [
+        995,
+        369,
+        1035,
+        379
+      ]
+    },
+    {
+      "text": "Net Amount:",
+      "label": "O",
+      "bbox": [
+        574,
+        387,
+        646,
+        397
+      ]
+    },
+    {
+      "text": "₹2725.07",
+      "label": "TOTAL",
+      "bbox": [
+        995,
+        387,
+        1049,
+        397
+      ]
+    },
+    {
+      "text": "Paid:",
+      "label": "O",
+      "bbox": [
+        574,
+        401,
+        604,
+        411
+      ]
+    },
+    {
+      "text": "2725.07",
+      "label": "PAID",
+      "bbox": [
+        995,
+        401,
+        1042,
+        411
+      ]
+    }
+  ]
+}

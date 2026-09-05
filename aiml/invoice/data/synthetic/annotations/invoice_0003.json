@@ -1,0 +1,538 @@
+{
+  "document": "invoice_0003.png",
+  "layout": "kirana_bill",
+  "width": 639,
+  "height": 400,
+  "tokens": [
+    {
+      "text": "Balaji",
+      "label": "SUPPLIER",
+      "bbox": [
+        229,
+        24,
+        280,
+        42
+      ]
+    },
+    {
+      "text": "Traders",
+      "label": "SUPPLIER",
+      "bbox": [
+        284,
+        24,
+        353,
+        38
+      ]
+    },
+    {
+      "text": "&",
+      "label": "SUPPLIER",
+      "bbox": [
+        357,
+        24,
+        371,
+        38
+      ]
+    },
+    {
+      "text": "Co.",
+      "label": "SUPPLIER",
+      "bbox": [
+        375,
+        24,
+        406,
+        38
+      ]
+    },
+    {
+      "text": "63,",
+      "label": "O",
+      "bbox": [
+        278,
+        45,
+        296,
+        57
+      ]
+    },
+    {
+      "text": "Tilak",
+      "label": "O",
+      "bbox": [
+        300,
+        45,
+        327,
+        55
+      ]
+    },
+    {
+      "text": "Road",
+      "label": "O",
+      "bbox": [
+        331,
+        45,
+        362,
+        55
+      ]
+    },
+    {
+      "text": "To:",
+      "label": "O",
+      "bbox": [
+        36,
+        75,
+        53,
+        85
+      ]
+    },
+    {
+      "text": "Mahesh",
+      "label": "CUSTOMER",
+      "bbox": [
+        59,
+        76,
+        111,
+        86
+      ]
+    },
+    {
+      "text": "Singh",
+      "label": "CUSTOMER",
+      "bbox": [
+        115,
+        76,
+        154,
+        89
+      ]
+    },
+    {
+      "text": "Date:",
+      "label": "O",
+      "bbox": [
+        486,
+        75,
+        517,
+        85
+      ]
+    },
+    {
+      "text": "14 Mar 2024",
+      "label": "DATE",
+      "bbox": [
+        521,
+        76,
+        601,
+        86
+      ]
+    },
+    {
+      "text": "No:",
+      "label": "O",
+      "bbox": [
+        36,
+        97,
+        56,
+        107
+      ]
+    },
+    {
+      "text": "B3296",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        60,
+        98,
+        101,
+        108
+      ]
+    },
+    {
+      "text": "Shakti",
+      "label": "PRODUCT",
+      "bbox": [
+        36,
+        127,
+        72,
+        137
+      ]
+    },
+    {
+      "text": "Bhog",
+      "label": "PRODUCT",
+      "bbox": [
+        76,
+        127,
+        106,
+        140
+      ]
+    },
+    {
+      "text": "Atta",
+      "label": "PRODUCT",
+      "bbox": [
+        109,
+        127,
+        133,
+        137
+      ]
+    },
+    {
+      "text": "10kg",
+      "label": "PRODUCT",
+      "bbox": [
+        137,
+        127,
+        165,
+        140
+      ]
+    },
+    {
+      "text": "1",
+      "label": "QUANTITY",
+      "bbox": [
+        274,
+        127,
+        281,
+        137
+      ]
+    },
+    {
+      "text": "419.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        383,
+        127,
+        423,
+        137
+      ]
+    },
+    {
+      "text": "419.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        492,
+        127,
+        532,
+        137
+      ]
+    },
+    {
+      "text": "Lay's",
+      "label": "PRODUCT",
+      "bbox": [
+        36,
+        149,
+        66,
+        162
+      ]
+    },
+    {
+      "text": "Classic",
+      "label": "PRODUCT",
+      "bbox": [
+        70,
+        149,
+        112,
+        159
+      ]
+    },
+    {
+      "text": "26g",
+      "label": "PRODUCT",
+      "bbox": [
+        116,
+        149,
+        138,
+        162
+      ]
+    },
+    {
+      "text": "0.5",
+      "label": "QUANTITY",
+      "bbox": [
+        274,
+        149,
+        292,
+        159
+      ]
+    },
+    {
+      "text": "Rs. 206.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        383,
+        149,
+        446,
+        159
+      ]
+    },
+    {
+      "text": "103.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        492,
+        149,
+        532,
+        159
+      ]
+    },
+    {
+      "text": "Tata",
+      "label": "PRODUCT",
+      "bbox": [
+        36,
+        171,
+        61,
+        181
+      ]
+    },
+    {
+      "text": "Sampann",
+      "label": "PRODUCT",
+      "bbox": [
+        65,
+        171,
+        121,
+        184
+      ]
+    },
+    {
+      "text": "Turmeric",
+      "label": "PRODUCT",
+      "bbox": [
+        125,
+        171,
+        176,
+        181
+      ]
+    },
+    {
+      "text": "200g",
+      "label": "PRODUCT",
+      "bbox": [
+        180,
+        171,
+        209,
+        184
+      ]
+    },
+    {
+      "text": "2.5",
+      "label": "QUANTITY",
+      "bbox": [
+        274,
+        171,
+        292,
+        181
+      ]
+    },
+    {
+      "text": "451.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        383,
+        171,
+        423,
+        181
+      ]
+    },
+    {
+      "text": "1128.75",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        492,
+        171,
+        538,
+        181
+      ]
+    },
+    {
+      "text": "Colgate",
+      "label": "PRODUCT",
+      "bbox": [
+        36,
+        193,
+        81,
+        206
+      ]
+    },
+    {
+      "text": "Strong",
+      "label": "PRODUCT",
+      "bbox": [
+        85,
+        193,
+        123,
+        206
+      ]
+    },
+    {
+      "text": "Teeth",
+      "label": "PRODUCT",
+      "bbox": [
+        127,
+        193,
+        159,
+        203
+      ]
+    },
+    {
+      "text": "200g",
+      "label": "PRODUCT",
+      "bbox": [
+        163,
+        193,
+        192,
+        206
+      ]
+    },
+    {
+      "text": "2",
+      "label": "QUANTITY",
+      "bbox": [
+        274,
+        193,
+        281,
+        203
+      ]
+    },
+    {
+      "text": "492.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        383,
+        193,
+        423,
+        203
+      ]
+    },
+    {
+      "text": "985.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        492,
+        193,
+        532,
+        203
+      ]
+    },
+    {
+      "text": "Sub Total :",
+      "label": "O",
+      "bbox": [
+        319,
+        221,
+        380,
+        231
+      ]
+    },
+    {
+      "text": "2635.75",
+      "label": "SUBTOTAL",
+      "bbox": [
+        552,
+        222,
+        603,
+        232
+      ]
+    },
+    {
+      "text": "Discount :",
+      "label": "O",
+      "bbox": [
+        319,
+        243,
+        377,
+        253
+      ]
+    },
+    {
+      "text": "263.57",
+      "label": "DISCOUNT",
+      "bbox": [
+        560,
+        244,
+        603,
+        254
+      ]
+    },
+    {
+      "text": "GST 18% :",
+      "label": "O",
+      "bbox": [
+        319,
+        265,
+        382,
+        275
+      ]
+    },
+    {
+      "text": "426.99",
+      "label": "O",
+      "bbox": [
+        560,
+        266,
+        603,
+        276
+      ]
+    },
+    {
+      "text": "Net Amount :",
+      "label": "O",
+      "bbox": [
+        319,
+        287,
+        394,
+        297
+      ]
+    },
+    {
+      "text": "2,799.17",
+      "label": "TOTAL",
+      "bbox": [
+        548,
+        288,
+        603,
+        300
+      ]
+    },
+    {
+      "text": "Received   :",
+      "label": "O",
+      "bbox": [
+        319,
+        309,
+        388,
+        319
+      ]
+    },
+    {
+      "text": "1400.00",
+      "label": "PAID",
+      "bbox": [
+        552,
+        310,
+        603,
+        320
+      ]
+    },
+    {
+      "text": "Balance    :",
+      "label": "O",
+      "bbox": [
+        319,
+        331,
+        384,
+        341
+      ]
+    },
+    {
+      "text": "1399.17",
+      "label": "DUE",
+      "bbox": [
+        552,
+        332,
+        603,
+        342
+      ]
+    }
+  ]
+}

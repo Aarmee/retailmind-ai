@@ -1,0 +1,348 @@
+{
+  "document": "invoice_0029.png",
+  "layout": "table_invoice",
+  "width": 1037,
+  "height": 500,
+  "tokens": [
+    {
+      "text": "SALES",
+      "label": "O",
+      "bbox": [
+        445,
+        24,
+        508,
+        38
+      ]
+    },
+    {
+      "text": "INVOICE",
+      "label": "O",
+      "bbox": [
+        512,
+        24,
+        590,
+        38
+      ]
+    },
+    {
+      "text": "Star",
+      "label": "SUPPLIER",
+      "bbox": [
+        61,
+        53,
+        83,
+        61
+      ]
+    },
+    {
+      "text": "Agency",
+      "label": "SUPPLIER",
+      "bbox": [
+        87,
+        53,
+        127,
+        63
+      ]
+    },
+    {
+      "text": "Enterprises",
+      "label": "SUPPLIER",
+      "bbox": [
+        131,
+        53,
+        192,
+        63
+      ]
+    },
+    {
+      "text": "310,",
+      "label": "O",
+      "bbox": [
+        61,
+        76,
+        82,
+        86
+      ]
+    },
+    {
+      "text": "Market",
+      "label": "O",
+      "bbox": [
+        86,
+        76,
+        120,
+        84
+      ]
+    },
+    {
+      "text": "Street",
+      "label": "O",
+      "bbox": [
+        124,
+        76,
+        153,
+        84
+      ]
+    },
+    {
+      "text": "Chennai",
+      "label": "O",
+      "bbox": [
+        61,
+        99,
+        102,
+        107
+      ]
+    },
+    {
+      "text": "Bill No.:",
+      "label": "O",
+      "bbox": [
+        526,
+        53,
+        564,
+        61
+      ]
+    },
+    {
+      "text": "C3869",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        568,
+        53,
+        600,
+        61
+      ]
+    },
+    {
+      "text": "Date:",
+      "label": "O",
+      "bbox": [
+        526,
+        76,
+        552,
+        84
+      ]
+    },
+    {
+      "text": "21 Nov 2025",
+      "label": "DATE",
+      "bbox": [
+        556,
+        76,
+        620,
+        84
+      ]
+    },
+    {
+      "text": "Bill To:",
+      "label": "O",
+      "bbox": [
+        526,
+        99,
+        558,
+        107
+      ]
+    },
+    {
+      "text": "Sanjay",
+      "label": "CUSTOMER",
+      "bbox": [
+        562,
+        99,
+        598,
+        109
+      ]
+    },
+    {
+      "text": "Patel",
+      "label": "CUSTOMER",
+      "bbox": [
+        602,
+        99,
+        628,
+        107
+      ]
+    },
+    {
+      "text": "Sl.",
+      "label": "O",
+      "bbox": [
+        59,
+        132,
+        72,
+        140
+      ]
+    },
+    {
+      "text": "Particulars",
+      "label": "O",
+      "bbox": [
+        105,
+        132,
+        162,
+        140
+      ]
+    },
+    {
+      "text": "Quantity",
+      "label": "O",
+      "bbox": [
+        457,
+        132,
+        502,
+        142
+      ]
+    },
+    {
+      "text": "Unit Price",
+      "label": "O",
+      "bbox": [
+        633,
+        132,
+        684,
+        140
+      ]
+    },
+    {
+      "text": "Amount",
+      "label": "O",
+      "bbox": [
+        809,
+        132,
+        851,
+        140
+      ]
+    },
+    {
+      "text": "Sprite",
+      "label": "PRODUCT",
+      "bbox": [
+        105,
+        155,
+        134,
+        165
+      ]
+    },
+    {
+      "text": "1L",
+      "label": "PRODUCT",
+      "bbox": [
+        138,
+        155,
+        150,
+        163
+      ]
+    },
+    {
+      "text": "24",
+      "label": "QUANTITY",
+      "bbox": [
+        457,
+        155,
+        469,
+        163
+      ]
+    },
+    {
+      "text": "163.00",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        633,
+        155,
+        667,
+        163
+      ]
+    },
+    {
+      "text": "3,912.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        809,
+        155,
+        852,
+        165
+      ]
+    },
+    {
+      "text": "Subtotal :",
+      "label": "O",
+      "bbox": [
+        726,
+        185,
+        773,
+        193
+      ]
+    },
+    {
+      "text": "Rs. 3912.00",
+      "label": "SUBTOTAL",
+      "bbox": [
+        919,
+        185,
+        978,
+        193
+      ]
+    },
+    {
+      "text": "GST 12% :",
+      "label": "O",
+      "bbox": [
+        726,
+        206,
+        780,
+        214
+      ]
+    },
+    {
+      "text": "Rs. 469.44",
+      "label": "O",
+      "bbox": [
+        925,
+        206,
+        978,
+        214
+      ]
+    },
+    {
+      "text": "Total :",
+      "label": "O",
+      "bbox": [
+        726,
+        227,
+        755,
+        235
+      ]
+    },
+    {
+      "text": "4,381.44",
+      "label": "TOTAL",
+      "bbox": [
+        935,
+        227,
+        978,
+        237
+      ]
+    },
+    {
+      "text": "Paid  :",
+      "label": "O",
+      "bbox": [
+        726,
+        248,
+        757,
+        256
+      ]
+    },
+    {
+      "text": "4,381.44",
+      "label": "PAID",
+      "bbox": [
+        935,
+        248,
+        978,
+        258
+      ]
+    }
+  ]
+}

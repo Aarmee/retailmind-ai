@@ -1,0 +1,548 @@
+{
+  "document": "invoice_0020.png",
+  "layout": "thermal_receipt",
+  "width": 419,
+  "height": 436,
+  "tokens": [
+    {
+      "text": "General",
+      "label": "SUPPLIER",
+      "bbox": [
+        137,
+        17,
+        196,
+        26
+      ]
+    },
+    {
+      "text": "Provision",
+      "label": "SUPPLIER",
+      "bbox": [
+        200,
+        17,
+        276,
+        26
+      ]
+    },
+    {
+      "text": "Kolkata",
+      "label": "O",
+      "bbox": [
+        188,
+        35,
+        230,
+        41
+      ]
+    },
+    {
+      "text": "Bill#:",
+      "label": "O",
+      "bbox": [
+        20,
+        66,
+        56,
+        74
+      ]
+    },
+    {
+      "text": "C3600",
+      "label": "INVOICE_NUMBER",
+      "bbox": [
+        60,
+        67,
+        90,
+        73
+      ]
+    },
+    {
+      "text": "12 Jun 2024",
+      "label": "DATE",
+      "bbox": [
+        333,
+        67,
+        399,
+        73
+      ]
+    },
+    {
+      "text": "Dabur",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        99,
+        50,
+        105
+      ]
+    },
+    {
+      "text": "Honey",
+      "label": "PRODUCT",
+      "bbox": [
+        54,
+        99,
+        84,
+        107
+      ]
+    },
+    {
+      "text": "500g",
+      "label": "PRODUCT",
+      "bbox": [
+        88,
+        99,
+        112,
+        107
+      ]
+    },
+    {
+      "text": "3",
+      "label": "QUANTITY",
+      "bbox": [
+        32,
+        115,
+        38,
+        121
+      ]
+    },
+    {
+      "text": "168",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        56,
+        115,
+        74,
+        121
+      ]
+    },
+    {
+      "text": "₹504.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        357,
+        115,
+        399,
+        121
+      ]
+    },
+    {
+      "text": "Pepsi",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        131,
+        50,
+        139
+      ]
+    },
+    {
+      "text": "2L",
+      "label": "PRODUCT",
+      "bbox": [
+        54,
+        131,
+        66,
+        137
+      ]
+    },
+    {
+      "text": "12",
+      "label": "QUANTITY",
+      "bbox": [
+        32,
+        147,
+        44,
+        153
+      ]
+    },
+    {
+      "text": "129.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        62,
+        147,
+        98,
+        153
+      ]
+    },
+    {
+      "text": "1554",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        375,
+        147,
+        399,
+        153
+      ]
+    },
+    {
+      "text": "Harpic",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        163,
+        56,
+        171
+      ]
+    },
+    {
+      "text": "Liquid",
+      "label": "PRODUCT",
+      "bbox": [
+        60,
+        163,
+        96,
+        171
+      ]
+    },
+    {
+      "text": "500ml",
+      "label": "PRODUCT",
+      "bbox": [
+        100,
+        163,
+        130,
+        169
+      ]
+    },
+    {
+      "text": "6",
+      "label": "QUANTITY",
+      "bbox": [
+        32,
+        179,
+        38,
+        185
+      ]
+    },
+    {
+      "text": "45.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        56,
+        179,
+        86,
+        185
+      ]
+    },
+    {
+      "text": "273.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        363,
+        179,
+        399,
+        185
+      ]
+    },
+    {
+      "text": "Clinic",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        195,
+        56,
+        201
+      ]
+    },
+    {
+      "text": "Plus",
+      "label": "PRODUCT",
+      "bbox": [
+        60,
+        195,
+        84,
+        201
+      ]
+    },
+    {
+      "text": "80ml",
+      "label": "PRODUCT",
+      "bbox": [
+        88,
+        195,
+        112,
+        201
+      ]
+    },
+    {
+      "text": "6",
+      "label": "QUANTITY",
+      "bbox": [
+        32,
+        211,
+        38,
+        217
+      ]
+    },
+    {
+      "text": "158.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        56,
+        211,
+        92,
+        217
+      ]
+    },
+    {
+      "text": "951.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        363,
+        211,
+        399,
+        217
+      ]
+    },
+    {
+      "text": "Tata",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        227,
+        44,
+        233
+      ]
+    },
+    {
+      "text": "Salt",
+      "label": "PRODUCT",
+      "bbox": [
+        48,
+        227,
+        72,
+        233
+      ]
+    },
+    {
+      "text": "1kg",
+      "label": "PRODUCT",
+      "bbox": [
+        76,
+        227,
+        94,
+        235
+      ]
+    },
+    {
+      "text": "24",
+      "label": "QUANTITY",
+      "bbox": [
+        32,
+        243,
+        44,
+        249
+      ]
+    },
+    {
+      "text": "299.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        62,
+        243,
+        98,
+        249
+      ]
+    },
+    {
+      "text": "7188.00",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        357,
+        243,
+        399,
+        249
+      ]
+    },
+    {
+      "text": "Everest",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        259,
+        62,
+        265
+      ]
+    },
+    {
+      "text": "Garam",
+      "label": "PRODUCT",
+      "bbox": [
+        66,
+        259,
+        96,
+        265
+      ]
+    },
+    {
+      "text": "Masala",
+      "label": "PRODUCT",
+      "bbox": [
+        100,
+        259,
+        136,
+        265
+      ]
+    },
+    {
+      "text": "100g",
+      "label": "PRODUCT",
+      "bbox": [
+        140,
+        259,
+        164,
+        267
+      ]
+    },
+    {
+      "text": "0.25",
+      "label": "QUANTITY",
+      "bbox": [
+        32,
+        275,
+        56,
+        281
+      ]
+    },
+    {
+      "text": "₹191.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        74,
+        275,
+        116,
+        281
+      ]
+    },
+    {
+      "text": "47.88",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        369,
+        275,
+        399,
+        281
+      ]
+    },
+    {
+      "text": "Ariel",
+      "label": "PRODUCT",
+      "bbox": [
+        20,
+        291,
+        50,
+        297
+      ]
+    },
+    {
+      "text": "Powder",
+      "label": "PRODUCT",
+      "bbox": [
+        54,
+        291,
+        90,
+        297
+      ]
+    },
+    {
+      "text": "1kg",
+      "label": "PRODUCT",
+      "bbox": [
+        94,
+        291,
+        112,
+        299
+      ]
+    },
+    {
+      "text": "1.5",
+      "label": "QUANTITY",
+      "bbox": [
+        32,
+        307,
+        50,
+        313
+      ]
+    },
+    {
+      "text": "51.50",
+      "label": "UNIT_PRICE",
+      "bbox": [
+        68,
+        307,
+        98,
+        313
+      ]
+    },
+    {
+      "text": "Rs. 77.25",
+      "label": "ITEM_TOTAL",
+      "bbox": [
+        345,
+        307,
+        399,
+        313
+      ]
+    },
+    {
+      "text": "Subtotal",
+      "label": "O",
+      "bbox": [
+        20,
+        339,
+        68,
+        345
+      ]
+    },
+    {
+      "text": "10595.13",
+      "label": "SUBTOTAL",
+      "bbox": [
+        351,
+        339,
+        399,
+        345
+      ]
+    },
+    {
+      "text": "TOTAL",
+      "label": "O",
+      "bbox": [
+        20,
+        371,
+        50,
+        377
+      ]
+    },
+    {
+      "text": "10595.13",
+      "label": "TOTAL",
+      "bbox": [
+        351,
+        371,
+        399,
+        377
+      ]
+    },
+    {
+      "text": "PAID",
+      "label": "O",
+      "bbox": [
+        20,
+        387,
+        44,
+        393
+      ]
+    },
+    {
+      "text": "10,595.13",
+      "label": "PAID",
+      "bbox": [
+        345,
+        387,
+        399,
+        395
+      ]
+    }
+  ]
+}
